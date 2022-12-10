@@ -1,0 +1,7 @@
+genes_ko,hex,color_name
+nf1 KO;pten KO;ink KO;atrx KO,#9632B8FF,purple
+nf1 KO;pten KO;ink KO;atrx wt,#357EBDFF,dk blue
+nf1 KO;pten wt;ink KO;atrx wt,#5CB85CFF,green
+nf1 KO;pten wt;ink wt;atrx wt,#EEA236FF,yellow
+nf1 wt;pten KO;ink KO;atrx KO,#D43F3AFF,red
+nf1 wt;pten KO;ink KO;atrx wt,#46B8DAFF,light blue
