@@ -1,0 +1,94 @@
+exclude,tumor_bool,tumor_qual,disposition_man,date_tumor_reported_man,tissue_collected,formalin_fixed,parafin_block_number_s,comments,mouse_num
+NA,NA,Partially paralyzed,Mouse stopped moving,43971,NA,Yes,HCI -20-22843-BR,NA_NA,22841
+NA,NA,"Diffiulty moving and walking, mishapen head","Mishapen head, could not move",43993,NA,Yes,HCI -20-22844-BR,NA_NA,22844
+NA,NA,"Difficulty moving, weirdly shaped head","Difficulty moving and breathing, mishapen head",43971,NA,Yes,HCI -20-22846-BR,NA_NA,22846
+NA,NA,"Respiratory Issues, looked sick","Respiratory Issues, looked sick",43993,NA,Yes,HCI -20-22847-BR,NA_NA,22847
+NA,NA,Respiratory Issues and paralyzed no domed head observed,Respiratory Issues and paralyzed,43993,NA,Yes,HCI -20-22921-BR,NA_NA,22921
+NA,NA,Brain and behavior was normal,Healthy,N/A,NA,Yes,NA,NA_NA,22922
+NA,1,brain looked normal,paralysis + large tumor in/over eye,43997,NA,Yes,HCI -20-22923-BR,NA_NA,22923
+NA,NA,Brain looked perfectly normal,Experimental end date,N/A,NA,Yes,NA,NA_NA,23269
+NA,NA,Brain looked relatively normal,Mouse was fully paralyzed,44011,NA,Yes,HCI -20-23270-BR,NA_NA,23270
+NA,NA,Indentation on top of head between lobes was filled with liquid,"Slightly disfigured face, swollen eyes (no tumor seen outside skull), and paralyzed",44033,NA,Yes,HCI -20-23271-BR,NA_NA,23271
+NA,NA,Slightly enlarged cranial nerves but brain looked normal,Completely paralyzed,43999,NA,Yes,HCI -20-23286-BR,NA_NA,23286
+NA,NA,Paralyzation and large growth coming out of head,"Very large domed head, disfigurement, growth over eye and paralyzation of back legs.",43986,NA,Yes,HCI -20-23288-BR,NA_NA,23288
+NA,NA,Animal was found paralyzed with inability to move any of its body from the front legs down.,Paralyzed,43993,NA,Yes,HCI -20-23289-BR,NA_NA,23289
+NA,NA,Slightly enlarged cranial nerves but brain looked normal,Completely paralyzed,43999,NA,Yes,HCI -20-23290-BR,NA_NA,23290
+NA,NA,Brain looked perfectly normal,Mouse was completely paralyzed,44068,NA,Yes,NA,NA_NA,23292
+NA,NA,"Bottom of brain was completely mush, normal tissue present and underneath brain grey/white mush slightly attached to brain","Difficulty breathing, looked sick, slightly mishapen head.",43998,NA,Yes,HCI -20-23293-BR,NA_NA,23293
+NA,1,Brain slightly smaller than would be expected but otherwise normal,3-4 Tumors on head larger than 2 cm Slight domed head noticed,43998,NA,Yes,NA,NA_NA,23295
+NA,NA,brain looked normal if a little weird shaped.,"complete paralysis, and extreme hunched back",43999,NA,Yes,HCI -20-23296-BR,NA_NA,23296
+NA,NA,Evrything appeared normal,TVA- Sacked as a control,N/A,NA,Yes,NA,NA_NA,23821
+NA,NA,"Completely paralyzed, unable to void properly, brain looked normal.",Completely paralyzed,44018,NA,Yes,HCI -20-23298-BR,NA_NA,23298
+NA,NA,Diffiulty moving and walking,"Mouse could not move hind legs or front of body, difficulty walking",43994,NA,Yes,HCI -20-23300-BR,No domed head was noted_NA,23300
+NA,NA,Brain and spinal cord looked normal. Cranial nerves on left posterior portion slightly enlarged.,Paralyzed and difficulty breathing.,44020,NA,Yes,HCI -20-23301-BR,NA_NA,23301
+NA,NA,Diffiulty moving and walking,Mouse had difficulty moving and breathing,43971,NA,Yes,HCI -20-23400-BR,NA_NA,23400
+2,NA,Brain looked perfectly normal,Prolapsed Uterus,N/A,NA,Yes,NA,NA_NA,23460
+NA,NA,Animal was found paralyzed with inability to move any of its body from the front legs down.  Difficulty breathing,Paralyzed,43993,NA,Yes,HCI -20-23461-BR,NA_NA,23461
+NA,NA,Brain looked gray and pale but otherwise normal.,"Lack of grooming, difficulty breathing, looked weak and sickly.  (noticed animal looked sickly)",6/4/2020,NA,Yes,HCI -20-23466-BR,NA_NA,23466
+NA,NA,hind legs were partially paralyzed,NA,NA,NA,Brain,NA,"One cranial nerve looked enlarged. Not quite big enough to try to also freeze and make a cell line from, and lost it when changing from formalin to EtOH._NA",25693
+NA,NA,Brain looked perfectly normal,Mouse was very sick difficulty breathing,44069,NA,Yes,NA,NA_NA,23468
+NA,NA,"Slightly enlarged cranial nerves but brain looked normal, mouse was paralyzed","paralyzed lower limbs , paralysis noted",7/15/2020,spinal cord,Yes,HCI -20-23469-BR,HCI-20-23469-SpCo_NA,23469
+NA,NA,Completely paralyzed,Completely paralyzed,44011,NA,Yes,HCI -20-23522-BR,NA_NA,23522
+NA,NA,paralyzed,Paralyzed,43993,NA,Yes,HCI -20-23523-BR,NA_NA,23523
+NA,NA,"Brain was soft but most likely from being dead a little while, everything appeared normal",Completely paralyzed? Animal was found dead but had weakness in legs beforehand,44050,NA,Yes,NA,NA_NA,23783
+NA,NA,"Mushy gray tissue underneath brain surrounding cranial nerves, brain softer than normal enlarged as well",Completely paralyzed Slight domed head noticed,44032,NA,Yes,NA,NA_NA,23786
+NA,NA,brain looked normal,Paralyzed,44039,NA,Yes,NA,NA_NA,23789
+NA,NA,brain looked normal,Healthy sacked for TVA status,N/A,NA,Yes,NA,NA_NA,23864
+1,NA,Brain looked perfectly normal,Experimental end date (Mistake in Cages tab about 30 days too early).,N/A,NA,Yes,NA,NA_NA,23865
+NA,NA,Brain looked perfectly normal,Completely paralyzed,44075,NA,Yes,NA,NA_NA,23964
+NA,NA,Brain looked perfectly normal,Completely paralyzed,44075,NA,Yes,NA,NA_NA,23969
+NA,NA,Brain looked perfectly normal,Completely paralyzed,44075,NA,Yes,NA,NA_NA,23971
+NA,1,Brain looked perfectly normal,Paralyzed with small tumor on back end of body Weakness in legs noticed,44088,Tumor on surrounding spine at base of tail observed. Tissue frozen and fixed,Yes,NA,NA_NA,23965
+NA,1,Necrotic tussie underneath brain,Sickly with tumor growing on head and large tumor groeing on hips/base of spine,44050,"head tumor, spine tumorVery large tumor encasing half of spine, all of the hips and at base of tail. Head tumor as well, and necrotic tissue underneath brain",Yes,NA,NA_NA,23967
+NA,NA,Brain looked perfectly normal,Mouse was fully paralyzed,44076,NA,Yes,NA,NA_NA,23968
+NA,NA,Brain looked perfectly normal,Completely paralyzed,44075,NA,Yes,NA,NA_NA,23964
+NA,NA,Brain looked perfectly normal,Completely paralyzed,44075,NA,Yes,NA,NA_NA,23969
+NA,NA,Brain looked perfectly normal,Completely paralyzed,44075,NA,Yes,NA,NA_NA,23971
+NA,NA,Brain looked perfectly normal,Completely paralyzed,44075,NA,Yes,NA,NA_NA,23964
+NA,NA,Brain looked perfectly normal,Completely paralyzed,44075,NA,Yes,NA,NA_NA,23969
+NA,NA,Brain looked perfectly normal,Completely paralyzed,44075,NA,Yes,NA,NA_NA,23971
+NA,1,"started looking lethargic, back became more arched, not moving around much and wanted to sack before it possibly dies on its own over the weekend",NA,44286,and cranial nerve tumor,Brain and cranial nerve tumor,NA,"Also started a cell line from the cranial nerve tumor, which looked like an enlarged mass not connected to the brain, but effecting both sides of the large cranial nerve that is under the optic nerve. Both sides were harvested as one, with a piece of both fixed. No sample was frozen._NA",25764
+NA,NA,hind legs were starting to become paralyzed,"hind legs starting to loose mobility, would have probably become paralyzed over the weekend",NA,NA,Brain,NA,NA_NA,26011
+NA,NA,"No, domed head noticed when still alive-swollen brain but found dead so hard to tell.","Foun dead, must have died th enight before.",44246,NA,full brain,HCI-21-25505,Brain was in good condition but hard to tell if swelling was present. Slight domed head noticed when animal was alive._NA,25505
+NA,1,Mouse behavior normal. Small tumor on left cranial nerve,Healthy,N/A,NA,Yes,NA,NA_NA,22924
+NA,1,"Uppon Necropsy massive tumor enveloping brain, face, and growing outside skull","Large domed head and disfigurement, difficulty moving back legs",43975,NA,Yes,HCI -20-23021-BR,NA_NA,23021
+NA,1,Large white mass underneath brain and enveloping cranial nerves. Tumor present outside skull on eye as well.,"Large tumor growing through eye, eye burst open.",43999,NA,Yes,HCI -20-23287-BR,NA_NA,23287
+NA,1,Blind and disfigured from tumors growing on head,"Effectively blind, tumors on face and head completely swelled eyes shut.",44011,NA,Yes,HCI -20-23291-BR,NA_NA,23291
+NA,1,"slight domed head with liquid, small necrotic tumor on cranial nerve.",Completely paralyzed,44039,NA,Yes,NA,NA_NA,23822
+NA,1,:arge white tumor underneath left parietal lobe,complete paralysis + very hunched back,43990,NA,Yes,HCI -20-23397-BR,NA_NA,23397
+NA,1,Paralyzed with small tumor growing on face. No apparent tumor on skull brain looked normal.,Paralyzed with small tumor growing on eye,43986,NA,Yes,HCI -20-23464-BR,NA_NA,23464
+NA,1,"Was paralyzed, had tumor growing outside the skull (small), and large white mass found underneath brain.",Paralyzed + disfiguremnt from ttumors on face,43994,NA,Yes,HCI -20-23470-BR,NA_NA,23470
+NA,1,Hollow left hemisphere maybe filled with liquid + tumor on right posterior cranial nerve,Complete paralysis Slight domed head noticed,43986,NA,Yes,NA,NA_NA,23527
+NA,1,"limited mobility noticed, later tumor noticed on back",NA,44270,and lower back tumor,Brain and tumor,NA,Found dead on a Monday. No conditions noticed on Friday. Could have died over weekend._NA,25695
+NA,1,"small tumor ontop of skull, brain looked normal","difficulty breathing, domed head, sick",44047,NA,Yes,NA,NA_NA,23528
+NA,0,Brain looked normal no evidence of tumor on spine either,Mouse was paralyzed,44088,NA,Yes,NA,NA_NA,23784
+NA,1,Small necrotic tumor underneath brain surrounding left cranial nerves,Completely paralyzed,44042,NA,Yes,NA,NA_NA,23787
+NA,1,small cranial nerve tumor,difficulty breathing,44048,NA,Yes,NA,NA_NA,23792
+NA,1,"brain looks normal, head tumor is not attached to skin or brain",Large tumor on front right of head,44020,"head tumor, spinal cord (not intact)",Yes,HCI -20-23824-BR,"HCI-20-23824-SpCo,HCI-20-23824-HeTu_NA",23824
+NA,1,Medium sized necrotic tumor underneath brain surrounding cranial nerves and brain.,Weak and sickly with domed head,44039,NA,Yes,NA,NA_NA,23866
+NA,2,"Potentially. Nothing visible, but symptoms consistent with glioma","Sqiunted eyes,Lack of mobility,general malaise",NA,NA,"Brain, Lungs, Liver",NA,"Swollen brain, watery and soft. Lungs and liver looked healthy.,No primary tumor visible_NA",28528
+NA,2,Maybe,paralysis,44225,NA,full brain,HCI-21-25766,Brain was completely hollow and filled with liquid. Mouse sacked due to paralysis_NA,25766
+NA,1,Y - domed head,"Paralyzed left side,Trouble breathing,Dome head",NA,NA,"Brain, Lungs, Liver",NA,"Probable intracranial tumor; sacked for left side paralysis and trouble breathing. Frontal lobe was caved in (from tumor)? Unable to isolate tumor separately so took entire brain, as well as lungs, liver._NA",25825
+NA,1,"Glioma, tumor was so large that there was a change of shape to the skull, tumor was attached to the optic nerve","No visible head tumor, bulging eyeball,Hunched posture",NA,NA,"Brain, Lungs, Liver",NA,"Swollen brain, blood in the skull prior to skull incision, large tumor under brain attached to optic nerve_NA",28526
+NA,1,"Glioma, tumor was so large that there was a change of shape to the skull, and paralysis present","Visible head tumor,Back leg paralysis",NA,NA,"Brain, Lungs, Liver",NA,"Swollen brain, blood in the skull prior to skull incision_NA",28529
+NA,1,"Glioma, no tumor visible but paralysis present","No visible tumor,Back leg paralysis",NA,NA,"Brain, Lungs, Liver",NA,"Swollen brain, blood in the skull prior to skull incision_NA",28530
+NA,1,"Glioma, no tumor visible but paralysis present","No visible tumor,Back leg paralysis,Stopped grooming, looked unwell",NA,NA,"Brain, Lungs, Liver",NA,"Swollen brain, blood in the skull prior to skull incision,Brain was incredibly soft, difficult to remove,anatomy looked otherwise healthy_NA",28531
+NA,1,Glioma,No visible tumor,NA,NA,"Brain, Lungs, Liver",NA,No tumor was noted_NA,28532
+NA,1,"Yes,  large white mass under brain. Rick thinks enlarged pituitary","protruding rectum, difficulty walking",43997,NA,Yes,HCI-22925-BR,NA_NA,22925
+NA,1,Very large tumor growing out of bone on skull at location of injection. Enlarged cranial nerve on posterior right side of head.,Very large tumor growing outside of skull + complete paralysis,44033,NA,Yes,HCI -20-23294-BR,NA_NA,23294
+NA,1,Brain looked small with part of skull caved in under tumor. Extremely large tumor mass found surroundiong entire skull.,"Mouse looked sick, blood coming out of ears and extrememly large tumor growth on skull.",43994,NA,Yes,HCI -20-23463-BR,NA_NA,23463
+NA,1,Brain looked small with part of skull caved in under tumor. Extremely large tumor mass found surroundiong entire skull.,"Mouse looked sick, blood coming out of ears and extrememly large tumor growth on skull.",43994,NA,Yes,HCI -20-23465-BR,NA_NA,23465
+NA,1,Very large tumor underneath brain emanating from left optic cranial nerve,"Domed head, weak and sickly, difficulty breathing",44020,NA,Yes,NA,NA_NA,23467
+NA,1,Tumor behind right eye. Looks like a tumor of the occular nerve. Brain looks normal otherwise.,Right eye is enlarged and could rupture,44020,"eye, spinal cord (not intact)",Yes,HCI -20-23524-BR,"HCI-20-23524-SpCo,HCI-20-23524-Ey_NA",23524
+NA,1,Tumor present on side of body weird fatty skin growth. Brain looked normal,Bloody cutaneous tumro growing on side,44063,"Tumor and brain, tumor tissue frozen, cell line started, and formalin fixed",Yes,NA,NA_NA,23525
+NA,1,"Completely paralyzed, and large tumor covering entired skull. Brain underneath skull appeared normal",Paralyzed with large tumor growing on skull,44011,NA,Yes,HCI -20-23526-BR,NA_NA,23526
+NA,1,"Large tumor growing on skull, brain appeared normaln if slightly smaller.",domed head + difficulty breathing,44039,NA,Yes,NA,NA_NA,23790
+NA,1,"tumor underneath brain surrounding cranial nerves, very soft necrotic tissue surrounding brain","domed head, weak/paralyzed body, difficulty breathing",44039,NA,Yes,NA,NA_NA,23791
+NA,1,"Very large brain which accounted for domed head, large tumor underneath brain surrounding left frontal cranial nerve.",slight domed head and complete paralysis.,44033,NA,Yes,HCI -20-23823-BR,NA_NA,23823
+NA,1,Tumor surrounding left posterior cranial nerve,"weak/paralyzed body, difficulty breathing",44035,NA,Yes,NA,NA_NA,23826
+NA,1,Mouse had a large tumor growing off side of body. Appeared to have originated from boony rib tissue?,"Paralyzed, slightly lopsided face",44035,NA,Yes,NA,NA_NA,23828
+NA,1,"Large tumor growing underneath brain, and small growth under skin on shoulder.",Mouse was very sickly barely moving,44089,tumor underneath brain as well as shoulder tumor.  tumor and shoulder tumor used to create cell lines. Frozen sample of nerve tumor as well,Yes,NA,NA_NA,23966
+NA,1,Very large tumor growing over the skull but brain looked normal,Tumor on head was very large and mouse was sickly,44040,NA,Yes,NA,NA_NA,23970
+NA,1,large head tumor,NA,44270,and head tumor,Brain and head tumor,NA,"Mouse was healthy in all aspects except for head tumor that was reaching 2cm. Brain and tumor were FFPE, part of tumor was also frozen and used to grow a cell line from._NA",26009
+NA,1,tumor on head above left eye,NA,44270,and head tumor,Brain and head tumor,NA,"Head tumor did not appear to grow out from eye or ear, was separate from the skin, attached to the skull, no vasculature except on the periphery. Attached to the brain, but not by much is a small ball right at the front of it. That ball was preserved as well, but may or may not make it into the slides. Mouse was healthy in all aspects except for head tumor that was reaching 2cm. Brain and tumor were FFPE, part of tumor was also frozen and used to grow a cell line from._NA",26022
+NA,1,looked like a domed head at first that manifested as a large head tumor,NA,44273,and head tumor,Brain and head tumor,NA,"Mouse was healthy in all aspects except for head tumor that was reaching 2cm. Brain and tumor were FFPE, part of tumor was also frozen and used to grow a cell line from._NA",26037

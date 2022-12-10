@@ -1,0 +1,316 @@
+mouse_num,index,info,atrx,n_tva,ink4a_arf_lox,strain,pten_flox,tyr_cre,h11lsl_cas9,ink4a_arf,cic,pten,x,tg,flox_flox,flox_flox_2,flox_flox_3,cas9,ink,mouse_num2
+22841,6525,num,+/+,+/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22841-00
+22843,6527,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22843-03
+22844,6528,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22844-10
+22845,6529,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22845-30
+22846,6530,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22846-11
+22847,6531,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22847-31
+22921,6628,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22921-00 (br)
+22922,6629,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22922-00 (wh)
+22923,6630,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22923-01 (wh)
+22924,6631,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22924-03 (wh)
+22925,6632,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22925-00 (wh)
+22926,6633,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22926-01 (wh)
+23021,6634,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23021-00 (br)
+23269,7040,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23269-00 (wh)
+23270,7041,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23270-00 (br)
+23271,7042,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23271-00 (wh)
+23286,7062,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23286-00
+23287,7063,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23287-01
+23288,7064,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23288-03
+23289,7065,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23289-10
+23290,7066,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23290-30
+23291,7067,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23291-11
+23292,7068,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23292-33
+23293,7069,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23293-01
+23294,7071,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23294-00 (wh)
+23295,7072,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23295-00 (br)
+23296,7073,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23296-01
+23297,7074,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23297-03
+23298,7075,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23298-00 (wh)
+23299,7076,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23299-01
+23300,7077,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23300-03
+23301,7078,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23301-10
+23301,8206,num,Flox/Flox,Tg/+,Flox/Flox,Nestin-TVA; ATRX flox/flox; Ink4a f/f; Pten f/f,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23301-01* bl
+23397,7188,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23397-00
+23399,7190,num,+/+,+/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23399-00
+23400,7191,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23400-01
+23401,7192,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23401-03
+23460,7265,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23460-00
+23461,7266,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23461-01
+23463,7268,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23463-00
+23464,7269,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23464-01
+23465,7270,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23465-03
+23466,7271,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23466-10
+23467,7273,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23467-00 (wh)
+23468,7274,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23468-00 (br)
+23469,7275,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23469-00 (wh)
+23470,7276,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23470-00 (br)
+23522,7341,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23522-00 wh
+23523,7342,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23523-01 wh
+23524,7343,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23524-00 br
+23525,7344,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23525-01 br
+23526,7345,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23526-00 wh
+23527,7346,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23527-01 wh
+23528,7347,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23528-03 wh
+23783,7660,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23783-03
+23784,7661,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23784-10
+23785,7662,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23785-00
+23786,7663,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23786-01
+23787,7664,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23787-03
+23788,7666,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23788-00
+23789,7667,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23789-01
+23790,7668,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23790-03
+23791,7669,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23791-10
+23792,7670,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23792-10
+23821,7703,num,+/+,+/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23821-00
+23822,7704,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23822-01
+23823,7705,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23823-03
+23824,7706,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23824-00
+23826,7708,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23826-03
+23828,7710,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23828-30
+23864,7748,num,+/+,+/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23864-00
+23865,7749,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23865-00
+23866,7750,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23866-01
+23867,7751,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/+; Ink4a/Arff/+;ATRX-f/+;H11LSL-Cas9  f/+,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23867-03
+23964,7875,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23964-00
+23965,7876,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23965-01
+23966,7877,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23966-03
+23967,7878,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23967-10
+23968,7879,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23968-00
+23969,7880,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23969-01
+23970,7881,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23970-03
+23971,7882,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23971-10
+24801,8905,num,NA,NA,NA,pup 1,NA,NA,NA,NA,NA,NA,+/+,Tg/+,Flox/Flox,Flox/Flox,Flox/Flox,NA,NA,24801-00
+24802,8906,num,NA,NA,NA,pup 1,NA,NA,NA,NA,NA,NA,+/+,Tg/+,Flox/Flox,Flox/Flox,Flox/Flox,NA,NA,24802-01
+24803,8907,num,NA,NA,NA,pup 1,NA,NA,NA,NA,NA,NA,+/+,Tg/+,Flox/Flox,Flox/Flox,Flox/Flox,NA,NA,24803-03
+24804,8908,num,NA,NA,NA,pup 1,NA,NA,NA,NA,NA,NA,+/+,+/+,Flox/Flox,Flox/Flox,Flox/Flox,NA,NA,24804-10
+24805,8909,num,NA,NA,NA,pup 1,NA,NA,NA,NA,NA,NA,+/+,Tg/+,Flox/Flox,Flox/Flox,Flox/Flox,NA,NA,24805-00
+24806,8910,num,NA,NA,NA,pup 1,NA,NA,NA,NA,NA,NA,+/+,Tg/+,Flox/Flox,Flox/Flox,Flox/Flox,NA,NA,24806-01
+24807,8911,num,NA,NA,NA,pup 1,NA,NA,NA,NA,NA,NA,+/+,Tg/+,Flox/Flox,Flox/Flox,Flox/Flox,NA,NA,24807-03
+24986,9120,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24986-00
+24987,9121,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24987-01
+24988,9122,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24988-03
+24989,9123,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24989-10
+25025,9167,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25025-00
+25026,9168,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25026-01
+25027,9169,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25027-03
+25028,9170,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25028-10
+25029,9171,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25029-00
+25031,9173,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25031-03
+25033,9175,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25033-30
+25034,9176,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25034-11
+25080,9235,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25080-00
+25081,9236,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25081-01
+25082,9237,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25082-03
+25083,9238,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25083-00
+25084,9239,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25084-01
+25085,9240,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25085-03
+25086,9241,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25086-10
+25087,9243,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25087-00
+25088,9244,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25088-01
+25089,9245,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25089-03
+25090,9246,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25090-00
+25091,9247,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25091-01
+25092,9248,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25092-03
+25214,9391,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25214-00
+25215,9392,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25215-01
+25216,9393,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25216-03
+25217,9394,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25217-10
+25218,9395,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25218-00
+25219,9396,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25219-01
+25220,9397,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25220-03
+25221,9398,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25221-10
+25238,9420,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25238-01
+25239,9421,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25239-03
+25240,9422,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25240-00
+25241,9423,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25241-01
+25242,9424,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25242-03
+25258,9444,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25258-10
+25259,9445,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25259-11
+25260,9446,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25260-00
+25261,9447,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25261-01
+25262,9448,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25262-03
+25263,9449,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25263-10
+25264,9450,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25264-30
+25266,9453,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25266-01
+25267,9454,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25267-03
+25268,9455,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25268-10
+25269,9456,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25269-30
+25270,9457,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25270-11
+25271,9458,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25271-00
+25272,9459,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25272-01
+25274,9461,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25274-10
+25304,9498,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25304-00
+25305,9499,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25305-01
+25306,9500,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25306-00
+25307,9501,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25307-01
+25308,9502,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25308-03
+25309,9503,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25309-10
+25310,9504,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25310-30
+25327,9524,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25327-00
+25328,9525,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25328-01
+25329,9526,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25329-00
+25330,9527,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25330-01
+25331,9528,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25331-03
+25332,9529,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25332-10
+25499,9724,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25499-00
+25500,9725,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25500-01
+25501,9726,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25501-03
+25502,9727,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25502-10
+25503,9728,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25503-00
+25504,9729,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25504-01
+25505,9730,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25505-03
+25548,9782,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25548-00
+25549,9783,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25549-01
+25550,9784,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25550-00
+25595,9842,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25595-00
+25596,9843,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25596-01
+25597,9844,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25597-00
+25598,9845,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25598-01
+25687,9954,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25687-00
+25688,9955,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25688-01
+25689,9956,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25689-03
+25690,9957,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25690-00
+25691,9958,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25691-01
+25692,9959,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25692-03
+25693,9960,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25693-10
+25694,9961,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25694-30
+25695,9962,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25695-11
+25741,10019,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25741-00
+25742,10020,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25742-01
+25743,10021,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25743-00
+25744,10022,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25744-01
+25745,10023,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25745-03
+25746,10024,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25746-10
+25747,10025,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25747-30
+25748,10026,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25748-11
+25763,10044,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25763-03
+25764,10045,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25764-30
+25765,10046,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25765-01
+25766,10047,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25766-03
+25767,10048,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25767-10
+25782,10068,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25782-00
+25783,10069,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25783-01
+25784,10070,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25784-00
+25785,10071,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25785-01
+25786,10072,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25786-11
+25787,10073,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25787-10
+25788,10074,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25788-03
+26007,10335,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26007-00
+26008,10336,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26008-01
+26009,10337,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26009-03
+26010,10338,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26010-10
+26011,10339,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26011-00
+26012,10340,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26012-01
+26013,10341,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26013-03
+26014,10342,num,+/+,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRX+/+;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26014-10
+26022,10352,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26022-00 (small)
+26023,10353,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26023-00
+26024,10354,num,Flox/Flox,Tg/+,Flox/Flox,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26024-01
+26037,10370,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26037-00
+26038,10371,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26038-01
+26039,10372,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26039-03
+26040,10373,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26040-00
+26061,10398,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26061-00
+26062,10399,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26062-01
+26063,10400,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26063-03
+26064,10401,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26064-10
+26065,10402,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26065-30
+26066,10403,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26066-00
+26067,10404,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26067-01
+26068,10405,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26068-03
+26069,10406,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26069-10
+26137,10488,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26137-00
+26138,10489,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26138-01
+26139,10490,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26139-03
+26140,10491,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26140-10
+26141,10492,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26141-00
+26142,10493,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26142-01
+26143,10494,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26143-03
+26274,10663,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26274-00
+26275,10664,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26275-01
+26276,10665,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26276-03
+26277,10666,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26277-10
+26278,10667,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26278-30
+26279,10668,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26279-11
+26280,10669,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26280-00
+26281,10670,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26281-01
+26282,10671,num,+/+,Tg/+,Flox/Flox,N-TVA;Pten f/f; Ink4a/Arff/f;ATRX-+/+;H11LSL-Cas9  f/f,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26282-03
+26305,10698,num,Flox/Flox,Tg/+,NA,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,NA,NA,NA,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,NA,26305-00
+26306,10699,num,Flox/Flox,Tg/+,NA,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,NA,NA,NA,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,NA,26306-00
+26307,10700,num,Flox/Flox,Tg/+,NA,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,NA,NA,NA,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,NA,26307-01
+26308,10701,num,Flox/Flox,Tg/+,NA,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,NA,NA,NA,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,NA,26308-03
+26309,10702,num,Flox/Flox,Tg/+,NA,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,NA,NA,NA,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,NA,26309-10
+26310,10703,num,Flox/Flox,Tg/+,NA,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,NA,NA,NA,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,NA,26310-30
+26311,10704,num,Flox/Flox,Tg/+,NA,N-TVA;Ptenf/f;ATRXf/f;Cas9f/f;Ink4af/f,NA,NA,NA,Flox/Flox,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,NA,26311-11
+28200,13249,num,+/+,Tg/+,NA,N-TVA::Ptenf/f;Atrx+/+;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28200-00
+28201,13250,num,+/+,Tg/+,NA,N-TVA::Ptenf/f;Atrx+/+;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28201-01
+28202,13251,num,+/+,Tg/+,NA,N-TVA::Ptenf/f;Atrx+/+;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28202-10
+28203,13252,num,+/+,Tg/+,NA,N-TVA::Ptenf/f;Atrx+/+;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28203-11
+28204,13253,num,+/+,Tg/+,NA,N-TVA::Ptenf/f;Atrx+/+;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28204-00
+28205,13254,num,+/+,Tg/+,NA,N-TVA::Ptenf/f;Atrx+/+;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28205-01
+28206,13255,num,+/+,Tg/+,NA,N-TVA::Ptenf/f;Atrx+/+;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28206-03
+28207,13256,num,+/+,Tg/+,NA,N-TVA::Ptenf/f;Atrx+/+;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28207-10
+28208,13257,num,+/+,Tg/+,NA,N-TVA::Ptenf/f;Atrx+/+;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28208-11
+28525,13716,num,Flox/Flox,Tg/+,NA,N-TVA::Ptenf/f;Atrxf/f;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28525-00
+28526,13717,num,Flox/Flox,Tg/+,NA,N-TVA::Ptenf/f;Atrxf/f;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28526-01
+28527,13718,num,Flox/Flox,Tg/+,NA,N-TVA::Ptenf/f;Atrxf/f;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28527-03
+28528,13719,num,Flox/Flox,Tg/+,NA,N-TVA::Ptenf/f;Atrxf/f;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28528-10
+28529,13720,num,Flox/Flox,Tg/+,NA,N-TVA::Ptenf/f;Atrxf/f;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28529-11
+28530,13721,num,Flox/Flox,Tg/+,NA,N-TVA::Ptenf/f;Atrxf/f;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28530-00
+28531,13722,num,Flox/Flox,Tg/+,NA,N-TVA::Ptenf/f;Atrxf/f;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28531-01
+28532,13723,num,Flox/Flox,Tg/+,NA,N-TVA::Ptenf/f;Atrxf/f;Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,28532-03
+28708,13973,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,Tg/+,NA,NA,+/+,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,28708-00
+28709,13974,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,Tg/+,NA,NA,+/+,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,28709-00
+28710,13975,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,Tg/+,NA,NA,+/+,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,28710-01
+28780,14095,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,Tg/+,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,28780-00
+28781,14096,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,Tg/+,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,28781-00
+28782,14097,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,Tg/+,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,28782-01
+28783,14098,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,Tg/+,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,28783-03
+28784,14099,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,Flox/Flox,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,28784-10
+29161,14638,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,+/+,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,29161-00
+29162,14639,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,+/+,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,29162-01
+29163,14640,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,+/+,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,29163-00
+29163,14642,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,+/+,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,29163-10
+29164,14641,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,+/+,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,29164-01
+29165,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29166,14643,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,+/+,NA,NA,NA,NA,NA,NA,Flox/Flox,+/+,29166-11
+29385,14977,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29385-00
+29386,14978,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29386-01
+29387,14979,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29387-00
+29388,14980,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29388-01
+29389,14981,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29389-10
+29390,14982,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29390-11
+29397,14991,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,NA,29397-00
+29398,14992,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,NA,29398-01
+29399,14993,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,NA,29399-03
+29400,14994,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,NA,29400-10
+29401,14995,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,NA,29401-30
+29403,14997,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,NA,29403-00
+29404,14998,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,NA,29404-01
+29405,14999,num,NA,Tg/+,NA,N-TVA::Cas9f/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,NA,29405-10
+29406,15001,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29406-00
+29407,15002,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29407-00
+29408,15003,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29408-01
+29409,15004,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/Tg,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29409-10
+29410,15005,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/Tg,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29410-11
+29818,15628,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29818-00
+29819,15629,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29819-00
+29820,15630,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29820-01
+29821,15631,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29821-03
+29822,15632,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29822-10
+29824,15655,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f,NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,29824-00
+30212,16204,num,NA,NA,NA,injected,NA,NA,NA,NA,NA,NA,NA,Tg/+,Flox/Flox,Flox/Flox,NA,NA,NA,30212-00
+30213,16205,num,NA,NA,NA,injected,NA,NA,NA,NA,NA,NA,NA,Tg/+,Flox/Flox,Flox/Flox,NA,NA,NA,30213-00
+30214,16206,num,NA,NA,NA,injected,NA,NA,NA,NA,NA,NA,NA,Tg/+,Flox/Flox,Flox/Flox,NA,NA,NA,30214-01
+30215,16207,num,NA,NA,NA,injected,NA,NA,NA,NA,NA,NA,NA,Tg/+,Flox/Flox,Flox/Flox,NA,NA,NA,30215-03
+30216,16208,num,NA,NA,NA,injected,NA,NA,NA,NA,NA,NA,NA,Tg/+,Flox/Flox,Flox/Flox,NA,NA,NA,30216-10
+30217,16209,num,NA,NA,NA,injected,NA,NA,NA,NA,NA,NA,NA,Tg/+,Flox/Flox,Flox/Flox,NA,NA,NA,30217-11
+30218,16210,num,NA,NA,NA,injected,NA,NA,NA,NA,NA,NA,NA,Tg/+,Flox/Flox,Flox/Flox,NA,NA,NA,30218-30
+30232,16239,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f;Tyr-Cre(mix),NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,30232-00
+30233,16240,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f;Tyr-Cre(mix),NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,30233-01
+30234,16241,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f;Tyr-Cre(mix),NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,30234-00
+30235,16242,num,NA,probably Tg/+,NA,N-TVA::Cas9f/f;Inkf/f;Tyr-Cre(mix),NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,30235-01
+30236,16243,num,NA,Tg/+,NA,N-TVA::Cas9f/f;Inkf/f;Tyr-Cre(mix),NA,Tg/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,30236-10
+30237,16244,num,NA,prboably Tg/+,NA,N-TVA::Cas9f/f;Inkf/f;Tyr-Cre(mix),NA,+/+,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flox/Flox,Flox/Flox,30237-11
