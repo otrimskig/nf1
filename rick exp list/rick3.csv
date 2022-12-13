@@ -1,0 +1,36 @@
+Need,exp,description
+FALSE,RH001,Creation and Validation of RCAN-U6-FUBP1 sgRNA Vectors (complete)
+FALSE,RH002,Validation of new genotyping protocol for CIC (may need to return to for further improvement)
+FALSE,RH003,Sequencing of Diana’s cells for mutant IDH1 (part of Diana’s R01 experiment)
+FALSE,RH004,Creation and Validation of RCAS-PIK3CAH1047R (Ultimately not used since it is not tagged)
+FALSE,RH005,Primary astrocyte culture in soft agar +/- mutant p53 (originally Diana’s experiment)
+FALSE,RH006,Transfection of DF-1 with RCAN-U6-FUBP1 sgRNA (intermediate step between RH001 and RH009).
+FALSE,RH007,Ab test for FUBP1 (complete)
+FALSE,RH008,Repeat of RH005 with newly harvested astrocytes (complete)
+FALSE,RH009,In Vitro Validation of RCAN-U6-FUBP1 sgRNA (including transformation with RCAS-Cre) (complete)
+FALSE,RH010,"In Vivo tumorigenicity OligoNation (genotype group C, sans FUBP1 sgRNA and mutant PIK3CA) (complete)"
+FALSE,RH011,"Creation and Validation of RCAS-PIK3CAH1047R-3XFLAG with Gen’s entry vector (failed, will make it from purchased entry vector)"
+FALSE,RH012,Osama Collaboration: continuation of what Diana was working on
+TRUE,RH013,"In Vitro tumorigenicity OligoNation (genotype group D, just immortalization with RCAS-Cre) (complete)"
+FALSE,RH014,Infection of concentrated vs Not concentrated virus
+TRUE,RH015,"In Vitro tumorigenicity OligoNation (genotype group B, just infection with RCAS-Cre) (complete)"
+FALSE,RH016,In Vitro Tumorigenicity: Infection with RCAS-IDH1R132H-HA (complete)
+TRUE,RH017,Creation of Glioma cell line with purple mouse astrocytes (repeated with RH026)
+FALSE,RH018,In Vivo Tumorigenicity of OligoNation D sans FUBP1 (complete)
+FALSE,RH019,"In Vitro tumorigenicity of OligoNation A, just Cre infection (complete)"
+TRUE,RH020,In Vivo NF1 Glioma Project
+FALSE,RH021,Homology Directed Repair method to CRISPR out FUBP1 (complete)
+FALSE,RH022,In vitro infection of OligoNation C with PIKC3A and IDH1 (complete)
+TRUE,RH023,Use genomic DNA of cell lines to9 confirm Pten and ATRX loss (complete)
+FALSE,RH024,Ultimate WB of Oligonation cell lines +Cre (complete)
+FALSE,RH025,In vivo tumorigenicity of OligoNation D +Cre+IDH1+Ex15 (complete)
+TRUE,RH026,New attempt at making glioma cell line with purple mice like with RH017 (complete)
+FALSE,RH027,Regular CRISPR of OligoNation D +Cre+IDH1+Ex15 (complete)
+FALSE,RH028,Validation of new DF-1 IDH1 mutant (complete)
+FALSE,RH029,Testing out new primers for Tyr-Cre (complete)
+TRUE,RH030,Testing out purple cell line with soft agar assay (complete)
+FALSE,RH031,Last attempt at testing 3XflagPIK3CA mutant virus (complete)
+TRUE,RH032,In Vivo NF1 Melanoma Project
+TRUE,RH033,Soft agar assay of in vitro transformed NF1 Astrocytes
+TRUE,RH034,2D Growth assay in vitro transformed NF1 astrocytes (complete)
+TRUE,RH035,LR reaction to make RCAS-Cre-U6 (better control than RCAS-Cre for CRISPR)
