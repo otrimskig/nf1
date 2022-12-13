@@ -1,0 +1,14 @@
+,mouse_num,tumor_location,percent,tumor_type,tumor
+1,26012,glioma,16.77,glioma,
+2,26014,spinal_cord,30.46,gliosarcoma,
+3,26037,head,27.67,gliosarcoma,
+4,26274,spinal_cord,54.22,gliosarcoma,T1
+5,26276,spinal_cord,10.04,neuroepithelial,T1
+6,26279,head,29.19,gliosarcoma,
+7,26281,nerve,73.74,neuroepithelial,T1
+8,28200,nerve,43.3,neuroepithelial,T1
+9,28202,nerve,38.06,neuroepithelial,T1
+10,28203,head,44.17,gliosarcoma,
+11,28204,pre_tumorigenic,13.83,pre_tumorigenic,B
+12,28205,pre_tumorigenic,12.58,pre_tumorigenic,
+13,28208,head,38.33,gliosarcoma,T1
