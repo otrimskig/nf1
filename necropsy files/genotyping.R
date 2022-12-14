@@ -155,6 +155,8 @@ all_genotypes%>%
   select(-c(cage_number:paternal_id))%>%
   rename(mouse_num = hci)%>%
   select(-c(death_date:last_col()))%>%
+  
+  
   mutate(type = if_else(grepl("^[0-9]{5}", mouse_num), "num",
                         if_else(nchar(mouse_num)<2, "empty",
                                 "info")))%>%

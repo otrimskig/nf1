@@ -4,7 +4,7 @@ library(janitor)
 library(stringr)
 library(lubridate)
 
-
+read_csv("../mouse cohorts/compiled_cohorts3.csv")->full_cohort_info
 
 read_csv("colony_necropsy4.csv")->colony_necropsy4
 colony_necropsy4%>%
@@ -45,7 +45,7 @@ colony_necropsy4%>%
 #now sorting for mice in this dataset that are in my colony of interest.
 #first, getting a list of unique mouse numbers
 #from most current cohort dataset.
-read_csv("../mouse cohorts/compiled_cohorts3.csv")%>%
+full_cohort_info%>%
   select(mouse_num)%>%
   group_by(mouse_num)%>%
   slice(1)%>%
@@ -99,9 +99,48 @@ colony_necropsy4%>%
   #remove outdated columns.
   select(-c(tissue_br:tissue_liver))%>%
   
+  
+  #remove any all NAs columns. 
   select(where(function(x) any(!is.na(x))))%>%
   
+  #remove unnecessary columns
+  select(-dox_tx, -zinc_fixed, -injection_route, -slide_number_s)%>%
+  
+  #these are inconsistent. Genotypes will need to be revisited using other datasets.
+  select(-genotype, -strain)%>%
+  #unnecessary or inconsistent. 
+  select(-sex, -h_e, -tissue_collected)%>%
+  
+  #convenient rename.
+  rename(parafin_block = parafin_block_number_s,
+         nec_by = initials
+         
+         )->colony_necropsy4.2
+  
+ colony_necropsy4.2%>%
+   view()
+
+  ##
+  colony_necropsy4.2%>%
+    left_join(full_cohort_info%>%
+                select(mouse_num,
+                       dob, 
+                       
+                       
+                       death_date),
+              by = "mouse_num")%>%
+    distinct()%>%
+    # count(mouse_num)%>%
+    # arrange(desc(n))%>%
+    # view()
+    # 
+    # select(mouse_num, nec_date, sac_date, death_date)%>%
+    # filter(sac_date!=death_date)%>%
+    
+    
+    view()
   
   
-  
+  relocate(mouse_num, dob)%>%
+  filter(nec_date!=sac_date)%>%
   view()
