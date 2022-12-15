@@ -71,6 +71,10 @@ colony_genotypes%>%
   unite("ntva", contains("n_tva"), na.rm = TRUE)%>%
   
   
+  
+  view()
+  
+  
   saveRDS("colony_genos_clean.rds")
 
 
