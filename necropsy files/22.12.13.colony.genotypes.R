@@ -72,8 +72,44 @@ colony_genotypes%>%
   
   
   
-  view()
+  #change all blank cells and NAs to "pwt" - presumed wild types.
+  mutate_all(function(x)gsub("^$", "pwt", x))%>%
+  mutate_all(function(x)ifelse(is.na(x), "pwt", x))%>%
   
+  
+  #checking for internal consistencies in genotype formatting.
+  
+  #pten checked.
+  #ntva edits.
+  mutate(ntva = gsub("prboably", "likely", ntva))%>%
+  mutate(ntva = gsub("probably", "likely", ntva))%>%
+  #ink4a checked.
+  #atrx checked.
+  #h11cas9 checked.
+  #cic checked.
+  #tyr_cre checked.
+  #dtva rename.
+  rename(dtva = d_tva)%>%
+  #dtva checked.
+  
+  
+  mutate_all(function(x)gsub("^Flox/Flox$", "f/f", x))%>%
+  
+  #everything to lowercase; looks a bit cleaner.
+  mutate_all(.fun= tolower)%>%
+  
+  
+  #strain column doesn't always match up with genotype. 
+  #is actually unnecessary and at this point, confusing.
+  #keep in the saved version, but will delete for downstream re-integrations.
+  #will delete and re-make a better version when combining with all cohort data. 
+  relocate(ntva, pten, ink4a, atrx, h11cas9, tyr_cre, cic, .after = "strain")%>%
+  
+  #renaming the strain variable to avoid confusion.
+  #cage_strain is the name of the strain of the cage, not necessarily the 
+  #genotype of the actual mouse, per se. This makes the info
+  #a bit clearer I think. 
+  rename(cage_strain = strain)%>%
   
   saveRDS("colony_genos_clean.rds")
 
