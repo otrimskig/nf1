@@ -1,0 +1,218 @@
+---
+title: "USEFUL FUNCTIONS"
+output:
+  rmdformats::downcute:
+    downcute_theme: "chaos"
+---
+
+```{r include=FALSE}
+#above makes this code chunk not show up in output document, but RUNS the code below. 
+#below sets to print all other code blocks, but not run (evaluate/eval) any of them. 
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+hit control + shift + C to comment-out entire highlighted section of code (and un-comment it)
+
+# data import/export
+
+standard csv read-in. Automatically imports at tibble.
+
+```{r}
+read_csv("filename.csv")%>%
+  select(-1)
+```
+
+standard csv write with no rownames.
+
+```{r}
+write_csv("filename.csv")
+```
+
+
+
+Save R objects that take a long time to read/write to other file types,
+Or objects that don't work conveniently for CSV files. 
+```{r}
+saveRDS(my_precious, here("results", "my_precious.rds"))
+my_precious <- readRDS(here("results", "my_precious.rds"))
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# df manipulation
+
+move row to column names, uses janitor package. takes number for row number.
+
+clean_names, also from janitor. makes titles R-friendly.
+
+```{r}
+df%>%
+  row_to_names(1)%>%clean_names()
+```
+
+
+remove column that is ALL NAs. 
+```{r}
+ select(where(function(x) any(!is.na(x))))
+```
+
+
+
+
+
+1 way to get dates from dates.
+
+```{r}
+mutate(col = as.Date(col, format = "%m/%d/%Y"))
+```
+
+in new column, delete everything before the space.
+Or delete special characters. Use 2 backslashes. 
+
+```{r}
+
+  mutate(injection_date = gsub(" .*", "", injection_date))
+mutate(necropsy_file_path = gsub("\\~\\$", "", necropsy_file_path))
+```
+
+mutate if data in x column if y column contains a string/pattern.
+
+use grepl here to turn the search into a logical vector of same length as search area, so that if_else can work.
+
+Tells R to leave any data in x column alone, if search string isn't found in y column.
+
+```{r}
+ mutate(variable.x  = if_else(grepl("string.search", variable.y), "string.result", variable.x))
+```
+
+mutate conditional values
+
+```{r}
+mutate(gender = if_else(gender == "Male", "M",
+                if_else(gender == "Female", "F",
+                gender)))
+```
+
+mutate_at to mutate multiple columns using the same function. can also use helper functions to select columns.
+
+here mdy is the function, uses vars to select the variables, in this case by column index.
+
+```{r}
+mutate_at(vars(13:17,23), mdy)
+```
+
+
+extract filename from path using gsub function.
+
+```{r}
+mutate(nec_filename = gsub(".*\\/", "", necropsy_file_path))
+```
+
+path sanitize to remove all "illegal" characters from potential filename. 
+```{r}
+library(fs)
+path_sanitize()
+```
+
+
+
+
+# plotting
+
+re-order x-axis:
+
+create vector with desired order of x-axis. Order axis by setting "level" vector within factor() function in x aesthetic.
+
+```{r}
+x_order <- c("pre_tumorigenic", "glioma","spinal_cord", "head", "nerve")
+             
+ggplot(aes(x = factor(tumor_location, level = x_order), 
+            y = this))
+```
+
+#allows border
+
+```{r}
+shape=1 
+```
+
+#can be filled.
+
+```{r}
+shape=16 
+```
+
+position dodge
+
+```{r}
+position = position_dodge(width = 1)
+```
+
+# file manipulation
+
+copy files from and to.
+
+```{r}
+old<-("directory")
+new<-("directory")
+file.copy(from=old, to=new, 
+          overwrite = TRUE, 
+          recursive = TRUE, 
+          copy.mode = TRUE)
+```
+
+list files
+#if using a subdir of wd, must use "."
+
+```{r}
+list.files(path = "directory", 
+           full.names = TRUE, 
+           recursive = TRUE, 
+           ignore.case = TRUE)%>%
+  as_tibble()
+
+
+
+list.files("./necropsy/",pattern = "*.csv") 
+
+
+#use "../" to go up one from current wd. 
+list.files("../slides/file.csv") 
+
+```
+
+rename files
+
+```{r}
+file.rename(filenames$new, filenames$old)
+```
+
+
+```{r}
+ #code to turn name of file into working hyperlink (in excel)
+   mutate(link = paste0("=HYPERLINK(", "\"", 
+                      #full path to file
+                       path,
+                      #add  [","]
+                      "\",\"", 
+                      #name of link
+                       filename,
+                      #add [")]
+                      "\")"))
+```
+
