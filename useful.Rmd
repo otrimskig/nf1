@@ -14,6 +14,15 @@ knitr::opts_chunk$set(eval = FALSE)
 hit control + shift + C to comment-out entire highlighted section of code (and un-comment it)
 
 # data import/export
+```{r}
+saveRDS(bad_dates, "bad_dates.rds")  
+```
+
+
+
+
+
+
 
 standard csv read-in. Automatically imports at tibble.
 
@@ -128,6 +137,23 @@ path sanitize to remove all "illegal" characters from potential filename.
 library(fs)
 path_sanitize()
 ```
+
+
+
+
+
+getting means across rows, leaving NAs out of the calculations. 
+```{r}
+#make vars numeric if not already.
+mutate_at(c("diff1", "diff2", "diff3"), ~as.numeric(.x))%>%
+  #code allows calcuation to ignore NAs. 
+  mutate(diff = round(rowMeans(across(c("diff1", "diff2", "diff3")), na.rm=TRUE), 1))
+```
+
+
+
+
+
 
 
 
