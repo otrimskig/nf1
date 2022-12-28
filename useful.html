@@ -1631,6 +1631,9 @@ also use helper functions to select columns.</p>
 <p>here mdy is the function, uses vars to select the variables, in this
 case by column index.</p>
 <pre class="r"><code>mutate_at(vars(13:17,23), mdy)</code></pre>
+<p>or</p>
+<pre class="r"><code>cohorts2.1%&gt;%
+  mutate_at(vars(name1:name5), ~gsub(&quot;pwt&quot;, &quot;+/+&quot;, .x))</code></pre>
 <p>extract filename from path using gsub function.</p>
 <pre class="r"><code>mutate(nec_filename = gsub(&quot;.*\\/&quot;, &quot;&quot;, necropsy_file_path))</code></pre>
 <p>path sanitize to remove all “illegal” characters from potential

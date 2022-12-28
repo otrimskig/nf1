@@ -125,6 +125,17 @@ here mdy is the function, uses vars to select the variables, in this case by col
 mutate_at(vars(13:17,23), mdy)
 ```
 
+or
+
+```{r}
+cohorts2.1%>%
+  mutate_at(vars(name1:name5), ~gsub("pwt", "+/+", .x))
+```
+
+
+
+
+
 
 extract filename from path using gsub function.
 
