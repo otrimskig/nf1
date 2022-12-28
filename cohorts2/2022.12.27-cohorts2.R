@@ -65,7 +65,7 @@ rename(g_dob = dob.x)%>%
   
   
   
-  write.csv("bad_dates_print.csv", na="")
+  write.csv("out/bad_dates_print.csv", na="")
   
   
   
