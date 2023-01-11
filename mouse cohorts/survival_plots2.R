@@ -123,7 +123,8 @@ survfit(Surv(time = age_death_capped, event = event)~genes_ko, data = d1)%>%
              legend.lab = leg_order
   )
 
-
+survfit(Surv(time = age_death_capped, event = event)~genes_ko, data = d1)%>%
+  summary()
 
 
 

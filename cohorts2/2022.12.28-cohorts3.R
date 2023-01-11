@@ -6,7 +6,7 @@
 library(tidyverse)
 library(lubridate)
 
-readRDS("cohorts2.RDS")->cohorts2
+readRDS("cohorts2.rds")->cohorts2
 
 read_csv("../necropsy files/colony_necropsy3.csv")%>%
   mutate(mouse_num = as.character(mouse_num))->col_nec
@@ -100,6 +100,25 @@ cohorts2.1%>%
          
          )->cohorts2.2
 
+
+cohorts2.2%>%
+  
+ #removing all non-wt cic from cohort per sheri's recommendation. 
+  filter(cic!="f/f")%>%
+  
+  #removing column
+  select(-cic)%>%
+  
+  #removing from the cohort value.
+  mutate(cohort = sub("cic \\+\\/\\+\\; ", "", cohort))->cohorts2.3
+  
+  
+  
+  
+  
+cohorts2.3%>%
+  filter(is.na(cohort))%>%
+  view()
 
 
   
