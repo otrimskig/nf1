@@ -6,6 +6,7 @@
 library(tidyverse)
 library(lubridate)
 
+
 readRDS("cohorts2.rds")->cohorts2
 
 read_csv("../necropsy files/colony_necropsy3.csv")%>%
@@ -117,18 +118,31 @@ cohorts2.2%>%
   
   
 cohorts2.3%>%
-  
-  filter(ntva=="+/+")%>%
-  #filter(is.na(cohort))%>%
-  
- mutate(exclude = ifelse(ntva == "+/+", 1, exclude))%>%
+
+mutate(exclude = ifelse(ntva == "+/+", 1, exclude))%>%
+mutate(metadata = ifelse(ntva=="+/+", paste("ntva-neg", metadata), metadata))%>%
+mutate(metadata = sub(" NA$", "", metadata))->cohorts2.4
+
+
+
+cohorts2.4%>%
+  select(mouse_num,
+         dob, 
+         injection_date,
+         death_date,
+         exclude,
+         metadata,
+         cohort)%>%
+  saveRDS("cohort3_survival.rds")
+
+
+#mice with death_dates very close to endpoint. 
+mice<-c("23525", "23292", "23460")
+
+cohorts2.4%>%
+  filter(mouse_num %in% mice)%>%
   
   view()
-
-
-  
-
-
 
 
 

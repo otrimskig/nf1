@@ -1,0 +1,7 @@
+cohort,genes_ko
+ntva:: pten +/+; ink4a +/+; atrx +/+; h11cas9 f/f; nf1 ko,nf1 KO;pten wt;ink wt;atrx wt
+ntva:: pten +/+; ink4a f/f; atrx +/+; h11cas9 f/f; nf1 ko,nf1 KO;pten wt;ink KO;atrx wt
+ntva:: pten f/f; ink4a f/f; atrx +/+; h11cas9 f/f; nf1 +/+,nf1 wt;pten KO;ink KO;atrx wt
+ntva:: pten f/f; ink4a f/f; atrx +/+; h11cas9 f/f; nf1 ko,nf1 KO;pten KO;ink KO;atrx wt
+ntva:: pten f/f; ink4a f/f; atrx f/f; h11cas9 f/f; nf1 +/+,nf1 wt;pten KO;ink KO;atrx KO
+ntva:: pten f/f; ink4a f/f; atrx f/f; h11cas9 f/f; nf1 ko,nf1 KO;pten KO;ink KO;atrx KO
