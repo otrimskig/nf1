@@ -5,6 +5,8 @@
 
 library(tidyverse)
 library(lubridate)
+#used for paste_na
+library(Kmisc)
 
 readRDS("cohorts2.rds")->cohorts2
 
@@ -117,16 +119,24 @@ cohorts2.2%>%
   
   
 cohorts2.3%>%
-  
-  filter(ntva=="+/+")%>%
-  #filter(is.na(cohort))%>%
-  
- mutate(exclude = ifelse(ntva == "+/+", 1, exclude))%>%
-  
-  view()
+
+mutate(exclude = ifelse(ntva == "+/+", 1, exclude))%>%
+mutate(metadata = ifelse(ntva=="+/+", paste_na("ntva-neg", metadata), metadata))->cohort2.4
 
 
-  
+cohort2.4%>%
+  select(mouse_num,
+         dob, 
+         injection_date,
+         death_date,
+         exclude,
+         metadata,
+         cohort)%>%
+  saveRDS("cohort3_survival.rds")
+
+
+
+
 
 
 
