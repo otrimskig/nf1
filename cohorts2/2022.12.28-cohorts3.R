@@ -117,7 +117,12 @@ cohorts2.2%>%
   
   
 cohorts2.3%>%
-  filter(is.na(cohort))%>%
+  
+  filter(ntva=="+/+")%>%
+  #filter(is.na(cohort))%>%
+  
+ mutate(exclude = ifelse(ntva == "+/+", 1, exclude))%>%
+  
   view()
 
 
