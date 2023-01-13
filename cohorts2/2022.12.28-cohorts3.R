@@ -124,14 +124,39 @@ cohorts2.3%>%
 mutate(exclude = ifelse(ntva == "+/+", 1, exclude))%>%
 
 mutate(metadata = ifelse(ntva=="+/+", paste("ntva-neg", metadata), metadata))%>%
-mutate(metadata = sub(" NA$", "", metadata))->cohorts2.4
+mutate(metadata = sub(" NA$", "", metadata))%>%
+
+
+mutate(metadata = ifelse(ntva=="+/+", paste("ntva-neg", metadata), metadata))->cohorts2.4
+
+
 
 
 
 cohorts2.4%>%
+  saveRDS("cohorts3.rds")
 
-mutate(metadata = ifelse(ntva=="+/+", paste_na("ntva-neg", metadata), metadata))->cohort2.4
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#exporting data for use in survival analysis. 
 
 cohort2.4%>%
 
@@ -146,8 +171,14 @@ cohort2.4%>%
 
 
 
+
+
+
+
 #mice with death_dates very close to endpoint. 
 mice<-c("23525", "23292", "23460")
+
+
 
 cohorts2.4%>%
   filter(mouse_num %in% mice)%>%
