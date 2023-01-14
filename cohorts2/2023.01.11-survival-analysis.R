@@ -162,7 +162,7 @@ cohort_survival%>%
   
 
 
-saveRDS(cohort_survival2, "cohort3_survival2.rds")
+saveRDS(cohort_survival2, "ds/cohort3_survival2.rds")
 
 
 #getting palette from legend. 
