@@ -233,6 +233,8 @@ pairwise_survdiff(Surv(time = age_death2, event = event) ~ genes_ko,
 sink(NULL)
 
 
+<<<<<<< HEAD
+=======
 pairwise_survdiff(Surv(time = age_death2, event = event) ~ genes_ko, 
                   data = cohort_survival2, p.adjust.method = "BH")->pairwise
 
@@ -262,12 +264,12 @@ pairwise
 
 library(fmtr)
 library(libr)
+>>>>>>> a72ac47e0f14a315b126c1cb388433f7311f305e
 
 
 
-pairwise[["p.value"]]%>%
-  as_tibble()%>%
-  view()
 
 
-pairwise[["method"]]
+
+
+

@@ -13,7 +13,7 @@ library(survival)
 read_csv("../mouse cohorts/cohort_legend.csv")->cohort_legend1
 
 #reading in current dataset. 
-readRDS("ds/cohort3_survival.rds")->cohort_survival
+readRDS("cohort3_survival.rds")->cohort_survival
 
 
 
@@ -51,7 +51,7 @@ cohort_stats%>%
 #creating cohort_legend rds file, to which I can later add summary data,
 #and use for color-matching consistency.
 #dataset contains: genes_ko, cohorts, n's, color, hex for that color.   
-  saveRDS("ds/cohort_legend.rds")
+  saveRDS("cohort_legend.rds")
 
 
 #cleaning up
@@ -70,7 +70,7 @@ rm("cohort_legend1", "cohort_stats", "join_key")
 
 
 #reading in necessary data. #legend
-readRDS("ds/cohort_legend.rds")->cohort_legend
+readRDS("cohort_legend.rds")->cohort_legend
 
 #read in already above, just a reminder:
 #main dataset:
@@ -162,7 +162,7 @@ cohort_survival%>%
   
 
 
-saveRDS(cohort_survival2, "cohort3_survival2.rds")
+
 
 
 #getting palette from legend. 
@@ -214,7 +214,7 @@ plot
 ##########################################################################
 
 #statistics:
-sink("out/output.txt")
+sink("output.txt")
 cohort_surv%>%
   summary()
 
@@ -253,7 +253,7 @@ list(pairwise)%>%
 lapply(list(pairwise), list)
 
 
-read.delim("out/output.txt")%>%
+read.delim("output.txt")%>%
   as_tibble()%>%
   view()
 

@@ -9,7 +9,7 @@ library(lubridate)
 library(Kmisc)
 
 
-readRDS("cohorts2.rds")->cohorts2
+readRDS("ds/cohorts2.rds")->cohorts2
 
 read_csv("../necropsy files/colony_necropsy3.csv")%>%
   mutate(mouse_num = as.character(mouse_num))->col_nec
@@ -122,19 +122,44 @@ cohorts2.2%>%
 cohorts2.3%>%
 
 mutate(exclude = ifelse(ntva == "+/+", 1, exclude))%>%
-<<<<<<< HEAD
+
 mutate(metadata = ifelse(ntva=="+/+", paste("ntva-neg", metadata), metadata))%>%
-mutate(metadata = sub(" NA$", "", metadata))->cohorts2.4
+mutate(metadata = sub(" NA$", "", metadata))%>%
+
+
+mutate(metadata = ifelse(ntva=="+/+", paste("ntva-neg", metadata), metadata))->cohorts2.4
+
+
 
 
 
 cohorts2.4%>%
-=======
-mutate(metadata = ifelse(ntva=="+/+", paste_na("ntva-neg", metadata), metadata))->cohort2.4
+  saveRDS("ds/cohorts3.rds")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#exporting data for use in survival analysis. 
 
 cohort2.4%>%
->>>>>>> df4a8a6bab4a9a5e0520b2f82bd66b83e5134b69
+
   select(mouse_num,
          dob, 
          injection_date,
@@ -142,12 +167,18 @@ cohort2.4%>%
          exclude,
          metadata,
          cohort)%>%
-  saveRDS("cohort3_survival.rds")
+  saveRDS("ds/cohort3_survival.rds")
 
 
-<<<<<<< HEAD
+
+
+
+
+
 #mice with death_dates very close to endpoint. 
 mice<-c("23525", "23292", "23460")
+
+
 
 cohorts2.4%>%
   filter(mouse_num %in% mice)%>%
@@ -155,12 +186,5 @@ cohorts2.4%>%
   view()
 
 
-=======
 
-
-
-
-
-
->>>>>>> df4a8a6bab4a9a5e0520b2f82bd66b83e5134b69
 

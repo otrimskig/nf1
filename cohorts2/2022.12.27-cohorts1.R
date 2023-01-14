@@ -80,7 +80,7 @@ cohort_each_mouse%>%
   #some useful data may still remain in compiled_cohorts3.csv that is not captured here,
   #but this is a good start.
   
-  saveRDS("cohorts1.RDS")
+  saveRDS("ds/cohorts1.RDS")
   
   
   
