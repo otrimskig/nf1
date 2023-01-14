@@ -1,3 +1,6 @@
+
+> cohort_surv%>%
++   summary()
 Call: survfit(formula = Surv(time = age_death2, event = event) ~ genes_ko, 
     data = cohort_survival2)
 
@@ -110,8 +113,10 @@ Call: survfit(formula = Surv(time = age_death2, event = event) ~ genes_ko,
   120     22       2    0.714  0.0854        0.565        0.903
 
                 genes_ko=nf1 KO;pten wt;ink wt;atrx wt 
-        time       n.risk      n.event     survival      std.err lower 95% CI upper 95% CI 
-     54.0000      17.0000       2.0000       0.8824       0.0781       0.7418       1.0000 
+        time       n.risk      n.event     survival      std.err lower 95% CI 
+     54.0000      17.0000       2.0000       0.8824       0.0781       0.7418 
+upper 95% CI 
+      1.0000 
 
                 genes_ko=nf1 wt;pten KO;ink KO;atrx KO 
  time n.risk n.event survival std.err lower 95% CI upper 95% CI
@@ -127,6 +132,9 @@ Call: survfit(formula = Surv(time = age_death2, event = event) ~ genes_ko,
    72     32       1    0.912  0.0486        0.821        1.000
    75     31       1    0.882  0.0553        0.780        0.998
 
+
+> survdiff(Surv(time = age_death2, event = event) ~ genes_ko, 
++          data = cohort_survival2)
 Call:
 survdiff(formula = Surv(time = age_death2, event = event) ~ genes_ko, 
     data = cohort_survival2)
@@ -141,40 +149,47 @@ genes_ko=nf1 wt;pten KO;ink KO;atrx wt  34        4     32.2     24.69      30.6
 
  Chisq= 178  on 5 degrees of freedom, p= <2e-16 
 
-	Pairwise comparisons using Log-Rank test 
+> pairwise_survdiff(Surv(time = age_death2, event = event) ~ genes_ko, 
++          data = cohort_survival2, p.adjust.method = "BH")->pairwise
 
-data:  cohort_survival2 and genes_ko 
-
-                              nf1 KO;pten KO;ink KO;atrx KO nf1 KO;pten KO;ink KO;atrx wt nf1 KO;pten wt;ink KO;atrx wt
-nf1 KO;pten KO;ink KO;atrx wt 0.083                         -                             -                            
-nf1 KO;pten wt;ink KO;atrx wt 9.8e-08                       1.3e-10                       -                            
-nf1 KO;pten wt;ink wt;atrx wt 8.9e-08                       4.9e-10                       0.225                        
-nf1 wt;pten KO;ink KO;atrx KO 7.8e-13                       < 2e-16                       0.149                        
-nf1 wt;pten KO;ink KO;atrx wt 1.2e-12                       < 2e-16                       0.141                        
-                              nf1 KO;pten wt;ink wt;atrx wt nf1 wt;pten KO;ink KO;atrx KO
-nf1 KO;pten KO;ink KO;atrx wt -                             -                            
-nf1 KO;pten wt;ink KO;atrx wt -                             -                            
-nf1 KO;pten wt;ink wt;atrx wt -                             -                            
-nf1 wt;pten KO;ink KO;atrx KO 0.983                         -                            
-nf1 wt;pten KO;ink KO;atrx wt 0.983                         0.983                        
-
-P value adjustment method: BH 
+> pairwise_survdiff(Surv(time = age_death2, event = event) ~ genes_ko, 
++         data = cohort_survival2)
 
 	Pairwise comparisons using Log-Rank test 
 
 data:  cohort_survival2 and genes_ko 
 
-                              nf1 KO;pten KO;ink KO;atrx KO nf1 KO;pten KO;ink KO;atrx wt nf1 KO;pten wt;ink KO;atrx wt
-nf1 KO;pten KO;ink KO;atrx wt 0.083                         -                             -                            
-nf1 KO;pten wt;ink KO;atrx wt 9.8e-08                       1.3e-10                       -                            
-nf1 KO;pten wt;ink wt;atrx wt 8.9e-08                       4.9e-10                       0.225                        
-nf1 wt;pten KO;ink KO;atrx KO 7.8e-13                       < 2e-16                       0.149                        
-nf1 wt;pten KO;ink KO;atrx wt 1.2e-12                       < 2e-16                       0.141                        
-                              nf1 KO;pten wt;ink wt;atrx wt nf1 wt;pten KO;ink KO;atrx KO
-nf1 KO;pten KO;ink KO;atrx wt -                             -                            
-nf1 KO;pten wt;ink KO;atrx wt -                             -                            
-nf1 KO;pten wt;ink wt;atrx wt -                             -                            
-nf1 wt;pten KO;ink KO;atrx KO 0.983                         -                            
-nf1 wt;pten KO;ink KO;atrx wt 0.983                         0.983                        
+                              nf1 KO;pten KO;ink KO;atrx KO
+nf1 KO;pten KO;ink KO;atrx wt 0.083                        
+nf1 KO;pten wt;ink KO;atrx wt 9.8e-08                      
+nf1 KO;pten wt;ink wt;atrx wt 8.9e-08                      
+nf1 wt;pten KO;ink KO;atrx KO 7.8e-13                      
+nf1 wt;pten KO;ink KO;atrx wt 1.2e-12                      
+                              nf1 KO;pten KO;ink KO;atrx wt
+nf1 KO;pten KO;ink KO;atrx wt -                            
+nf1 KO;pten wt;ink KO;atrx wt 1.3e-10                      
+nf1 KO;pten wt;ink wt;atrx wt 4.9e-10                      
+nf1 wt;pten KO;ink KO;atrx KO < 2e-16                      
+nf1 wt;pten KO;ink KO;atrx wt < 2e-16                      
+                              nf1 KO;pten wt;ink KO;atrx wt
+nf1 KO;pten KO;ink KO;atrx wt -                            
+nf1 KO;pten wt;ink KO;atrx wt -                            
+nf1 KO;pten wt;ink wt;atrx wt 0.225                        
+nf1 wt;pten KO;ink KO;atrx KO 0.149                        
+nf1 wt;pten KO;ink KO;atrx wt 0.141                        
+                              nf1 KO;pten wt;ink wt;atrx wt
+nf1 KO;pten KO;ink KO;atrx wt -                            
+nf1 KO;pten wt;ink KO;atrx wt -                            
+nf1 KO;pten wt;ink wt;atrx wt -                            
+nf1 wt;pten KO;ink KO;atrx KO 0.983                        
+nf1 wt;pten KO;ink KO;atrx wt 0.983                        
+                              nf1 wt;pten KO;ink KO;atrx KO
+nf1 KO;pten KO;ink KO;atrx wt -                            
+nf1 KO;pten wt;ink KO;atrx wt -                            
+nf1 KO;pten wt;ink wt;atrx wt -                            
+nf1 wt;pten KO;ink KO;atrx KO -                            
+nf1 wt;pten KO;ink KO;atrx wt 0.983                        
 
 P value adjustment method: BH 
+
+> sink(NULL)

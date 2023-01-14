@@ -162,7 +162,7 @@ cohort_survival%>%
   
 
 
-
+saveRDS(cohort_survival2, "cohort3_survival2.rds")
 
 
 #getting palette from legend. 
@@ -233,41 +233,11 @@ pairwise_survdiff(Surv(time = age_death2, event = event) ~ genes_ko,
 sink(NULL)
 
 
-pairwise_survdiff(Surv(time = age_death2, event = event) ~ genes_ko, 
-                  data = cohort_survival2, p.adjust.method = "BH")->pairwise
-
-
-class(pairwise)
-
-list(pairwise)%>%
-  as_tibble(
-    validate = NULL,
-    .rows = NULL,
-    .name_repair = c("check_unique", "unique", "universal", "minimal")
-  )
-
-list(pairwise)%>%
-  as_tibble(.name_repair= c("universal"))
-
-
-lapply(list(pairwise), list)
-
-
-read.delim("output.txt")%>%
-  as_tibble()%>%
-  view()
-
-
-pairwise
-
-library(fmtr)
-library(libr)
 
 
 
-pairwise[["p.value"]]%>%
-  as_tibble()%>%
-  view()
 
 
-pairwise[["method"]]
+
+
+
