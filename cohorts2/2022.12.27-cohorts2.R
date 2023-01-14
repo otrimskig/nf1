@@ -7,7 +7,7 @@
 library(tidyverse)
 library(lubridate)
 
-readRDS("cohorts1.rds")->cohorts1
+readRDS("ds/cohorts1.rds")->cohorts1
 readRDS("../necropsy files/colony_genos2.rds")->colony_genos
 readRDS("../necropsy files/bad_dates.RDS")->bad_dates
 readRDS("../necropsy files/good_dates.RDS")->good_dates
@@ -186,5 +186,5 @@ cohorts1.6%>%
 
 
 #all date obs are now fully resolved or resolved with notes in exclusion/metadata columns.  
-saveRDS(cohorts2, "cohorts2.rds")
+saveRDS(cohorts2, "ds/cohorts2.rds")
 

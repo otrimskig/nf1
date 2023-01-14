@@ -9,7 +9,7 @@ library(lubridate)
 library(Kmisc)
 
 
-readRDS("cohorts2.rds")->cohorts2
+readRDS("ds/cohorts2.rds")->cohorts2
 
 read_csv("../necropsy files/colony_necropsy3.csv")%>%
   mutate(mouse_num = as.character(mouse_num))->col_nec
@@ -134,7 +134,7 @@ mutate(metadata = ifelse(ntva=="+/+", paste("ntva-neg", metadata), metadata))->c
 
 
 cohorts2.4%>%
-  saveRDS("cohorts3.rds")
+  saveRDS("ds/cohorts3.rds")
 
 
 
@@ -167,7 +167,7 @@ cohort2.4%>%
          exclude,
          metadata,
          cohort)%>%
-  saveRDS("cohort3_survival.rds")
+  saveRDS("ds/cohort3_survival.rds")
 
 
 
