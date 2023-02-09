@@ -1,0 +1,51 @@
+col_name,col_type,desc
+abnormal_appearance,numeric,whether there was a note comments that mouse had some sort of abnormal appearance. 
+aod,numeric,age of death
+atrx,character,genotype for atrx
+behavior_noticed,Date,date behavior abnormality was noticed (if ever)
+cells_injected,character,number of cells injected into mouse
+cohort,character,cohort mouse belongs to
+comments,character,gathered qualitative observations
+death_date,Date,date of death
+dob,Date,date of birth
+end_date,Date,date of planned experimental endpoint/day mouse was sacced. 
+exclude,character,"should mouse be excluded from analysis? 1 for yes, 2 for maybe. "
+exp_endpt,character,was mouse sacced at scheduled endpoint
+found_dead,numeric,was mouse found dead (if noted in comments/n_comments)
+h11cas9,character,genotype
+injection_date,Date,date of injection
+ink4a,character,genotype
+metadata,character,description of any data conflicts or transformations performed during data cleaning
+mouse_num,character,mouse number. 
+mri_imaging_date,Date,date of mri imaging
+n_comments,character,qualitative observations from necropsy
+nec_NED,numeric,no evidence of disease found upon necropsy. 
+necropsy_file_path,character,file path of necropsy file
+ntva,character,genotype
+paralysis,numeric,was paralysis noted at any point
+pten,character,genotype
+sex,character,sex
+src,character,"source of cohort data, riley or rick"
+tis_brain,numeric,brain tissue collected
+tis_cran_n,numeric,cranial nerve tissue collected
+tis_eye,numeric,eye tissue collected
+tis_liver,numeric,liver tissue collected
+tis_lung,numeric,lung tissue collected
+tis_optic_n,numeric,optic nerve tissue collected
+tis_spinal_c,numeric,spinal cord tissue collected
+tum_bladder,character,tumor obs. In bladder
+tum_brain,character,tumor obs. In brain
+tum_cran_n,character,tumor obs. In cranial nerve
+tum_extracranial,character,"tumor obs. In/on head, extracranial "
+tum_eye,numeric,tumor obs. In eye
+tum_head,character,tumor obs. In/on head
+tum_kidney,character,tumor obs. In kidney
+tum_low_back_ribs,numeric,tumor obs. In/on low back or ribs
+tum_neck,character,tumor obs. In/on neck
+tum_shoulder,numeric,tumor obs. In/on shoulder
+tum_skin,numeric,tumor obs. In/on skin
+tum_spinal_c,character,tumor obs. In/on spinal cord
+tumor_noticed,Date,date tumor first observed (if any - may or may not include end date)
+tyr_cre,character,genotype
+virus,character,virus used upon injection
+vol_injected,character,volume of cells injected

@@ -52,8 +52,28 @@ mutate(aod = as.numeric(death_date-injection_date))%>%
     
   cohorts3.1%>%
     anti_join(update1, by = c("mouse_num"))%>%
-    full_join(update1)%>%
-    
-    
-    
+    full_join(update1)->cohorts3.2
+
+  view(cohorts3.2)
+  
+  
+  cohorts3.2%>%
+    select(mouse_num, cohort, comments, n_comments, exclude, metadata, nec_NED)%>%
+    filter(is.na(nec_NED))%>%
     view()
+    
+    
+
+   
+ 
+  # 
+  # cohorts3.2%>%
+  # summarise_all(class) %>% 
+  #   gather(col_name, col_type) %>% 
+  #   mutate(desc = NA)%>%
+  #   arrange(col_name)%>%
+  #   write_csv("meta.csv")
+    
+
+  
+  
