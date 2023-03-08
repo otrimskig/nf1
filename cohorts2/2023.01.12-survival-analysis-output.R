@@ -2,32 +2,62 @@
 #2023.01.12
 #creating function to easily export survival analysis data. 
 
+#2023.03.08 - updated comments to increase usability
+
 library(tidyverse)
 library(survminer)
 library(survival)
 library(googlesheets4)
 
+
+
+#############
+#set parameters for analysis in the input and output parameters sections. 
+#if wanting a different output style, select version by 
+#commenting in/out respective output table style in the processing section. 
+
+
 ##########################################################
-#get all data into R. 
+#input parameters
+
+#import data into R and make it into convenient form for processing.
+#:::generic data format:::
+
+#column for group or any other grouping factor
+#column for id of individual
+#column for age_of_death / time of event
+#column for "event" in binary form, 1/0. 
+
 
 readRDS("ds/cohort3_survival2.rds")->cohort_survival
 
-#get genes_ko df
+
+#gets member count for each group. 
+#assigns each group a number for easier processing later. 
+
+#merges that to imported dataset, such that each individual 
+#obs also contains information about the group it belongs to. 
+
 cohort_survival%>%
   count(genes_ko)%>%
   mutate(group = 1:6)->genes_ko
 
-#merge with cohort_survival. 
 cohort_survival%>%
   left_join(genes_ko, by = "genes_ko")->cohort_survival2
 
 
 
-
 #########################################################
-#create survival diff object to be used for analysis. 
-#set inputs for analysis here. 
-#
+#output/analysis parameters
+
+#set results file name
+
+"cohort_surv_analysis" ->name_of_file
+
+
+#create survival diff object from imported data. 
+#####set methods and variables for analysis here. 
+
 pairwise_survdiff(Surv(time = age_death2, 
                   
                   #event information. 
@@ -40,17 +70,22 @@ pairwise_survdiff(Surv(time = age_death2,
                   data = cohort_survival2, 
                   
                   #adjustment method. 
+                  #Allowed values include "holm", "hochberg", "hommel", 
+                  #"bonferroni", "BH", "BY", "fdr", "none". 
                   p.adjust.method = "none"
                   
                   )->pairwise
 
 
-#get names to be added to the results table below. 
+############################################################
+#############################################################
+#processing 
+
+#get names of groups and tests to be added to the results table below. 
 attributes(pairwise[["p.value"]])[["dimnames"]][[1]]->group_a
 
 
 
-#############################################################
 #choose output version:
 
 
@@ -84,32 +119,34 @@ pairwise[["p.value"]]%>%
   pivot_longer(cols=2:6, names_to = "group_b", values_to = "p_value")%>%
   mutate(group_c = group_a)->table
 
-
 table%>%
   select(group_a, group_b, p_value)->tableab
-
 
 table%>%
   select(group_b, group_c, p_value)%>%
   rename(group_a=group_b, group_b=group_c)->tablebc
 
-
 full_join(tableab, tablebc)%>%
   filter(!is.na(p_value))%>%
   pivot_wider(names_from = "group_b", values_from = "p_value")%>%
+  
+ 
   arrange(group_a)%>%
-  rename(group = group_a)%>%
+
+  rename(group_name = group_a)%>%
   mutate(num = c(1:6))%>%
-  relocate(num)%>%
-  rename_at(vars(3:last_col()), ~as.character(c(1:6)))%>%
-  mutate_all(function(.x) (if_else(is.na(.x), "-", as.character(.x)))
-             
-             )->results
+
+  relocate(group_name, num)%>%
+
+
+  rename_at(vars(3:last_col()), ~as.character(c(1:6)))->results
+  
   
 
 
 ###########################################################
-#pull metadata for results object. 
+#pull metadata for results object. Save in "metadata" df. 
+
 names(pairwise)%>%
   as_tibble()%>%
   rename(col1 = value)%>%
@@ -134,7 +171,7 @@ names(pairwise)%>%
 gs4_create(paste(as.character(Sys.time()), 
                  
     #name of output file
-                 "pairwise analysis test-no adj"),
+                 name_of_file),
            
  
     
