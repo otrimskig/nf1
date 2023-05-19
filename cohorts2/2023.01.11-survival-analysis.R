@@ -194,7 +194,7 @@ survfit(Surv(time = age_death2, event = event)~genes_ko, data = cohort_survival2
 cohort_surv%>%
   ggsurvplot(xlim = c(0, 150),
              ylim = c(0, 1.02),
-             size =3,
+             size =1.5,
              alpha = .9,
              break.x.by = 25,
              break.y.by = .25,

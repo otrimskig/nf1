@@ -203,7 +203,7 @@ left_join(rick_ihc%>%
 cohorts3.6.1%>%
   filter(is.na(exclude))%>%
   filter(!is.na(necropsy_file_path))%>%
-  count(sheri_seen)
+  count(sheri_seen)%>%
 view()
  
 
@@ -224,7 +224,18 @@ ihc_files%>%
 
 cohorts3.6.1%>%
   left_join(ihc_mice, by = "mouse_num")->cohorts3.6.2
-  
+
+
+cohorts3.6.2%>%
+  select(exclude)%>%
+  view()
+
+
+
+ 
+cohorts3.6.2%>%
+saveRDS("ds/cohorts4.0.rds")
+
 
 #exporting filtered version for printing. 
 cohorts3.6.2%>%

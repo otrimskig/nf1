@@ -25,7 +25,9 @@ library(lubridate)
            recursive = TRUE, 
            ignore.case = TRUE)
 
-
+saveRDS(nec_files, "nec_files.rds")
+  
+  
 necropsy_files<-  
 nec_files%>%
   as_tibble()%>%
@@ -42,20 +44,20 @@ nec_files%>%
   ungroup()
 
 necropsy_files%>%
-  view()
+  saveRDS("necropsy_files.rds")
   
 
-nec_file_copy<-
-read_csv("X:/Holmen Lab/Lab Personnel/Garrett/R/nf1/mouse cohorts/compiled_cohorts3.csv")%>%
-  select(mouse_num)%>%
-  mutate(mouse_num = as.character(mouse_num))%>%
-  left_join(necropsy_files)%>%
-  drop_na()
+# nec_file_copy<-
+# read_csv("X:/Holmen Lab/Lab Personnel/Garrett/R/nf1/mouse cohorts/compiled_cohorts3.csv")%>%
+#   select(mouse_num)%>%
+#   mutate(mouse_num = as.character(mouse_num))%>%
+#   left_join(necropsy_files)%>%
+#   drop_na()
 
-nec_file_copy
+# nec_file_copy
 
 #get all files into dir nec1.
-file.copy(from=nec_file_copy%>%pull(file_path), 
+file.copy(from=necropsy_files%>%pull(file_path), 
           to="nec1/", 
           overwrite = TRUE, 
           recursive = TRUE, 
@@ -92,6 +94,8 @@ list.files("./nec1/")%>%
 files<-list.files("./nec1/")
 length(files)
 
+
+##################################################################
 for(i in 1:length(files)){
     read.csv(paste0("nec1/",files[i]))%>%
       as_tibble()%>%
