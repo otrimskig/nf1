@@ -5,18 +5,9 @@
 library(tidyverse)
 library(lubridate)
 library(googlesheets4)
-
+setwd("cohorts2/")
 
 readRDS("ds/cohorts4.0.rds")->cohorts4
-
-
-cohorts4%>%
- 
-  view()
-
-
-
-
 
 
 #this is a df of all the saved slide scans relating to mice in the nf1 g colony. 
@@ -56,26 +47,36 @@ ihc_files%>%
 
 
 
+#has_slidescan variable is inaccurate. removing. 
+
 cohorts4%>%
   select(-has_slidescan)->cohorts4.0.1
 
 cohorts4.0.1%>%
-  view()
+  saveRDS("ds/cohorts4.0.1.rds")
 
+
+
+#for now, let's deal with the slides of mice sheri HASN'T seen. 
 
 cohorts4.0.1%>%
   filter(is.na(sheri_seen))%>%
-  filter(!is.na(necropsy_file_path))%>%
-  filter(is.na(exclude))%>%
-  select(mouse_num,
-         dob,
-         death_date,
-         comments, 
-         n_comments,
-         cohort)%>%
-  group_by(cohort)%>%
-  arrange(cohort, mouse_num)%>%
- 
-
+  filter(!is.na(necropsy_file_path))->needs_look
   
-  sheet_write(., "1hgBGd7-q2zvlb4hE0xF7zJBYQ6R1TSnkpt0fXDwlB9E")
+  
+ihc_files%>%
+  select(mouse_num, img_sample, staining, img_path)%>%
+  group_by(mouse_num)%>%
+  mutate(is_he = if_else(staining == "H&E",1,0))%>%
+  arrange(desc(is_he))%>%
+  
+  slice(1)%>%
+  ungroup()%>%
+  select(-is_he)%>%
+  mutate(mouse_num = as.character(mouse_num))%>%
+  filter(!is.na(img_path))->ihc_img_paths
+
+
+needs_look%>%
+  left_join(ihc_img_paths)%>%
+  view()
