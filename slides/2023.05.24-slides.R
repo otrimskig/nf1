@@ -36,6 +36,7 @@ read_csv("slides/slides-prev/slide_info2.csv")%>%
                          if_else(grepl("synaptophysin", stain), "synap", 
                                  stain)))->scanned_slides
 
+
 #saving for later, if want to use in another script. 
 write_rds(scanned_slides, "slides/nf1_scanned_slides.rds")
 ############################################################################
@@ -45,16 +46,12 @@ write_rds(scanned_slides, "slides/nf1_scanned_slides.rds")
 
 
 
-#sheri HAS seen
-#NOT excluded
-#checking for training purposes for self. 
-
 cohorts%>%
   
-  filter(!is.na(sheri_seen)&
-                is.na(exclude))%>%
+  filter(is.na(exclude))%>%
   
-  select(mouse_num, brain_ihc_obs)->sheri_seen
+  select(mouse_num, brain_ihc_obs, sheri_seen)->ihc_notes
+
 
 
 
@@ -62,20 +59,11 @@ cohorts%>%
 #df of all slides with physical locations. 
 slides0.1%>%
   
-  semi_join(cohorts, by = "mouse_num")%>%
-  
-  #filtering for mouse nums in prev dataset,
-  #which sheri has seen. 
-  
-  #commenting this out. Instead, join to all slides,
-  #just add column for sheri's obs where exist
-   
-  #semi_join(sheri_seen, by = "mouse_num")%>%
-  
-  
+  #filtering out non-cohort mice.
+  semi_join(ihc_notes, by = "mouse_num")%>%
 
   #joining dataset to include ihc_obs. 
-  left_join(sheri_seen)%>%
+  left_join(ihc_notes)%>%
   arrange(loc, slot, mouse_num)%>%
   relocate(loc, slot, mouse_num)%>%
   

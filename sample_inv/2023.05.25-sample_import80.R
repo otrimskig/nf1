@@ -9,7 +9,7 @@ library(lubridate)
 gs4_auth(email = "gotrimski@gmail.com")
 
 
-df<-read_sheet("1iK1inudWFhjNRAjim7ygs1fJROHg-EjM-qXTQOz3uos",
+df<-read_sheet("1-iPqqUo4gSoGbWMlbuqFMtitNGLux98Z3a_jHuYRmtM",
                sheet="boxes",
                col_names = FALSE,
                col_types = "c")%>%
@@ -101,45 +101,17 @@ map_dfr(df_list2, bind_rows)%>%
   mutate(coord = paste0(xrow, xcol))%>%
   select(-c(xrow, xcol))%>%
   relocate(coord)%>%
-  mutate(temp = "-20")%>%
+  mutate(temp = "-80")%>%
   
-write_rds("sample_inv/sample_inv_20.rds")
+write_rds("sample_inv/sample_inv_80.rds")
 
 
 
   
- range_write("1iK1inudWFhjNRAjim7ygs1fJROHg-EjM-qXTQOz3uos",
-             readRDS("sample_inv/sample_inv_20.rds"),
+range_write("1-iPqqUo4gSoGbWMlbuqFMtitNGLux98Z3a_jHuYRmtM",
+             readRDS("sample_inv/sample_inv_80.rds"),
              sheet="tidy",
              range="b2")
 
 
 
-
-
-
-# #change format from box to 2-column df. 
-# df_list[[1]]%>%
-#   
-#   slice(2:nrow(.))%>%
-#   select(-c(index, x1))%>%
-#   
-#   
-#   row_to_names(1)%>%
-#   clean_names()%>%
-#   
-#   
-#   pivot_longer(2:last_col(),
-#                names_to = "xcol", 
-#                values_to = "sample_name")%>%
-#   
-#   mutate(box_name = box_name)%>%
-#   
-#   mutate(across(1:last_col(), function(x){na_if(x,"na")}))%>%
-#   
-#   filter(!is.na(sample_name))%>%
-#   
-#   view()
-#   
-# map_dfr(df_list, bind_rows)%>%
-#   view()

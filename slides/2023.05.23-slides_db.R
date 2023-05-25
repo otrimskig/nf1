@@ -78,6 +78,6 @@ gs4_auth(email = "gotrimski@gmail.com")
 
 range_write("1bdya6WH1KA-w3ziKprTpbxd-S1zJh1zPef754b8eDKY", 
             slides_unseen0.2, 
-            sheet = "slide_obs", 
+            sheet = "slides_latest", 
             col_names = TRUE, 
-            range = "b2")
+            range = "b3")
