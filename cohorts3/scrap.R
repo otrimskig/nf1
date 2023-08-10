@@ -1,78 +1,21 @@
-#cleaning and joining all mouse cohort data
+#going from raw data, to compiled_cohorts3. 
 
-#importing all data as objects into R.
-library(readxl)
-library(readr)
 library(tidyverse)
 library(janitor)
+library(openxlsx)
 library(lubridate)
 library(stringr)
-#glioma_cohorts <- read_csv("Riley NF1 Glioma Data (Mouse Cohorts).csv")
 
-glioma_patho <- read_excel("raw/Riley NF1 Glioma Data (Mouse Cohorts).xlsx", 
-                                                   sheet = "Pathologist Comments")
+nf1_riley <- read.xlsx("raw/Riley NF1 Glioma Data (Mouse Cohorts).xlsx", 
+                       sheet = "Mouse Information",
+                       detectDates = TRUE)
 
-
-glioma_survival <- read_csv("raw/Riley Glioma Results Survival All Cohorts.csv")
-
-
-glioma_patho2 <- read_excel("raw/NF1 Glioma Pathology Reports.xlsx")
-
-
-glioma_cages <- read_csv("raw/Mouse cohorts all cages.csv")
-
-#getting all sheets from many sheet file
-
-list<-import_list("raw/NF1 Glioma Mouse Information (Rick).xlsx")
-
-
-glioma_rick_animal_prod<-
-list[1]%>%
-  as_tibble()
+nf1_rick <- read.xlsx("raw/NF1 Glioma Mouse Information (Rick).xlsx",
+                      sheet = "In Vivo Tumor Study",
+                      detectDates = TRUE)
 
 
 
-glioma_rick_cell_lines<-
-  list[2]%>%
-  as_tibble()
-
-
-glioma_rick_in_vivo<-
-  list[3]%>%
-  as_tibble()
-
-
-glioma_rick_in_vitro<-
-  list[4]%>%
-  as_tibble()
-
-
-glioma_rick_venn<-
-  list[5]%>%
-  as_tibble()
-
-
-glioma_rick_ihc<-
-  list[6]%>%
-  as_tibble()
-
-rm(list)
-rm(sheet_list)
-rm(sheet_name)
-rm(sheets)
-rm(all_sheets)
-rm(multiplesheets)
-
-
-
-############################################################################
-#all data imported into R. 
-
-library(janitor)
-library(substringr)
-library(lubridate)
-
-#glioma_cohorts_clean<-
 #import csv file, which was saved from xcel file on 11/8/22, with cohort data complete. 
 read_csv("raw/Riley NF1 Glioma Data (Mouse Cohorts).csv")%>%
   #housekeeping
@@ -122,14 +65,14 @@ read_csv("raw/Riley NF1 Glioma Data (Mouse Cohorts).csv")%>%
   mutate(age_death_cap = as.numeric(death_date - injection_date))%>%
   mutate(age_death_cap = if_else(is.na(tumor_locations)==TRUE, 151, age_death_cap))%>%
   
-
+  
   write.csv("glioma_cohorts_clean.csv", row.names = FALSE)
 
 
 #checking to see if Riley's survival data has anything not included in above csv.
 #make counts table of all instances of age of death, in both datasets. 
 count1<-
-read_csv("glioma_cohorts_clean.csv")%>%
+  read_csv("glioma_cohorts_clean.csv")%>%
   as_tibble()%>%
   count(age_at_death)
 
@@ -146,21 +89,21 @@ full_join(count1, count2, by = c("age_at_death" = "age_days"))%>%
   view()
 #all age of death counts are larger or equal in my dataset. 
 #for a more robust check, join 2 datasets by mouse number.
-  read_csv("redundant/Riley Glioma Results Survival All Cohorts.csv")%>%
+read_csv("redundant/Riley Glioma Results Survival All Cohorts.csv")%>%
   as_tibble()%>%
   clean_names()%>%
   select(1,2)%>%
-    full_join(read_csv("glioma_cohorts_clean.csv"), by = c("x1" = "mouse_num_tag"))%>%
-    select(1,2, age_at_death)%>%
-    view()
+  full_join(read_csv("glioma_cohorts_clean.csv"), by = c("x1" = "mouse_num_tag"))%>%
+  select(1,2, age_at_death)%>%
+  view()
 #confirmed all matches, with glioma_cohorts_clean having additional data. Riley Glioma Results Survival All is redundant.
 #moving to redundant file folder to avoid confusion. 
-  
 
-  
+
+
 #adding necropsy file   
 read_excel("raw/Riley NF1 Glioma Data (Mouse Cohorts).xlsx", 
-             sheet = "Pathologist Comments")%>%
+           sheet = "Pathologist Comments")%>%
   as_tibble()%>%
   clean_names()%>%
   rename(tumor_id = mouse_number)%>%
@@ -197,9 +140,9 @@ read_excel("raw/NF1 Glioma Pathology Reports.xlsx")%>%
   mutate(necropsy_comments = necropsy_file_comments)%>%
   
   write.csv("glioma_cohorts.clean3.csv", row.names = FALSE)
-  
-  
- 
+
+
+
 
 
 ####################################################################
@@ -213,20 +156,20 @@ read_csv("raw/in vivo rick.csv", col_names = FALSE)%>%
   mutate(mouse_num = substr(mouse_id, 1,5))%>%
   relocate(mouse_num)%>%
   mutate(gender = if_else(gender == "Male", "M",
-         if_else(gender == "Female", "F", gender)))%>%
+                          if_else(gender == "Female", "F", gender)))%>%
   rename("is_useful_as_a_control_or_otherwise_includes_a_large_tumor" = "highlighted_blue",
          injected_by = "injected_by_highlighted_green_for_variable_im_testing_for",
          vol_injected = "volume_injected_highlighted_green_for_variable_im_testing_for",
          h_e_submission_date = "brain_submission_date_for_embedding_and_h_e_highlighted_blue_if_block_is_useful_as_a_control_or_otherwise_includes_a_large_tumor", 
          tissues_submitted = "tumor_or_other_tissue_submitted_for_embedding_and_h_e_either_with_the_brain_or_separate",
          proof_of_mass = "any_hard_proof_of_any_kind_of_abnormal_mass_or_enlargement_after_necropsy_or_brain_h_e"
-         )%>%
+  )%>%
   #reformatting all date columns to dates.
   mutate_at(vars(13:17,23), mdy)%>%
   mutate(src = "RH")%>%
   mutate(injected_by = if_else(injected_by == "Rick", "RH", injected_by))%>%
   
-    
+  
   
   
   #colnames()
@@ -254,31 +197,31 @@ full_join(read_csv("glioma_cohorts.clean3.csv"),
 
 
 full_join(read_csv("glioma_cohorts.clean3.csv"),
-read_csv("in_vivo_rick_clean.csv")%>%
-  
-  
-  
-  
-  filter(is.na(death_date)==FALSE)%>%
-  select(-shorthand_strain_name)%>%
-  relocate(exclude, .after = last_col())%>%
-  rename(necropsy_behavior_comments = behavior_and_necropsy_notes)%>%
-  rename(tumor_noticed = domed_head_or_observable_tumor_date,
-         behavior_noticed = behavior_date,
-         dob = birth_date,
-         mouse_num_tag = mouse_id)%>%
-  select(-death_age_or_current_age_for_survival_curve)%>%
-  mutate(src = "RH"), 
-by = c("mouse_num", "gender", 
-       "dob", "injection_date", "tumor_noticed", 
-       "behavior_noticed", "death_date", "injected_by",
-       "mouse_num_tag", "src",
-       "virus" = "injected_with")
+          read_csv("in_vivo_rick_clean.csv")%>%
+            
+            
+            
+            
+            filter(is.na(death_date)==FALSE)%>%
+            select(-shorthand_strain_name)%>%
+            relocate(exclude, .after = last_col())%>%
+            rename(necropsy_behavior_comments = behavior_and_necropsy_notes)%>%
+            rename(tumor_noticed = domed_head_or_observable_tumor_date,
+                   behavior_noticed = behavior_date,
+                   dob = birth_date,
+                   mouse_num_tag = mouse_id)%>%
+            select(-death_age_or_current_age_for_survival_curve)%>%
+            mutate(src = "RH"), 
+          by = c("mouse_num", "gender", 
+                 "dob", "injection_date", "tumor_noticed", 
+                 "behavior_noticed", "death_date", "injected_by",
+                 "mouse_num_tag", "src",
+                 "virus" = "injected_with")
 )%>%
   filter(is.na(dob)==FALSE)%>%
   select_at(vars(-age_at_death,
-            -age_of_tumor_onset,
-            -age_of_behavior_onset))%>%
+                 -age_of_tumor_onset,
+                 -age_of_behavior_onset))%>%
   write_csv("compiled_cohorts.csv")
 
 #########
@@ -326,8 +269,113 @@ read_csv("compiled_cohorts.csv")%>%
 
 
 
+############################################################
+############################################################
+#creating compiled_cohorts_3.csv
+##############################################################
+#############################################################
+library(tidyverse)
+library(janitor)
+
+#creating compiled_cohorts_3
+#trying to create a yes/no of had tumor or not. 
+#select.csv is a list of any variables that could help tell me if there was a tumor present. 
+
+#first gather information.
+#extract list of variable names from select.csv, to use for selection from main dataset. 
+cols<-
+  read_csv("select.csv", show_col_types = FALSE)%>%
+  clean_names()%>%
+  filter(x1 == "1")%>%
+  select(x3)%>%
+  pull()
 
 
 
+#use variable names for below transposition of dataframe. 
+
+tt<-
+  read_csv("compiled_cohorts2.csv", show_col_types = FALSE)%>%
+  select((cols))%>%
+  mutate(had_tumor = 0)%>%
+  relocate(had_tumor, .before = tumor_id)%>%
+  as.data.frame()
+
+#transpose and keep columns as first row. Will use to check how to use each variable.
+setNames(data.frame(t(tt[,-1])), tt[,1])%>%
+  
+  write.csv("tumor_test.csv")
 
 
+#used output of above to look through data variables. 
+#made notes on conditions to look for for tumor determination. 
+
+
+#looking to create a variable for whether mice had any tumors, at any time. 
+#reading in cleaned cohorts data, selecting for any variables that can be informative. 
+
+read_csv("compiled_cohorts2.csv", show_col_types = FALSE)%>%
+  
+  #create had_tumor col.
+  mutate(had_tumor = NA)%>%
+  relocate(had_tumor)%>%
+  
+  #some low-hanging fruit. 
+  mutate(had_tumor = case_when(is.na(tumor_id)==FALSE|
+                                 is.na(tumor)==FALSE|
+                                 is.na(tumor_noticed)==FALSE ~ "1"))%>%
+  
+  #case_when is having issues with complex self-referential when nested in one
+  #mutate command. Separate out if there are multiple complex and/or statements. 
+  
+  #first "complex" conditional. Entry can exist but may also say that there is no tumor. 
+  #sorts for any entries that contain values, but NOT specific phrases denoting no tumors. 
+  mutate(had_tumor = case_when(is.na(tumor_locations)==FALSE&
+                                 grepl("Pre-tumorigenic", tumor_locations)==FALSE&
+                                 grepl("no obs", tumor_locations)==FALSE ~ "1",
+                               TRUE ~ as.character(had_tumor)))%>%
+  
+  #make new column that indicates if mouse was pretumorigenic. 
+  #may be useful later, if I want to combine both tumor+pretumorigenic groups. 
+  mutate(pretumorigenic = if_else(grepl("Pre-tumorigenic", tumor_locations), 1, NA_real_))%>%
+  
+  
+  #####have to use as.character(x) in order for the false condition to ignore NAs
+  #mark 0 for tumor if was pretumorigenic. 
+  #leave remaining alone. 
+  mutate(had_tumor = case_when(pretumorigenic=="1" ~ "0", 
+                               TRUE ~ as.character(had_tumor)))%>%
+  
+  mutate(had_tumor = case_when(notes == "No tumor. Sac'd for end date." ~ "0",
+                               TRUE ~ as.character(had_tumor)))%>%
+  
+  
+  mutate(had_tumor = case_when(tumor_locations == "no obs" ~ "0",
+                               TRUE ~ as.character(had_tumor)))%>%
+  
+  mutate(had_tumor = case_when(notes == "no evidence of tumor" ~ "0",
+                               TRUE ~ as.character(had_tumor)))%>%
+  
+  mutate(had_tumor = case_when(notes == "no evidence of tumor"|
+                                 notes == "slightly hunched back but no evidence of tumor"|
+                                 notes == "ruffle fur noticed, but no obs. Tumor. found dead"|
+                                 notes == "Lost weight, extreme hunchback, head twitching, slow moving. Soft skull and brain. No obs. Tumor, no other CNS tumor found"|
+                                 notes == "Lost weight, mild hunchback, slow moving. Soft skull and brain. No obs. Tumor, no other CNS tumor found. Enlarged optic nerve" ~ "0",
+                               
+                               TRUE ~ as.character(had_tumor)))%>%
+  
+  mutate(had_tumor = case_when(necropsy_behavior_comments == "end of experiment, looked normal" ~ "0",
+                               TRUE ~ as.character(had_tumor)))%>%
+  
+  mutate(had_tumor = case_when(proof_of_mass == "yes" ~ "1",
+                               proof_of_mass == "no" ~"0",
+                               TRUE ~ as.character(had_tumor)))%>%
+  
+  
+  mutate(had_tumor = case_when(is.na(tumor_noticed) == FALSE ~ "1",
+                               TRUE ~ as.character(had_tumor)))%>%
+  
+  
+  #final product:
+  
+  write_csv("compiled_cohorts3.csv")
