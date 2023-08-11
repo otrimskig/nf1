@@ -10,15 +10,15 @@ nf1_riley <- read.xlsx("raw/Riley NF1 Glioma Data (Mouse Cohorts).xlsx",
                        sheet = "Mouse Information",
                        detectDates = TRUE)
 
-nf1_rick <- read.xlsx("raw/NF1 Glioma Mouse Information (Rick).xlsx",
-                      sheet = "In Vivo Tumor Study",
-                      detectDates = TRUE)
+
 
 
 
 #import csv file, which was saved from xcel file on 11/8/22, with cohort data complete. 
 read_csv("raw/Riley NF1 Glioma Data (Mouse Cohorts).csv")%>%
-  #housekeeping
+ 
+  
+   #housekeeping
   clean_names()%>%
   select(-x19)%>%
   
@@ -40,6 +40,8 @@ read_csv("raw/Riley NF1 Glioma Data (Mouse Cohorts).csv")%>%
   mutate(behavior_noticed = mdy(behavior_noticed))%>%
   mutate(end_date = mdy(end_date))%>%
   mutate(mri_imaging_date = mdy(mri_imaging_date))%>%
+  
+#####################################################moved  
   
   #extract info from mouse number column, which contains both mouse number and tag number. separate out into new columns. 
   mutate(mouse_num_tag = mouse_number)%>%
@@ -67,7 +69,7 @@ read_csv("raw/Riley NF1 Glioma Data (Mouse Cohorts).csv")%>%
   
   
   write.csv("glioma_cohorts_clean.csv", row.names = FALSE)
-
+############done
 
 #checking to see if Riley's survival data has anything not included in above csv.
 #make counts table of all instances of age of death, in both datasets. 
@@ -100,52 +102,13 @@ read_csv("redundant/Riley Glioma Results Survival All Cohorts.csv")%>%
 #moving to redundant file folder to avoid confusion. 
 
 
-
-#adding necropsy file   
-read_excel("raw/Riley NF1 Glioma Data (Mouse Cohorts).xlsx", 
-           sheet = "Pathologist Comments")%>%
-  as_tibble()%>%
-  clean_names()%>%
-  rename(tumor_id = mouse_number)%>%
-  mutate(mouse_num = as.numeric(substr(tumor_id, 1,5)))%>%
-  relocate(mouse_num)%>%
-  mutate(tumor = gsub(".* ", "", tumor_id))%>%
-  relocate(tumor, .after = mouse_num)%>%
-  rename(mouse_tumor = tumor_id)%>%
-  full_join(read_csv("glioma_cohorts_clean.csv"), by = c("mouse_num"))%>%
-  filter(is.na(mouse_num)==FALSE)%>%
-  arrange(mouse_num)%>%
-  #clean up data labeled as "see above"
-  mutate(necropsy_file_comments = if_else(mouse_num == 28208, "extracranial tumor, sacked for tumor burden. Little movement, squinted eyes. Possible blood clot on the liver. 2 extra possible tumors: one close to the kindeys, the other close to the lower intestines (bladder?)", necropsy_file_comments))%>%
-  write.csv("glioma_cohorts_clean2.csv", row.names = FALSE)
-
-
-
-read_excel("raw/NF1 Glioma Pathology Reports.xlsx")%>%
-  as_tibble()%>%
-  clean_names()%>%
-  mutate(mouse_num = as.numeric(substr(mouse_number, 1,5)))%>%
-  relocate(mouse_num)%>%
-  
-  #relocate(tumor, .after = mouse_num)%>%
-  rename(tumor_id = mouse_number)%>%
-  separate_rows(c(tumor_id, est_location), sep = ",")%>%
-  mutate(tumor = gsub(".* ", "", tumor_id))%>%
-  mutate(tumor_id = paste0(mouse_num, " ", tumor))%>%
-  #remove leading spaces in column with trimws function. 
-  mutate(est_location = trimws(est_location, "left"))%>%
-  rename(patho_est_location = est_location, patho_tumor_grade = tumor_grade, patho_notes = notes)%>%
-  full_join(read_csv("glioma_cohorts_clean2.csv"), by = c("mouse_num", "tumor"))%>%
-  mutate(src = "RE")%>%
-  mutate(necropsy_comments = necropsy_file_comments)%>%
-  
-  write.csv("glioma_cohorts.clean3.csv", row.names = FALSE)
-
-
-
-
-
+##################################################done
 ####################################################################
+
+nf1_rick <- read.xlsx("raw/NF1 Glioma Mouse Information (Rick).xlsx",
+                      sheet = "In Vivo Tumor Study",
+                      detectDates = TRUE)
+
 #rick data
 read_csv("raw/in vivo rick.csv", col_names = FALSE)%>%
   as_tibble()%>%
@@ -176,6 +139,59 @@ read_csv("raw/in vivo rick.csv", col_names = FALSE)%>%
   #view()
   
   write.csv("in_vivo_rick_clean.csv", row.names = FALSE)
+
+
+
+
+###############note: haven't added this to new. Adding rick's cohorts first. 
+
+#adding necropsy file   
+read_excel("raw/Riley NF1 Glioma Data (Mouse Cohorts).xlsx", 
+           sheet = "Pathologist Comments")%>%
+  as_tibble()%>%
+  clean_names()%>%
+  rename(tumor_id = mouse_number)%>%
+  mutate(mouse_num = as.numeric(substr(tumor_id, 1,5)))%>%
+  relocate(mouse_num)%>%
+  mutate(tumor = gsub(".* ", "", tumor_id))%>%
+  relocate(tumor, .after = mouse_num)%>%
+  rename(mouse_tumor = tumor_id)%>%
+  
+  
+  full_join(read_csv("glioma_cohorts_clean.csv"), by = c("mouse_num"))%>%
+  filter(is.na(mouse_num)==FALSE)%>%
+  arrange(mouse_num)%>%
+  #clean up data labeled as "see above"
+  mutate(necropsy_file_comments = if_else(mouse_num == 28208, "extracranial tumor, sacked for tumor burden. Little movement, squinted eyes. Possible blood clot on the liver. 2 extra possible tumors: one close to the kindeys, the other close to the lower intestines (bladder?)", necropsy_file_comments))%>%
+  write.csv("glioma_cohorts_clean2.csv", row.names = FALSE)
+
+
+
+
+
+read_excel("raw/NF1 Glioma Pathology Reports.xlsx")%>%
+  as_tibble()%>%
+  clean_names()%>%
+  mutate(mouse_num = as.numeric(substr(mouse_number, 1,5)))%>%
+  relocate(mouse_num)%>%
+  
+  #relocate(tumor, .after = mouse_num)%>%
+  rename(tumor_id = mouse_number)%>%
+  separate_rows(c(tumor_id, est_location), sep = ",")%>%
+  mutate(tumor = gsub(".* ", "", tumor_id))%>%
+  mutate(tumor_id = paste0(mouse_num, " ", tumor))%>%
+  #remove leading spaces in column with trimws function. 
+  mutate(est_location = trimws(est_location, "left"))%>%
+  rename(patho_est_location = est_location, patho_tumor_grade = tumor_grade, patho_notes = notes)%>%
+  full_join(read_csv("glioma_cohorts_clean2.csv"), by = c("mouse_num", "tumor"))%>%
+  mutate(src = "RE")%>%
+  mutate(necropsy_comments = necropsy_file_comments)%>%
+  
+  write.csv("glioma_cohorts.clean3.csv", row.names = FALSE)
+
+
+
+
 
 
 
