@@ -1,103 +1,103 @@
-# #going from raw data, to compiled_cohorts3. 
-# 
-# library(tidyverse)
-# library(janitor)
-# library(openxlsx)
-# library(lubridate)
-# library(stringr)
-# 
-# nf1_riley <- read.xlsx("raw/Riley NF1 Glioma Data (Mouse Cohorts).xlsx", 
-#                        sheet = "Mouse Information",
-#                        detectDates = TRUE)
-# 
+#going from raw data, to compiled_cohorts3. 
+
+library(tidyverse)
+library(janitor)
+library(openxlsx)
+library(lubridate)
+library(stringr)
+
+nf1_riley <- read.xlsx("raw/Riley NF1 Glioma Data (Mouse Cohorts).xlsx", 
+                       sheet = "Mouse Information",
+                       detectDates = TRUE)
 
 
 
-# 
-# #import csv file, which was saved from xcel file on 11/8/22, with cohort data complete. 
-# read_csv("raw/Riley NF1 Glioma Data (Mouse Cohorts).csv")%>%
+
+
+#import csv file, which was saved from xcel file on 11/8/22, with cohort data complete. 
+read_csv("raw/Riley NF1 Glioma Data (Mouse Cohorts).csv")%>%
  
   
-  #  #housekeeping
-  # clean_names()%>%
-  # select(-x19)%>%
+   #housekeeping
+  clean_names()%>%
+  select(-x19)%>%
   
-  # #remove all columns that don't have mouse numbers.
-  # arrange(desc(mouse_number))%>%
-  # slice(-(1:14))%>%
-  # arrange(mouse_number)%>%
-  # 
-  # #clean up injection_date column, where some of the dates also have initals of person who injected. 
-  # #backup column data
-  # mutate(injection_date2 = injection_date)%>%
-  # #in new column, delete everything before the space. 
-  # mutate(injection_date = gsub(" .*", "", injection_date))%>%
-  # #convert all date columns to date, (uses lubridate function)
-  # mutate(injection_date = mdy(injection_date))%>%
-  # mutate(dob = mdy(dob))%>%
-  # mutate(death_date = mdy(death_date))%>%
-  # mutate(tumor_noticed = mdy(tumor_noticed))%>%
-  # mutate(behavior_noticed = mdy(behavior_noticed))%>%
-  # mutate(end_date = mdy(end_date))%>%
-  # mutate(mri_imaging_date = mdy(mri_imaging_date))%>%
+  #remove all columns that don't have mouse numbers.
+  arrange(desc(mouse_number))%>%
+  slice(-(1:14))%>%
+  arrange(mouse_number)%>%
+  
+  #clean up injection_date column, where some of the dates also have initals of person who injected. 
+  #backup column data
+  mutate(injection_date2 = injection_date)%>%
+  #in new column, delete everything before the space. 
+  mutate(injection_date = gsub(" .*", "", injection_date))%>%
+  #convert all date columns to date, (uses lubridate function)
+  mutate(injection_date = mdy(injection_date))%>%
+  mutate(dob = mdy(dob))%>%
+  mutate(death_date = mdy(death_date))%>%
+  mutate(tumor_noticed = mdy(tumor_noticed))%>%
+  mutate(behavior_noticed = mdy(behavior_noticed))%>%
+  mutate(end_date = mdy(end_date))%>%
+  mutate(mri_imaging_date = mdy(mri_imaging_date))%>%
   
 #####################################################moved  
   
-  # #extract info from mouse number column, which contains both mouse number and tag number. separate out into new columns. 
-  # mutate(mouse_num_tag = mouse_number)%>%
-  # mutate(mouse_num = substr(mouse_num_tag, 1, 5))%>%
-  # mutate(mouse_tag = substr(mouse_num_tag, 7,8))%>%
-  # select(-mouse_number)%>%
-  # relocate(mouse_num)%>%
+  #extract info from mouse number column, which contains both mouse number and tag number. separate out into new columns. 
+  mutate(mouse_num_tag = mouse_number)%>%
+  mutate(mouse_num = substr(mouse_num_tag, 1, 5))%>%
+  mutate(mouse_tag = substr(mouse_num_tag, 7,8))%>%
+  select(-mouse_number)%>%
+  relocate(mouse_num)%>%
   
-  # #extract injected_by info from injection date + initials combo. 
-  # rename(injected_by = injection_date2)%>%
-  # #removes all characters before the space
-  # mutate(injected_by = gsub(".* ", "", injected_by))%>%
-  # #removes parentheses
-  # mutate(injected_by = gsub("\\(", "", injected_by))%>%
-  # mutate(injected_by = gsub("\\)", "", injected_by))%>%
-  # #all dates that didn't have initials, were left unchanged by the above parsing.
-  # #change all strings longer than 3 (ie non initials) to arbitrary 
-  # mutate(injected_by = if_else(nchar(injected_by) > 3, "NA", injected_by))%>%
-  # mutate(injected_by = na_if(injected_by, "NA"))%>%
-  # 
-  # mutate(death_date = coalesce(death_date, end_date))%>%
-  # mutate(end_date = coalesce(end_date, death_date))%>%
-  # mutate(age_death_cap = as.numeric(death_date - injection_date))%>%
-  # mutate(age_death_cap = if_else(is.na(tumor_locations)==TRUE, 151, age_death_cap))%>%
+  #extract injected_by info from injection date + initials combo. 
+  rename(injected_by = injection_date2)%>%
+  #removes all characters before the space
+  mutate(injected_by = gsub(".* ", "", injected_by))%>%
+  #removes parentheses
+  mutate(injected_by = gsub("\\(", "", injected_by))%>%
+  mutate(injected_by = gsub("\\)", "", injected_by))%>%
+  #all dates that didn't have initials, were left unchanged by the above parsing.
+  #change all strings longer than 3 (ie non initials) to arbitrary 
+  mutate(injected_by = if_else(nchar(injected_by) > 3, "NA", injected_by))%>%
+  mutate(injected_by = na_if(injected_by, "NA"))%>%
   
-  # 
-  # write.csv("glioma_cohorts_clean.csv", row.names = FALSE)
+  mutate(death_date = coalesce(death_date, end_date))%>%
+  mutate(end_date = coalesce(end_date, death_date))%>%
+  mutate(age_death_cap = as.numeric(death_date - injection_date))%>%
+  mutate(age_death_cap = if_else(is.na(tumor_locations)==TRUE, 151, age_death_cap))%>%
+  
+  
+  write.csv("glioma_cohorts_clean.csv", row.names = FALSE)
 ############done
 
 #checking to see if Riley's survival data has anything not included in above csv.
-# #make counts table of all instances of age of death, in both datasets. 
-# count1<-
-#   read_csv("glioma_cohorts_clean.csv")%>%
-#   as_tibble()%>%
-#   count(age_at_death)
+#make counts table of all instances of age of death, in both datasets. 
+count1<-
+  read_csv("glioma_cohorts_clean.csv")%>%
+  as_tibble()%>%
+  count(age_at_death)
 
 
-# #count2<-
-# read_csv("redundant/Riley Glioma Results Survival All Cohorts.csv")%>%
-#   as_tibble()%>%
-#   clean_names()%>%
-#   select(1,2)%>%
-#   count(age_days)
-# 
-# #join by number of instances. 
-# full_join(count1, count2, by = c("age_at_death" = "age_days"))%>%
-#   view()
-# #all age of death counts are larger or equal in my dataset. 
-# #for a more robust check, join 2 datasets by mouse number.
-# read_csv("redundant/Riley Glioma Results Survival All Cohorts.csv")%>%
-#   as_tibble()%>%
-#   clean_names()%>%
-#   select(1,2)%>%
-#   full_join(read_csv("glioma_cohorts_clean.csv"), by = c("x1" = "mouse_num_tag"))%>%
-# #   select(1,2, age_at_death)%>%
-#   view()
+#count2<-
+read_csv("redundant/Riley Glioma Results Survival All Cohorts.csv")%>%
+  as_tibble()%>%
+  clean_names()%>%
+  select(1,2)%>%
+  count(age_days)
+
+#join by number of instances. 
+full_join(count1, count2, by = c("age_at_death" = "age_days"))%>%
+  view()
+#all age of death counts are larger or equal in my dataset. 
+#for a more robust check, join 2 datasets by mouse number.
+read_csv("redundant/Riley Glioma Results Survival All Cohorts.csv")%>%
+  as_tibble()%>%
+  clean_names()%>%
+  select(1,2)%>%
+  full_join(read_csv("glioma_cohorts_clean.csv"), by = c("x1" = "mouse_num_tag"))%>%
+  select(1,2, age_at_death)%>%
+  view()
 #confirmed all matches, with glioma_cohorts_clean having additional data. Riley Glioma Results Survival All is redundant.
 #moving to redundant file folder to avoid confusion. 
 
