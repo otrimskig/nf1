@@ -1,0 +1,31 @@
+loc,slot,mouse_num,src,exclude,metadata,notes_he_ihc_brain,sheri_has_seen_h_e,nec_performed,organ,stain,note,box_label,sample_type,container
+NFG01,2,28530,RH + RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,3,28531,RH + RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,4,29818,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,6,29819,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,8,29820,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,10,29821,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,12,29822,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,16,30212,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,18,30213,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,20,30214,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,23,30215,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,25,30216,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,27,30217,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,29,30218,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma,Slide,White Slide Box
+NFG01,48,28200,RH + RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma Extracranial Tumors #2,Slide,White Slide Box
+NFG01,58,30232,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 glioma,Slide,White Slide Box
+NFG01,60,30233,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 glioma,Slide,White Slide Box
+NFG01,62,30234,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 glioma,Slide,White Slide Box
+NFG01,66,30236,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 glioma,Slide,White Slide Box
+NFG01,76,28204,RH + RE,NA,NA,NA,NA,1,B,HE,NA,Misc Slides,Slide,White Slide Box
+NFG01,83,28202,RH + RE,NA,NA,NA,NA,1,B,HE,NA,Misc Slides,Slide,White Slide Box
+NFG01,89,28207,RH + RE,NA,NA,NA,NA,1,B,HE,NA,Nf1 glioma brains from mice with other tumors,Slide,White Slide Box
+NFG01,94,28203,RH + RE,NA,NA,NA,NA,1,B,HE,NA,Nf1 glioma extracranial tumors,Slide,White Slide Box
+NFG02,9,28208,RH + RE,NA,NA,NA,NA,1,B,HE,NA,Nf1 glioma extracranial tumors,Slide,White Slide Box
+NFG02,34,28205,RH + RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Gliomas Brain Tumors (Glioma),Slide,White Slide Box
+NFG02,38,29409,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,White Slide Box
+NFG02,43,29387,RE,NA,NA,NA,NA,1,B,HE,NA,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,White Slide Box
+NFG15,23,28529,RH + RE,NA,NA,NA,NA,1,B,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,White Slide Box
+NFG15,35,28528,RH + RE,NA,NA,NA,NA,1,B,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,White Slide Box
+NFG15,41,28526,RH + RE,NA,NA,NA,NA,1,B,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,White Slide Box

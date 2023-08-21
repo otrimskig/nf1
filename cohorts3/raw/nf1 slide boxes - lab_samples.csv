@@ -1,0 +1,1170 @@
+,,,,,,,,
+slot,Mouse ID,Organ,Stain,note,Box Label,sample type,Loc,container
+1,28525,B,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+2,28530,B,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+3,28531,B,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+4,29818,B,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+5,29818,ON,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+6,29819,B,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+7,29819,ON,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+8,29820,B,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+9,29820,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+10,29821,b,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+11,29821,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+12,29822,b,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+13,29822,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+14,29823,b,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+15,29823,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+16,30212,b,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+17,30212,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+18,30213,b,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+19,30213,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+20,30214,b,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+21,30214,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+22,30214,t1,HE,*,NF1 Glioma,Slide,NFG01,White Slide Box
+23,30215,b,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+24,30215,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+25,30216,b,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+26,30216,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+27,30217,b,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+28,30217,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+29,30218,b,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+30,30218,on,HE,,NF1 Glioma,Slide,NFG01,White Slide Box
+31,26007,,HE,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+32,26010,,HE,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+33,26276,T1,perk,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+34,26276,T1,ki67,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+35,26276,T1,pten,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+36,26276,T1,synap,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+37,26274,T1,ki67,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+38,26274,T1,perk,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+39,26274,,HE,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+40,26274,T1,pten,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+41,26014,T1,ki67,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+42,26014,T1,ki67,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+43,26014,T1,synap,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+44,26014,T1,pten,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+45,26014,,HE,,Nf1 Glioma Spinal Cord Tumors,Slide,NFG01,White Slide Box
+46,28207,T1,gfap,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+47,28200,T1,gfap,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+48,28200,B,HE,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+49,26009,B,HE,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+50,26009,T1,ki67,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+51,26009,T1,perk,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+52,26009,T1,ki67,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+53,26279,T1,synap,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+54,26279,T1,perk,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+55,26279,,HE,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+56,26279,T1,ki67,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+57,26279,T1,olig2,,NF1 Glioma Extracranial Tumors #2,Slide,NFG01,White Slide Box
+58,30232,B,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+59,30232,on,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+60,30233,b,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+61,30233,on,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+62,30234,b,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+63,30234,on,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+64,30235,b,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+65,30235,on,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+66,30236,b,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+67,30236,on,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+68,30237,b,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+69,30237,on,HE,,NF1 glioma,Slide,NFG01,White Slide Box
+70,28208,T1,synap,,Misc Slides,Slide,NFG01,White Slide Box
+71,26037,T1,synap,,Misc Slides,Slide,NFG01,White Slide Box
+72,28208,T1,gfap,,Misc Slides,Slide,NFG01,White Slide Box
+73,28203,T1,gfap,,Misc Slides,Slide,NFG01,White Slide Box
+74,26009,T1,synap,,Misc Slides,Slide,NFG01,White Slide Box
+75,28203,T1,synap,,Misc Slides,Slide,NFG01,White Slide Box
+76,28204,b,HE,,Misc Slides,Slide,NFG01,White Slide Box
+77,28204,b,perk,,Misc Slides,Slide,NFG01,White Slide Box
+78,28204,b,ki67,,Misc Slides,Slide,NFG01,White Slide Box
+79,26280,b,HE,,Misc Slides,Slide,NFG01,White Slide Box
+80,26280,b,ki67,,Misc Slides,Slide,NFG01,White Slide Box
+81,28202,T1,HE,,Misc Slides,Slide,NFG01,White Slide Box
+82,28202,T1,ki67,,Misc Slides,Slide,NFG01,White Slide Box
+83,28202,b,HE,,Misc Slides,Slide,NFG01,White Slide Box
+84,28202,b,gfap,,Misc Slides,Slide,NFG01,White Slide Box
+85,28208,B,perk,,Nf1 glioma brains from mice with other tumors,Slide,NFG01,White Slide Box
+86,28208,b,perk,,Nf1 glioma brains from mice with other tumors,Slide,NFG01,White Slide Box
+87,28203,b,perk,,Nf1 glioma brains from mice with other tumors,Slide,NFG01,White Slide Box
+88,28207,b,perk,,Nf1 glioma brains from mice with other tumors,Slide,NFG01,White Slide Box
+89,28207,b,HE,,Nf1 glioma brains from mice with other tumors,Slide,NFG01,White Slide Box
+90,28203,T1,HE,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+91,28203,T1,perk,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+92,28203,T1,ki67,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+93,28203,T1,pten,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+94,28203,b,HE,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+95,28208,T1,HE,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+96,28208,T1,perk,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+97,28203,T1,olig2,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+98,28208,T1,pten,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+99,28208,T1,olig2,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+100,28207,T1,HE,,Nf1 glioma extracranial tumors,Slide,NFG01,White Slide Box
+,,,,,,,,
+,,,,,,,,
+1,28207,T1,perk,,Nf1 glioma extracranial tumors,Slide,NFG02,White Slide Box
+2,28207,T1,ki67,,Nf1 glioma extracranial tumors,Slide,NFG02,White Slide Box
+3,28207,T1,pten,,Nf1 glioma extracranial tumors,Slide,NFG02,White Slide Box
+4,28207,T1,olig2,,Nf1 glioma extracranial tumors,Slide,NFG02,White Slide Box
+5,28207,T1,synap,,Nf1 glioma extracranial tumors,Slide,NFG02,White Slide Box
+6,26037,b,HE,,Nf1 glioma extracranial tumors,Slide,NFG02,White Slide Box
+7,26037,T1,pten,,Nf1 glioma extracranial tumors,Slide,NFG02,White Slide Box
+8,26037,T1,perk,,Nf1 glioma extracranial tumors,Slide,NFG02,White Slide Box
+9,28208,b,HE,,Nf1 glioma extracranial tumors,Slide,NFG02,White Slide Box
+10,28202,b,olig2,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+11,28202,T1,perk,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+12,28208,T1,ki67,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+13,28202,T1,pten,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+14,28202,T1,olig2,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+15,28200,T1,olig2,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+16,28200,T1,HE,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+17,28200,T1,perk,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+18,28200,T1,ki67,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+19,28200,T1,pten,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+20,28202,b,synap,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+21,28202,T1,synap,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+22,28202,T1,gfap,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+23,26280,b,pten,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+24,26281,b,HE,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+25,26281,b,ki67,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+26,26281,b,perk,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+27,26281,b,perk,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+28,28200,t1,synap,,NF1 Glioma Intracranial Tumors/Possible OPG,Slide,NFG02,White Slide Box
+29,28204,B,pten,,NF1 Gliomas Brain Tumors (Glioma),Slide,NFG02,White Slide Box
+30,26012,b,HE,,NF1 Gliomas Brain Tumors (Glioma),Slide,NFG02,White Slide Box
+31,26012,b,perk,,NF1 Gliomas Brain Tumors (Glioma),Slide,NFG02,White Slide Box
+32,26012,b,ki67,,NF1 Gliomas Brain Tumors (Glioma),Slide,NFG02,White Slide Box
+33,26012,b,pten,,NF1 Gliomas Brain Tumors (Glioma),Slide,NFG02,White Slide Box
+34,28205,b,HE,,NF1 Gliomas Brain Tumors (Glioma),Slide,NFG02,White Slide Box
+35,28205,b,perk,,NF1 Gliomas Brain Tumors (Glioma),Slide,NFG02,White Slide Box
+36,28205,b,ki67,,NF1 Gliomas Brain Tumors (Glioma),Slide,NFG02,White Slide Box
+37,28205,b,pten,,NF1 Gliomas Brain Tumors (Glioma),Slide,NFG02,White Slide Box
+38,29409,b,HE,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,NFG02,White Slide Box
+39,29409,b,perk,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,NFG02,White Slide Box
+40,29409,b,ki67,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,NFG02,White Slide Box
+41,29409,b,pten,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,NFG02,White Slide Box
+42,29409,b,gfap,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,NFG02,White Slide Box
+43,29387,b,HE,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,NFG02,White Slide Box
+44,29387,b,perk,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,NFG02,White Slide Box
+45,29387,b,ki67,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,NFG02,White Slide Box
+46,29387,b,synap,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,NFG02,White Slide Box
+47,26009,T1,olig2,,,Slide,NFG02,White Slide Box
+48,26279,t1,HE,,,Slide,NFG02,White Slide Box
+49,26279,t1,gfap,,,Slide,NFG02,White Slide Box
+50,26276,t1,HE,,,Slide,NFG02,White Slide Box
+51,26276,t1,olig2,,,Slide,NFG02,White Slide Box
+52,26276,t1,gfap,,,Slide,NFG02,White Slide Box
+53,26274,t1,HE,,,Slide,NFG02,White Slide Box
+54,26274,t1,olig2,,,Slide,NFG02,White Slide Box
+55,26274,t1,gfap,,,Slide,NFG02,White Slide Box
+56,26274,t1,synap,,,Slide,NFG02,White Slide Box
+57,26014,t1,perk,,,Slide,NFG02,White Slide Box
+58,26014,t1,HE,,,Slide,NFG02,White Slide Box
+59,26014,t1,gfap,,,Slide,NFG02,White Slide Box
+60,26014,t1,olig2,,,Slide,NFG02,White Slide Box
+61,26037,t1,HE,,,Slide,NFG02,White Slide Box
+62,26037,t1,ki67,,,Slide,NFG02,White Slide Box
+63,26037,t1,gfap,,,Slide,NFG02,White Slide Box
+64,26037,t1,olig2,,,Slide,NFG02,White Slide Box
+65,26009,t1,HE,,,Slide,NFG02,White Slide Box
+66,26009,t1,gfap,,,Slide,NFG02,White Slide Box
+67,28208,t3,HE,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+68,28208,t3,perk,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+69,28208,t3,ki67,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+70,28208,t3,pten,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+71,28893,b,HE,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+72,26870,t2,gfap,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+73,26870,t1,pten,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+74,26870,t1,ki67,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+75,26870,t2,perk,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+76,23792,b,ki67,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+77,28208,t2,HE,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+78,28208,t2,perk,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+79,28208,t2,ki67,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+80,27421,t1,ki67,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+81,29161,b,olig2,cas9 control,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+82,29387,b,olig2,,NF1 Glioma Other Tumors,Slide,NFG02,White Slide Box
+83,29163,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+84,29389,on,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+85,29390,on,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+86,28709,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+87,28781,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+88,28710,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+89,29166,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+90,29165,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+91,28784,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+92,28783,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+93,26867,t1,perk,control,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+94,26867,t1,ki67,control,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+95,29390,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+96,29163,on,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+97,29164,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+98,28782,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+99,29389,b,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+100,29164,on,perk,,Nf1 ihc perk TE 7/27/22,Slide,NFG02,White Slide Box
+,,,,,,,,
+,,,,,,,,
+1,22841,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+2,22843,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+3,22844,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+4,22846,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+5,22847,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+6,22921,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+7,22922,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+8,22923,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+9,22923,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+10,22925,b,he,tumor on bottom of brain,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+11,23021,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+12,23269,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+13,23270,b,he,original,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+14,23271,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+15,23286,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+16,23287,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+17,23288,b,he,tumor outside skull,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+18,23289,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+19,23290,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+20,23291,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+21,23292,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+22,23293,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+23,23294,b,he,tumor,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+24,23295,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+25,23296,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+26,23297,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+27,23298,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+28,23299,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+29,23300,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+30,23301,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+31,23397,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+32,23400,b,he,arrow,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+33,23460,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+34,23461,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+35,23463,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+36,23464,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+37,23465,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+38,23466,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+39,23467,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+40,23468,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+41,23469,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+42,23470,b,he,arrow,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+43,23522,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+44,23523,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+45,23524,b,he,original,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+46,23525,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+47,23525,b,he,ct,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+48,23525,b,he,original. arrow,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+49,23527,b,he,*,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+50,23528,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+51,23783,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+52,23784,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+53,23785,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+54,23786,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+55,23787,b,he,original arrow,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+56,23789,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+57,23790,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+58,23791,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+59,23792,b,he,original. ?,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+60,23822,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+61,23823,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+62,23824,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+63,23826,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+64,23828,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+65,23865,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+66,23866,b,he,ventricle?,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+67,23867,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+68,23964,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+69,23965,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+70,23965,b,he,spt,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+71,23966,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+72,23967,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+73,23967,b,he,spt,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+74,23968,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+75,23969,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+76,23970,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+77,23971,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+78,24801,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+79,24802,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+80,24803,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+81,24804,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+82,24805,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+83,24807,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+84,24986,b,he,original,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+85,24987,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+86,24988,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+87,24989,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+88,25025,b,he,*,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+89,25026,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+90,25027,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+91,25028,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+92,25029,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+93,25031,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+94,25033,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+95,25034,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+96,25080,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+97,25081,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+98,25082,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+99,25083,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+100,25084,b,he,,Nf-1 N-TVA original H&E 22841-25084,Slide,NFG03,Blue Slide Box
+,,,,,,,,
+,,,,,,,,
+1,29389,b,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+2,29389,on,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+3,29390,b,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+4,29390,on,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+5,29397,b,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+6,29397,on,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+7,29398,b,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+8,29398,on,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+9,29399,on,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+10,29400,b,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+11,29400,on,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+12,29401,b,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+13,29401,on,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+14,29403,on,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+15,29404,on,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+16,29405,b,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+17,29405,on,he,,Nf1 glioma H&E 29289-29405,Slide,NFG04,Green Slide Box
+18,29406,b,he,,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+19,29406,on,he,,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+20,28708,b,he,,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+21,28708,b,ki67,te 7/21/22,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+22,28708,b,perk,te 7/27/22,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+23,28780,b,he,,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+24,28780,b,perk,te 7/27,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+25,28780,b,ki67,te 7/21,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+26,29388,on,he,,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+27,29388,on,ki67,te 8/4/22,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+28,29385,b,he,,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+29,29386,b,ki67,te 8/4/22,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+30,29388,b,he,,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+31,29388,b,ki67,te 8/4/22,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+32,29403,b,he,,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+33,29403,b,ki67,te 8/4/22,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+34,29404,b,he,*,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+35,29404,b,ki67,* te 8/4//22,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+36,29399,b,he,,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+37,29399,b,ki67,te 8/4/22,Nf1 glioma H&E 29406,Slide,NFG04,Green Slide Box
+38,28709,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+39,28710,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+40,28781,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+41,28782,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+42,28783,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+43,28784,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+44,29163,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+45,29163,on,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+46,29164,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+47,29164,on,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+48,29168,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+49,29166,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+50,29385,on,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+51,29386,b,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+52,29386,on,he,,Nf1 glioma H&E 28708-29388,Slide,NFG04,Green Slide Box
+53,26282,b,he,,Nf1 N-tva original H&E 26281-26311,Slide,NFG04,Green Slide Box
+54,26305,b,he,,Nf1 N-tva original H&E 26281-26311,Slide,NFG04,Green Slide Box
+55,26306,b,he,,Nf1 N-tva original H&E 26281-26311,Slide,NFG04,Green Slide Box
+56,26307,b,he,,Nf1 N-tva original H&E 26281-26311,Slide,NFG04,Green Slide Box
+57,26308,b,he,,Nf1 N-tva original H&E 26281-26311,Slide,NFG04,Green Slide Box
+58,26309,b,he,,Nf1 N-tva original H&E 26281-26311,Slide,NFG04,Green Slide Box
+59,26310,b,he,,Nf1 N-tva original H&E 26281-26311,Slide,NFG04,Green Slide Box
+60,26311,b,he,,Nf1 N-tva original H&E 26281-26311,Slide,NFG04,Green Slide Box
+61,29161,b,he,cas9,,Slide,NFG04,Green Slide Box
+62,29161,b,perk,cas9,,Slide,NFG04,Green Slide Box
+63,29162,b,he,cas9,,Slide,NFG04,Green Slide Box
+64,29162,b,perk,cas9,,Slide,NFG04,Green Slide Box
+65,23291,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+66,23294,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+67,23527,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+68,23785,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+69,23786,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+70,23792,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+71,23823,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+72,23866,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+73,23966,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+74,25025,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+75,25690,b,he,original,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+76,25694,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+77,25741,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+78,25797,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+79,26066,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+80,26137,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+81,26138,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+82,26143,b,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+83,23291,b,pten,9/21/21,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+84,23294,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+85,23527,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+86,23785,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+87,23786,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+88,23792,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+89,23823,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+90,23866,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+91,23966,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+92,25025,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+93,25690,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+94,25694,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+95,25741,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+96,25767,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+97,26066,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+98,26137,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+99,26138,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+100,26143,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG04,Green Slide Box
+,,,,,,,,
+,,,,,,,,
+1,23785,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+2,23786,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+3,23821,b,pten,pos control,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+4,23821,b,pten,neg control no 1 ab,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+5,23823,b,pten,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+6,25238,h,he,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+7,23294,b,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+8,23527,b,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+9,23866,b,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+10,25690,b,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+11,25690,b,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+12,25694,b,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+13,25741,b,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+14,26137,b,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+15,26138,b,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+16,26143,b,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+17,25238,h,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+18,25238,h,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+19,25238,h,unst,,nf1 glioma serial H&E unstained + pten,Slide,NFG05,White Slide Box
+20,22843,b,nf1,nf1 1:200 tva-,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+21,22843,b,nf1,nf1 1:400 tva-,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+22,22843,b,nf1,nf1 1:800 tva-,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+23,22843,b,nf1,nf1 1:1600 tva-,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+24,22843,b,unst,no ab,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+25,23465,b,nf1,nf1 ab 1:300,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+26,23463,b,nf1,nf1 ab 1:300,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+27,23288,b,nf1,nf1 ab 1:300,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+28,23397,b,nf1,nf1 ab 1:300,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+29,23021,b,nf1,nf1 ab 1:300,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+30,22843,b,nf1,nf1 ab 1:300,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+31,23287,b,nf1,nf1 ab 1:300,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+32,22925,b,nf1,nf1 ab 1:300,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+33,22843,b,nf1,nf1 ab 1:100 tva-,nf1 optimization ab slides tva- brains 9/1/20 ZL / nf1 big tumor slides #1 + tva -,Slide,NFG05,White Slide Box
+34,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+35,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+36,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+37,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+38,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+39,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+40,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+41,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+42,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+43,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+44,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+45,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+46,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+47,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+48,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+49,23821,b,unst,,unstained tva- slides for IHC control 23821 ZL,Slide,NFG05,White Slide Box
+50,26306,b,unst,,unstained 23284 slides for ihc head tumor control ZL / unstained 26306 tva+ brain no glioma observable,Slide,NFG05,White Slide Box
+51,26306,b,unst,,unstained 23284 slides for ihc head tumor control ZL / unstained 26306 tva+ brain no glioma observable,Slide,NFG05,White Slide Box
+52,26306,b,unst,,unstained 23284 slides for ihc head tumor control ZL / unstained 26306 tva+ brain no glioma observable,Slide,NFG05,White Slide Box
+53,26306,b,unst,,unstained 23284 slides for ihc head tumor control ZL / unstained 26306 tva+ brain no glioma observable,Slide,NFG05,White Slide Box
+54,23288,b,unst,,unstained 23284 slides for ihc head tumor control ZL / unstained 26306 tva+ brain no glioma observable,Slide,NFG05,White Slide Box
+55,29056,t1,ki67,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+56,29056,t1,perk,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+57,29055,t1,ki67,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+58,29055,t1,perk,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+59,29054,b,ki67,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+60,29054,b,perk,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+61,29054,t2,ki67,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+62,29054,t2,perk,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+63,29054,t1,ki67,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+64,29054,t1,perk,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+65,29385,on,ki67,,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+66,29386,b,ki67,,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+67,29056,t1.2,ki67,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+68,29056,t1.2,perk,aa,all alleles + cas9 f/f perk ki67/ no filter,Slide,NFG05,White Slide Box
+69,27421,t1,ki67,control,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+70,28782,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+71,29163,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+72,28709,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+73,28781,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+74,29390,on,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+75,28710,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+76,29166,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+77,28783,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+78,29389,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+79,29164,on,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+80,29390,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+81,28784,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+82,29389,on,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+83,29164,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+84,29163,on,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+85,29165,b,ki67,,nf1 ihc te ki67 7/26/22,Slide,NFG05,White Slide Box
+86,29403,on,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+87,29400,on,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+88,29397,on,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+89,29405,on,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+90,29401,on,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+91,29404,on,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+92,29399,on,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+93,29403,on,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+94,29398,on,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+95,29400,b,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+96,29405,b,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+97,29397,b,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+98,29406,b,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+99,29398,b,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+100,29401,b,ki67,,nf1 glioma ki67 8/4/22,Slide,NFG05,White Slide Box
+,,,,,,,,
+,,,,,,,,
+1,22843,b,nf1,1:200 tva-,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+2,23298,b,unst,no primary ab 1:200 control,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+3,23021,b,nf1,1:200 ab,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+4,23465,b,nf1,1:200 ab,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+5,23287,b,nf1,1:200 ab,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+6,23463,b,nf1,1:200 ab,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+7,23397,b,nf1,1:200 ab,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+8,23288,b,nf1,1:200 ab,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+9,22925,b,nf1,1:200 ab,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+10,23288,b,perk,no primary ab control,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+11,17348,t1,perk,pos control,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+12,22843,b,perk,control tva-,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+13,23287,b,perk,,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+14,23021,b,perk,,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+15,23463,b,perk,,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+16,23465,b,perk,,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+17,23288,b,perk,,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+18,23397,b,perk,,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+19,22925,b,perk,,stained ihc slides perk and nf1 for nf1 project ZL,Slide,NFG06,Green Slide Box
+20,23270,b,he,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+21,23270,b,ki67,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+22,23270,b,perk,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+23,23293,b,he,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+24,23293,b,ki67,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+25,23293,b,perk,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+26,23523,b,he,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+27,23523,b,ki67,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+28,23523,b,perk,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+29,23524,b,he,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+30,23524,b,ki67,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+31,23524,b,perk,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+32,23526,b,he,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+33,23526,b,ki67,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+34,23526,b,perk,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+35,23787,b,he,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+36,23787,b,ki67,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+37,23787,b,perk,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+38,24986,b,he,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+39,24986,b,ki67,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+40,24986,b,perk,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+41,25503,b,he,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+42,25503,b,ki67,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+43,25503,b,perk,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+44,26140,b,he,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+45,26140,b,ki67,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+46,26140,b,perk,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+47,23270,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+48,23270,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+49,23293,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+50,23523,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+51,23523,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+52,23524,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+53,23524,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+54,23526,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+55,23526,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+56,23787,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+57,23787,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+58,24986,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+59,24986,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+60,25503,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+61,26140,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+62,26140,b,unst,,"nf1 non-gliomas ntva h&e, ki67, perk, unstained",Slide,NFG06,Green Slide Box
+63,29162,b,unst,cas9,nf1 glioma extra/unecessary slides,Slide,NFG06,Green Slide Box
+64,29161,b,unst,cas9,nf1 glioma extra/unecessary slides,Slide,NFG06,Green Slide Box
+65,29161,b,unst,cas9,nf1 glioma extra/unecessary slides,Slide,NFG06,Green Slide Box
+66,29162,b,unst,cas9,nf1 glioma extra/unecessary slides,Slide,NFG06,Green Slide Box
+67,28202,b,ki67,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+68,28205,b,ki67,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+69,16-9389,t1b,s100,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+70,21232,t1,s100,1:100d,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+71,21232,t1,s100,no primary ab,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+72,21227,t2,s100,1:50 d,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+73,21227,t2,s100,1:25d,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+74,21232,t2,s100,1:12.5d,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+75,28203,t1,ki67,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+76,28208,t1,ki67,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+77,28203,b,ki67,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+78,28204,b,ki67,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+79,28208,b,ki67,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+80,28207,t1,ki67,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+81,28208,t2,ki67,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+82,28207,b,ki67,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+83,23288,b,s100,no primary ab neg control,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+84,17820,t1,s100,pos control,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+85,23821,b,s100,tva- normal brain,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+86,23287,b,s100,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+87,22925,b,s100,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+88,23397,b,s100,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+89,23288,b,s100,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+90,23463,b,s100,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+91,23465,b,s100,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+92,23021,b,s100,,nf1 ntva attempt at s100 and ki67 (did not work),Slide,NFG06,Green Slide Box
+93,23291,b,perk,,nf1 glioma ki67 perk,Slide,NFG06,Green Slide Box
+94,23294,b,perk,,nf1 glioma ki67 perk,Slide,NFG06,Green Slide Box
+95,23527,b,perk,,nf1 glioma ki67 perk,Slide,NFG06,Green Slide Box
+96,23785,b,perk,,nf1 glioma ki67 perk,Slide,NFG06,Green Slide Box
+97,23786,b,perk,,nf1 glioma ki67 perk,Slide,NFG06,Green Slide Box
+98,23792,b,perk,,nf1 glioma ki67 perk,Slide,NFG06,Green Slide Box
+99,23823,b,perk,,nf1 glioma ki67 perk,Slide,NFG06,Green Slide Box
+100,23866,b,perk,,nf1 glioma ki67 perk,Slide,NFG06,Green Slide Box
+,,,,,,,,
+,,,,,,,,
+1,,,,,,Slide,,
+2,,,,,,Slide,,
+3,,,,,,Slide,,
+4,,,,,,Slide,,
+5,,,,,,Slide,,
+6,,,,,,Slide,,
+7,,,,,,Slide,,
+8,,,,,,Slide,,
+9,,,,,,Slide,,
+10,,,,,,Slide,,
+11,,,,,,Slide,,
+12,,,,,,Slide,,
+13,,,,,,Slide,,
+14,,,,,,Slide,,
+15,,,,,,Slide,,
+16,,,,,,Slide,,
+17,,,,,,Slide,,
+18,,,,,,Slide,,
+19,,,,,,Slide,,
+20,,,,,,Slide,,
+21,,,,,,Slide,,
+22,,,,,,Slide,,
+23,,,,,,Slide,,
+24,,,,,,Slide,,
+25,,,,,,Slide,,
+26,,,,,,Slide,,
+27,,,,,,Slide,,
+28,,,,,,Slide,,
+29,,,,,,Slide,,
+30,,,,,,Slide,,
+31,,,,,,Slide,,
+32,,,,,,Slide,,
+33,,,,,,Slide,,
+34,,,,,,Slide,,
+35,,,,,,Slide,,
+36,,,,,,Slide,,
+37,,,,,,Slide,,
+38,,,,,,Slide,,
+39,,,,,,Slide,,
+40,,,,,,Slide,,
+41,,,,,,Slide,,
+42,,,,,,Slide,,
+43,,,,,,Slide,,
+44,,,,,,Slide,,
+45,,,,,,Slide,,
+46,,,,,,Slide,,
+47,,,,,,Slide,,
+48,,,,,,Slide,,
+49,,,,,,Slide,,
+50,,,,,,Slide,,
+51,,,,,,Slide,,
+52,,,,,,Slide,,
+53,,,,,,Slide,,
+54,,,,,,Slide,,
+55,,,,,,Slide,,
+56,,,,,,Slide,,
+57,,,,,,Slide,,
+58,,,,,,Slide,,
+59,,,,,,Slide,,
+60,,,,,,Slide,,
+61,,,,,,Slide,,
+62,,,,,,Slide,,
+63,,,,,,Slide,,
+64,,,,,,Slide,,
+65,,,,,,Slide,,
+66,,,,,,Slide,,
+67,,,,,,Slide,,
+68,,,,,,Slide,,
+69,,,,,,Slide,,
+70,,,,,,Slide,,
+71,,,,,,Slide,,
+72,,,,,,Slide,,
+73,,,,,,Slide,,
+74,,,,,,Slide,,
+75,,,,,,Slide,,
+76,,,,,,Slide,,
+77,,,,,,Slide,,
+78,,,,,,Slide,,
+79,,,,,,Slide,,
+80,,,,,,Slide,,
+81,,,,,,Slide,,
+82,,,,,,Slide,,
+83,,,,,,Slide,,
+84,,,,,,Slide,,
+85,,,,,,Slide,,
+86,,,,,,Slide,,
+87,,,,,,Slide,,
+88,,,,,,Slide,,
+89,,,,,,Slide,,
+90,,,,,,Slide,,
+91,,,,,,Slide,,
+92,,,,,,Slide,,
+93,,,,,,Slide,,
+94,,,,,,Slide,,
+95,,,,,,Slide,,
+96,,,,,,Slide,,
+97,,,,,,Slide,,
+98,,,,,,Slide,,
+99,,,,,,Slide,,
+100,,,,,,Slide,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+1,28203,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+2,28203,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+3,28203,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+4,28203,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+5,28204,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+6,28204,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+7,28204,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+8,28204,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+9,28208,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+10,28208,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+11,28208,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+12,28208,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+13,28207,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+14,28207,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+15,28207,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+16,28207,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+17,28202,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+18,28202,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+19,28202,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+20,28202,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+21,29162,l,HE,cas9,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+22,29409,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+23,29409,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+24,29409,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+25,29402,l,HE,cas9,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+26,29409,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+27,28204,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+28,28204,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+29,28204,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+30,28204,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+31,28208,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+32,28208,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+33,28208,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+34,28208,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+35,28207,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+36,28207,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+37,28207,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+38,28207,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+39,28202,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+40,28202,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+41,28202,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+42,28202,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+43,28205,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+44,28205,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+45,28205,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+46,28205,l,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+47,28205,li,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+48,28205,l,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+49,28202,l,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+50,28207,li,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+51,28208,l,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+52,28204,l,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+53,28202,li,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+54,28207,l,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+55,28208,li,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+56,28204,li,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+57,28203,l,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+58,28203,l,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+59,29409,li,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+60,29161,l,HE,cas9,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+61,29409,l,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+62,29181,l,HE,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+63,28205,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+64,28205,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+65,28205,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+66,28205,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+67,28203,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+68,28203,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+69,28203,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+70,28203,li,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+71,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+72,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+73,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+74,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+75,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+76,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+77,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+78,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+79,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+80,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+81,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+82,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+83,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+84,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+85,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+86,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+87,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+88,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+89,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+90,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+91,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+92,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+93,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+94,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+95,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+96,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+97,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+98,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+99,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+100,NA,,,,NF1 Glioma L/Li Slides 5/9/22 RE,Slide,NFG13,White Slide Box
+,,,,,,,,
+,,,,,,,,
+1,25085,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+2,25086,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+3,25087,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+4,25088,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+5,25089,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+6,25090,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+7,25091,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+8,25092,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+9,25214,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+10,25215,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+11,25216,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+12,25218,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+13,25220,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+14,25221,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+15,25238,b,HE,*,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+16,25239,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+17,25240,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+18,25241,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+19,25242,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+20,25258,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+21,25259,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+22,25260,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+23,25261,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+24,25262,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+25,25263,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+26,25264,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+27,25266,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+28,25267,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+29,25268,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+30,25269,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+31,25271,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+32,25272,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+33,25274,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+34,25310,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+35,25501,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+36,25503,b,HE,*original,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+37,25504,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+38,25504,t1,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+39,25504,spt,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+40,25505,b,HE,fd,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+41,25598,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+42,25687,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+43,25688,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+44,25689,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+45,25691,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+46,25692,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+47,25693,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+48,25694,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+49,25695,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+50,25741,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+51,25742,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+52,25743,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+53,25744,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+54,25745,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+55,25746,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+56,25747,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+57,25748,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+58,25764,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+59,25765,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+60,25766,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+61,25767,b,HE,*,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+62,25786,b,HE,*,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+63,26008,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+64,26012,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+65,26011,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+66,26013,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+67,26022,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+68,26023,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+69,26024,b,HE,h,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+70,26038,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+71,26039,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+72,26040,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+73,26061,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+74,26062,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+75,26063,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+76,26064,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+77,26064,tumor,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+78,26065,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+79,26066,b,HE,original,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+80,26067,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+81,26067,t,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+82,26068,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+83,26069,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+84,26137,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+85,26139,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+86,26141,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+87,26142,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+88,26275,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+89,26276,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+90,26277,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+91,26278,b,HE,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+92,NA,,,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+93,NA,,,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+94,NA,,,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+95,NA,,,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+96,NA,,,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+97,NA,,,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+98,NA,,,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+99,NA,,,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+100,NA,,,,NF-1 N-TVA original H&E 25085-26280,Slide,NFG14,White Slide Box
+,,,,,,,,
+,,,,,,,,
+1,29054,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+2,29054,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+3,29054,t2,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+4,29054,t2,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+5,29054,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+6,29054,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+7,29055,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+8,29055,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+9,29055,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+10,29055,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+11,29055,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+12,29055,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+13,29056,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+14,29056,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+15,29056,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+16,29056,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+17,29056,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+18,29056,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+19,29056,t1.2,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+20,29056,t1.2,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+21,28529,lu,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+22,28529,l,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+23,28529,b,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+24,28529,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+25,28529,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+26,28529,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+27,28529,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+28,28526,t1,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+29,28526,t1,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+30,28526,t1,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+31,28526,t1,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+32,28526,t1,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+33,28528,lu,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+34,28528,l,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+35,28528,b,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+36,28528,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+37,28528,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+38,28528,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+39,28528,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+40,28526,L,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+41,28526,b,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+42,28526,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+43,28526,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+44,28526,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+45,28526,b,,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+46,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+47,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+48,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+49,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+50,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+51,28208,t2,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+52,28208,t1,,mf,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+53,28208,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+54,28208,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+55,28207,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+56,26009,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+57,26009,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+58,26279,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+59,26279,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+60,26279,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+61,26014,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+62,26037,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+63,26037,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+64,26276,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+65,26276,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+66,26274,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+67,26274,t1,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+68,28203,t1,,mf,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+69,28207,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+70,28203,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+71,28203,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+72,28202,t1,,mf,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+73,28202,b,,mf,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+74,28202,b,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+75,28202,b,,mf,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+76,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+77,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+78,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+79,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+80,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+81,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+82,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+83,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+84,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+85,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+86,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+87,27631,t1,gfap,ctl,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+88,27631,t1,pten,ctl,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+89,29162,b,synap,cas9 ctl,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+90,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+91,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+92,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+93,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+94,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+95,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+96,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+97,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+98,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+99,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+100,NA,,,,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,NFG15,White Slide Box
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+1,28208,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+2,28203,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+3,28200,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+4,26274,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+5,28207,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+6,26276,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+7,26279,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+8,26009,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+9,26037,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+10,28202,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+11,26014,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+12,28202,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+13,23821,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+14,unlabeled,t1,s100b,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+15,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+16,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+17,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+18,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+19,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+20,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+21,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+22,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+23,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+24,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+25,NA,,,,Holmen S100 tissue samples 12 slides+1 negative control; 6/22/22 Nf1 glioma,Slide,NFG16,Small White Slide Box
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+1,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+2,26022,tumor,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+3,25027,,,project,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+4,25026,,,nf1 project,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+5,23864,,,tva-,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+6,23491,,,spco - could be wrong #,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+7,23524,,,spco,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+8,23524,,,e7??,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+9,25501,tumor,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+10,25695,tumor,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+11,24989,,,nf1 control,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+12,25029,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+13,23295,tumor,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+14,23828,,,nf1 control,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+15,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+16,23824,head tumor,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+17,2(3/8)469,spco,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+18,25714,tumor,,small tumor,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+19,25742,cranial nerve,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+20,23399,,,tva-,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+21,23294,,,nf1 project,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+22,23301,spco,,nf1 project,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+23,238(2?)4,spco,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+24,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+25,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG17,Styrofoam 50-mL conical rack
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+1,26038,t1,,decals?? *,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+2,26065,t1 head,,decal *,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+3,25304,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+4,25309,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+5,25595,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+6,25576,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+7,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+8,25597,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+9,25328,,,illegible,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+10,25745,t1,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+11,25692,t1,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+12,25307,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+13,26311,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+14,25548,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+15,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+16,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+17,25549,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+18,25692,t2,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+19,25308,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+20,25945,t2,,decalc*,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+21,25305,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+22,26139,t1,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+23,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+24,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+25,26023,t1,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG18,Styrofoam 50-mL conical rack
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+1,26305,t1,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+2,25788,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+3,25784,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+4,26307,t1,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+5,22440,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+6,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+7,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+8,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+9,25550,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+10,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+11,25782,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+12,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+13,26310,t1,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+14,26007,t1,,decalc*,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+15,22448,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+16,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+17,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+18,25783,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+19,25785,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+20,25787,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+21,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+22,26011,head tumor,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+23,26010,t1,,declac*,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+24,22445,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+25,NA,,,,Nf1 glioma model fixed misc tumors in 70% ethanol,Fixed tissue in 70% etoh,NFG19,Styrofoam 50-mL conical rack
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+1,28783,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+2,28782,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+3,28709,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+4,29561,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+5,28829,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+6,28781,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+7,28708,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+8,29561,,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+9,28828,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+10,28710,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+11,28780,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack
+12,28784,bll,,,none,Fixed tissue in 70% etoh,NFG20,Styrofoam 50-mL conical half-rack

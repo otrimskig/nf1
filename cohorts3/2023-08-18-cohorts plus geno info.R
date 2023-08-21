@@ -78,11 +78,70 @@ df1.1b.2<-df1.1b.1%>%
 
 
 
-
 #bringing data back into main dataset. 
-df1.1%>%
-  select(-c(death_date, exclude, metadata))%>%
-  left_join(df1b.2%>%select(mouse_num, death_date_true, exclude, metadata), by = "mouse_num")
+df1.2<-df1.1%>%
+  select(-c(contains("death_date"), exclude, metadata))%>%
+  left_join(df1.1b.2%>%select(mouse_num, death_date_true, exclude, metadata), by = "mouse_num")%>%
+  
+  mutate(dob = coalesce(dob.G, dob.C))%>%
+  
+  
+ 
+  mutate(metadata = if_else(is.na(metadata)&dob.G!=dob.C, 
+                            paste("non-matching dob's. Used genotyping dob.", dob.G, "vs.", dob.C), 
+                            
+                          if_else(dob.G!=dob.C, 
+                                  paste("non-matching dob's. Used genotyping dob.", dob.G, "vs.", dob.C),
+                            
+                                        metadata)))%>%
+  
+  mutate(exclude = if_else(is.na(exclude)&dob.G!=dob.C, 
+                            2, 
+                            
+                            if_else(dob.G!=dob.C, 
+                                    2,
+                                    
+                                    exclude)))%>%
+  
+           
+      
+  select(-dob.C, -dob.G)%>%
+  relocate(exclude, mouse_num)%>%
+  relocate(dob, death_date_true, .before = injection_date)%>%
+  
+ 
+  #select(mouse_num, exclude,metadata, src, tva_status, ntva)%>%
+  
 
+  #exclude mice with negative TVA status. 
+  mutate(metadata = if_else((tva_status == "TVA-"&!is.na(tva_status))|(!is.na(ntva)&ntva == "+/+"), "TVA- on cohort data and/or genotyping", metadata))%>%
+  
+  
+  mutate(exclude = if_else(((tva_status == "TVA-"&!is.na(tva_status))|
+                             (!is.na(ntva)&ntva == "+/+"))&
+                             is.na(exclude), 3, exclude))%>%
+  
+ 
+
+  mutate(metadata = if_else(ntva == "likely tg/+", "inconclusive TVA status.", metadata))%>%
+  mutate(exclude = if_else(ntva=="likely tg/+", 2, exclude))%>%
+  
+  select(-tva_status)%>%
+  mutate(sex = coalesce(gender, sex))%>%
+  select(-gender)%>%
+  
+  mutate(resultant_geno = if_else(ntva == "+/+", "tva negative", 
+                                  if_else(grepl("likely", ntva), "tva inconclusive", 
+                                          resultant_geno)))
+  
+
+
+df1.3<-df1.2
+
+
+
+df1.3%>%
+  saveRDS("ds/nf1_cohorts.2.dates.rds")
+ 
 
   
