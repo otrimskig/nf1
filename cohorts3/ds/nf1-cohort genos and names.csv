@@ -1,6 +1,6 @@
 strain,injected_with,n,resultant_geno
 N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f,RCAS-Cre,38,nf1 wt; pten KO; ink KO; atrx KO
-N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+,RCAS-Cre,37,nf wt; pten KO; ink KO; atrx wt
+N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+,RCAS-Cre,37,nf1 wt; pten KO; ink KO; atrx wt
 N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f,RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2,70,nf1 KO; pten KO; ink KO; atrx KO
 N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+,RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2,116,nf1 KO; pten KO; ink KO; atrx wt
 N::TVA; H11LSL-Cas9 f/f; Pten +/+; Ink4a/Arf f/f; ATRX +/+,RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2,30,nf1 KO; pten wt; ink KO; atrx wt

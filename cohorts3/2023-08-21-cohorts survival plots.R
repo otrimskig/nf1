@@ -36,7 +36,7 @@ cohort_surv%>%
              xlab = "Time Post Injection (Days)",
              legend.title = "cohort"
              #legend.lab = leg_order
-  )->plot
+  )->plot1_overall_surv
 
 #export plot - add export to code. 
-plot
+

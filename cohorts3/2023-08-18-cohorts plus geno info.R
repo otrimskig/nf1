@@ -136,7 +136,9 @@ df1.2<-df1.1%>%
   
 
 
-df1.3<-df1.2
+df1.3<-df1.2%>%
+  mutate(strain_injection = paste0(strain, ", injected with: ", injected_with))%>%
+  relocate(strain_injection, .after = src)
 
 
 
