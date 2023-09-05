@@ -1,0 +1,58 @@
+mouse_num,notes_he_ihc_brain,sheri_has_seen_h_e,tumor_grade_post_h_e,loc,slot,organ,stain,note,box_label,sample_type,container,src,exclude,metadata,resultant_geno,temp_box
+22841,no glioma observable,no,,NFG03,1,B,HE,,Nf-1 N-TVA original H&E 22841-25084,Slide,Blue Slide Box,RH,3,TVA- on cohort data and/or genotyping,tva negative,
+28200,,,,NFG01,48,B,HE,,NF1 Glioma Extracranial Tumors #2,Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx wt,15
+28202,,,,NFG01,83,B,HE,,Misc Slides,Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx wt,21
+28203,,,,NFG01,94,B,HE,,Nf1 glioma extracranial tumors,Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx wt,23
+28204,,,,NFG01,76,B,HE,,Misc Slides,Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx wt,20
+28205,,,,NFG02,34,B,HE,,NF1 Gliomas Brain Tumors (Glioma),Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx wt,25
+28207,,,,NFG01,89,B,HE,,Nf1 glioma brains from mice with other tumors,Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx wt,22
+28208,,,,NFG02,9,B,HE,,Nf1 glioma extracranial tumors,Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx wt,24
+28526,,,,NFG15,41,B,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx KO,30
+28528,,,,NFG15,35,B,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx KO,29
+28529,,,,NFG15,23,B,HE,nf1,"NF1 All Alleles Cas9 f/f ""AA""/ NF1 Glioma ""NF1 Project"" ATRX f/f NF1",Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx KO,28
+28530,,,,NFG01,2,B,HE,,NF1 Glioma,Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx KO,1
+28531,,,,NFG01,3,B,HE,,NF1 Glioma,Slide,White Slide Box,RH + RE,,,nf1 KO; pten KO; ink KO; atrx KO,2
+28708,,,,NFG04,20,B,HE,,Nf1 glioma H&E 29406,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+28709,,,,NFG04,38,B,HE,,Nf1 glioma H&E 28708-29388,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+28710,,,,NFG04,39,B,HE,,Nf1 glioma H&E 28708-29388,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+28780,,,,NFG04,23,B,HE,,Nf1 glioma H&E 29406,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+28781,,,,NFG04,40,B,HE,,Nf1 glioma H&E 28708-29388,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+28782,,,,NFG04,41,B,HE,,Nf1 glioma H&E 28708-29388,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+28783,,,,NFG04,42,B,HE,,Nf1 glioma H&E 28708-29388,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+28784,,,,NFG04,43,B,HE,,Nf1 glioma H&E 28708-29388,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29161,,,NED but check pathology?,NFG04,61,B,HE,cas9,,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29162,,,NED but check pathology?,NFG04,63,B,HE,cas9,,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29163,,,,NFG04,44,B,HE,,Nf1 glioma H&E 28708-29388,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29164,,,,NFG04,46,B,HE,,Nf1 glioma H&E 28708-29388,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29166,,,,NFG04,49,B,HE,,Nf1 glioma H&E 28708-29388,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29385,,,,NFG04,28,B,HE,,Nf1 glioma H&E 29406,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,
+29386,,,,NFG04,51,B,HE,,Nf1 glioma H&E 28708-29388,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,
+29387,,,Infiltrating Astrocytoma,NFG02,43,B,HE,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,27
+29397,,,,NFG04,5,B,HE,,Nf1 glioma H&E 29289-29405,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29398,,,,NFG04,7,B,HE,,Nf1 glioma H&E 29289-29405,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29399,,,,NFG04,36,B,HE,,Nf1 glioma H&E 29406,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29400,,,,NFG04,10,B,HE,,Nf1 glioma H&E 29289-29405,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29401,,,,NFG04,12,B,HE,,Nf1 glioma H&E 29289-29405,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29403,,,,NFG04,32,B,HE,,Nf1 glioma H&E 29406,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29404,,,,NFG04,34,B,HE,*,Nf1 glioma H&E 29406,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29405,,,,NFG04,16,B,HE,,Nf1 glioma H&E 29289-29405,Slide,Green Slide Box,RE,,,nf1 KO; pten wt; ink wt; atrx wt,
+29406,,,,NFG04,18,B,HE,,Nf1 glioma H&E 29406,Slide,Green Slide Box,RE,2,non-matching dob's. Used genotyping dob. 2022-02-10 vs. 2022-02-09,nf1 KO; pten wt; ink KO; atrx wt,
+29409,,,Grade II Infiltrating Astrocytoma,NFG02,38,B,HE,,NF1 Glioma N-TVA::cdkn2a f/f ; H11 lsl cas9 and N-TVA::H11 lsl cas9 slides,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,26
+29818,,,,NFG01,4,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,3
+29819,,,,NFG01,6,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,4
+29820,,,,NFG01,8,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,5
+29821,,,,NFG01,10,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,6
+29822,,,,NFG01,12,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,7
+30212,,,,NFG01,16,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,8
+30213,,,,NFG01,18,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,9
+30214,,,,NFG01,20,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,10
+30215,,,,NFG01,23,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,11
+30216,,,,NFG01,25,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,12
+30217,,,,NFG01,27,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,13
+30218,,,,NFG01,29,B,HE,,NF1 Glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,14
+30232,,,,NFG01,58,B,HE,,NF1 glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,16
+30233,,,,NFG01,60,B,HE,,NF1 glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,17
+30234,,,,NFG01,62,B,HE,,NF1 glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,18
+30235,,,,NFG01,64,B,HE,,NF1 glioma,Slide,White Slide Box,RE,2,inconclusive TVA status.,tva inconclusive,
+30236,,,,NFG01,66,B,HE,,NF1 glioma,Slide,White Slide Box,RE,,,nf1 KO; pten wt; ink KO; atrx wt,19
+30237,,,,NFG01,68,B,HE,,NF1 glioma,Slide,White Slide Box,RE,2,inconclusive TVA status.,tva inconclusive,
