@@ -1,0 +1,314 @@
+mouse_num,resultant_geno,notes_bhe,scan1,scan2,scan3,sample1,sample2,sample3,sheri_has_seen_h_e,nec_performed,src,exclude,metadata,needs_sample
+22841,tva negative,no glioma observable,,,,NFG03-001-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,no,1,RH,3,TVA- on cohort data and/or genotyping,0
+22843,tva negative,"no glioma observable, but Sheri thinks there may be a leptomeningeal tumor",,,,NFG03-002-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,1,TVA- on cohort data and/or genotyping,0
+22844,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-003-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+22845,nf1 KO; pten KO; ink KO; atrx wt,,,,,,,,,,RH,,,1
+22846,nf1 KO; pten KO; ink KO; atrx wt,tumor outside of brain,22846.B.H&E.2021-07-08,,,NFG03-004-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+22847,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-005-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+22921,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-006-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+22922,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-007-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+22923,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-008-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG03-009-NF-1 N-TVA ORIGINAL H&E 22841-25084,,yes,1,RH,,,0
+22924,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,,,,yes,1,RH,,,1
+22925,nf1 KO; pten KO; ink KO; atrx KO,tumor under brain ,22925.B.H&E.2021-07-09,,,NFG03-010-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+22926,nf1 KO; pten KO; ink KO; atrx KO,,,,,,,,,1,RH,,,1
+23021,nf1 KO; pten KO; ink KO; atrx KO,whole head sectioned with head tumor,,,,NFG03-011-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23269,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-012-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23270,nf1 KO; pten KO; ink KO; atrx KO,"Sheri thinks she sees a leptomeningeal tumor in the original H&E, but gone in the second H&E, high background for Ki67 and no pERK, call this negative for glioma",23270.B.H&E.2021-07-09,,,NFG03-013-NF-1 N-TVA ORIGINAL H&E 22841-25084,"NFG06-020-NF1 NON-GLIOMAS NTVA H&E, KI67, PERK, UNSTAINED",,yes,1,RH,,,0
+23271,nf1 KO; pten KO; ink KO; atrx KO,odd necrotic area,,,,NFG03-014-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23286,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-015-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23287,nf1 KO; pten KO; ink KO; atrx KO,tumor under brain ,23287.B.H&E.2021-07-09,,,NFG03-016-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23288,nf1 KO; pten KO; ink KO; atrx KO,whole head sectioned with head tumor,,,,NFG03-017-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23289,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-018-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23290,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-019-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23291,nf1 KO; pten KO; ink KO; atrx KO,"small low grade glioma towards the top of the center section, slight rosette pattern, more Ki67+ in the region of the tumor, pERK is negative, PTEN still looks present",23291.B.H&E.2021-07-09,23291.B.H&E.2021-09-16,,NFG03-020-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG04-065-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,yes,1,RH,,,0
+23292,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-021-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23293,nf1 KO; pten KO; ink KO; atrx KO,"Sheri noticed leptomeningeal tumor, looks like bits of tumor attached to base of brain, tumor is Ki67+, doesn't look like it is infiltrating though",23293.B.H&E.2021-07-09,,,NFG03-022-NF-1 N-TVA ORIGINAL H&E 22841-25084,"NFG06-023-NF1 NON-GLIOMAS NTVA H&E, KI67, PERK, UNSTAINED",,yes,1,RH,,,0
+23294,nf1 KO; pten KO; ink KO; atrx KO,"low grade glioma on front section left side of mouse brain, mostly on side of brain, but also some towards the center as seen better with Ki67, distinct rosette pattern, pERK is negative, PTEN in tumor doesn't look much different from the rest of the brain",23294.B.H&E.2021-07-09,23294.B.H&E.2021-09-16,,NFG03-023-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG04-066-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,yes,1,RH,,,0
+23295,nf1 KO; pten KO; ink KO; atrx KO,"looks like the brain wasn't fixed well because it didn't slice cleanly, no observable glioma",,,,NFG03-024-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23296,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-025-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23297,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-026-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,2,conflicting death dates in cohort vs. genotyping files. 2020-08-21 vs. 2020-08-04 used cohort date but can exclude from analysis if desired.,0
+23298,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-027-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23299,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-028-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,2,conflicting death dates in cohort vs. genotyping files. 2020-08-07 vs. 2020-07-27 used cohort date but can exclude from analysis if desired.,0
+23300,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-029-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23301,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-030-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23397,nf1 KO; pten KO; ink KO; atrx wt,tumor under brain ,23397.B.H&E.2021-07-08,,,NFG03-031-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23399,tva negative,,,,,,,,,1,RH,1,TVA- on cohort data and/or genotyping,1
+23400,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-032-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23401,nf1 KO; pten KO; ink KO; atrx wt,,,,,,,,,1,RH,1,excluded because was designated for exclusion on rick's excel sheet. No excplicit reason given. ,1
+23460,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-033-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23461,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-034-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23463,nf1 KO; pten KO; ink KO; atrx wt,whole head sectioned with head tumor,,,,NFG03-035-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23464,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-036-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23465,nf1 KO; pten KO; ink KO; atrx wt,whole head sectioned with head tumor,,,,NFG03-037-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23466,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-038-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23467,nf1 KO; pten KO; ink KO; atrx KO,"big tumor on slide outside of brain, grade 2-3",23467.B.H&E.2021-07-09,,,NFG03-039-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23468,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-040-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23469,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-041-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23470,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-042-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23522,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-043-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23523,nf1 KO; pten KO; ink KO; atrx KO,"no glioma observable, but Sheri thinks there is possible leptomeningeal",,,,NFG03-044-NF-1 N-TVA ORIGINAL H&E 22841-25084,"NFG06-026-NF1 NON-GLIOMAS NTVA H&E, KI67, PERK, UNSTAINED",,yes,1,RH,,,0
+23524,nf1 KO; pten KO; ink KO; atrx KO,"originally thought there might be a leptomeningeal tumor, but not able to verify by second H&E, Ki67 or pERK",23524.B.H&E.2021-07-09,,,NFG03-045-NF-1 N-TVA ORIGINAL H&E 22841-25084,"NFG06-029-NF1 NON-GLIOMAS NTVA H&E, KI67, PERK, UNSTAINED",,yes,1,RH,,,0
+23525,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-046-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG03-047-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG03-048-NF-1 N-TVA ORIGINAL H&E 22841-25084,yes,1,RH,,,0
+23526,nf1 KO; pten KO; ink KO; atrx KO,"originally thought there might be a glioma, but nothing seen in second H&E or Ki67",23526.B.H&E.2021-07-09,,,"NFG06-032-NF1 NON-GLIOMAS NTVA H&E, KI67, PERK, UNSTAINED",,,yes,1,RH,,,0
+23527,nf1 KO; pten KO; ink KO; atrx KO,"low grade glioma in center section towards the side, Ki67 and pERK are not that distinct, but they are positive, PTEN looks less positive in tumor except for positive staining vasculature",23527.B.H&E.2021-07-08,23527.B.H&E.2021-09-16,,NFG03-049-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG04-067-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,yes,1,RH,,,0
+23528,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-050-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23783,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-051-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23784,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-052-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23785,nf1 KO; pten KO; ink KO; atrx wt,"large glioma at base of brain on front and center sections, Ki67 is positive throughout the tumor except for some center areas, pERK is fairly dispursed throughout tumor, PTEN has some odd artifacts, but not that different than the rest of the brain except it does look lower than the brain for the front section",23785.B.H&E.2021-07-08,23785.B.H&E.2021-09-16,,NFG03-053-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG04-068-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,yes,,RH,2,conflicting death dates in cohort vs. genotyping files. 2020-08-13 vs. 2020-08-07 used cohort date but can exclude from analysis if desired.,0
+23786,nf1 KO; pten KO; ink KO; atrx wt,"large high grade glioma at the base of brain in the center and back sections, palisading necrosis and abnormal vasculature, Ki67 is high throughout except for a distinct shape at the center of the tumor (lymphocytes?) and the necrotic areas, pERK is more expressed towards the bottom edges and absent in that lymphocyte region, PTEN is clearly low in tumor except for vasculature and the lymphocyte region",23786.B.H&E.2021-07-08,23786.B.H&E.2021-09-16,,NFG03-054-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG04-069-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,yes,1,RH,,,0
+23787,nf1 KO; pten KO; ink KO; atrx wt,"tumor tissue was thought to be on the side, but not seen in the second H&E and no Ki67 observed",23787.B.H&E.2021-07-08,,,NFG03-055-NF-1 N-TVA ORIGINAL H&E 22841-25084,"NFG06-035-NF1 NON-GLIOMAS NTVA H&E, KI67, PERK, UNSTAINED",,yes,1,RH,,,0
+23788,nf1 KO; pten KO; ink KO; atrx wt,,,,,,,,,,RH,,,1
+23789,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-056-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23790,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-057-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23791,nf1 KO; pten KO; ink KO; atrx wt,"tumor under brain, high grade",23791.B.H&E.2021-07-08,,,NFG03-058-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23792,nf1 KO; pten KO; ink KO; atrx wt,"low grade glioma in the center cection of the cerebral cortex, ki67 is slightly higher there, pERK is negative, PTEN is still expressed",23792.B.H&E.2021-07-08,23792.B.H&E.2021-09-16,,NFG03-059-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG04-070-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,yes,1,RH,,,0
+23821,tva negative,,,,,,,,,1,RH,1,TVA- on cohort data and/or genotyping,1
+23822,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-060-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23823,nf1 KO; pten KO; ink KO; atrx wt,"glioma is mostly exterior to the brain, but there is also a bit on the bottom of the center section, one section has more Ki67 than another, pERK is more positive on the bit still connected to the brain and not so positive on the exterior tumor, PTEN looks lower for the connected bit, but PTEN has some odd staining artifacts",23823.B.H&E.2021-07-08,23823.B.H&E.2021-09-16,,NFG03-061-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG04-071-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,yes,1,RH,,,0
+23824,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-062-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23826,nf1 KO; pten KO; ink KO; atrx wt,tumor tissue visible under brain,23826.B.H&E.2021-07-08,,,NFG03-063-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23828,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-064-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23864,tva negative,,,,,,,,,1,RH,1,TVA- on cohort data and/or genotyping,1
+23865,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-065-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,1,excluded because was designated for exclusion on rick's excel sheet. No excplicit reason given. ,0
+23866,nf1 KO; pten KO; ink KO; atrx wt,"high grade glioma on base of center section with vasculature and some form of rosette patterns, evenly high Ki67 positivity and pERK, PTEN is lower than in the normal brain section and mostly just stained blood vessels",23866.B.H&E.2021-07-08,23866.B.H&E.2021-09-16,,NFG03-066-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG04-072-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,yes,1,RH,,,0
+23867,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-067-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,2,conflicting death dates in cohort vs. genotyping files. 2020-08-05 vs. 2020-07-28 used cohort date but can exclude from analysis if desired.,0
+23964,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-068-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23965,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-069-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG03-070-NF-1 N-TVA ORIGINAL H&E 22841-25084,,yes,1,RH,,,0
+23966,nf1 KO; pten KO; ink KO; atrx wt,"some tumor can be seen on the edge, tumor is Ki67+",23966.B.H&E.2021-07-08,23966.B.H&E.2021-09-29,,NFG03-071-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG04-073-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,yes,1,RH,,,0
+23967,nf1 KO; pten KO; ink KO; atrx wt,"there is tumor tissue under the brain, tumor ios Ki67+",23967.B.H&E.2021-07-08,,,NFG03-072-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG03-073-NF-1 N-TVA ORIGINAL H&E 22841-25084,,yes,1,RH,,,0
+23968,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-074-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23969,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-075-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23970,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-076-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+23971,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-077-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+24801,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-078-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH + RE,,,0
+24802,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-079-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH + RE,,,0
+24803,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-080-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH + RE,,,0
+24804,tva negative,no glioma,,,,NFG03-081-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,1,TVA- on cohort data and/or genotyping,0
+24805,nf1 wt; pten KO; ink KO; atrx wt,"no glioma observable, but Sheri noticed a bundle of nerves",,,,NFG03-082-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH + RE,,,0
+24806,nf1 wt; pten KO; ink KO; atrx wt,,,,,,,,,,RH,1,excluded because was designated for exclusion on rick's excel sheet. No excplicit reason given. ,1
+24807,nf1 wt; pten KO; ink KO; atrx wt,"no glioma observable, but Sheri noticed a bundle of nerves",,,,NFG03-083-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH + RE,,,0
+24986,nf1 KO; pten KO; ink KO; atrx wt,"Sheri thinks she sees a possible low grade tumor, nothing seen in Ki67 slide",24986.B.H&E.2021-07-09,,,NFG03-084-NF-1 N-TVA ORIGINAL H&E 22841-25084,"NFG06-038-NF1 NON-GLIOMAS NTVA H&E, KI67, PERK, UNSTAINED",,yes,,RH,,,0
+24987,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-085-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,,,0
+24988,nf1 KO; pten KO; ink KO; atrx wt,"looks like there are pieces of tumor in the slide, but disconnected from the brain",24988.B.H&E.2021-07-09,,,NFG03-086-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+24989,nf1 KO; pten KO; ink KO; atrx wt,"no glioma observable, head tumor is there",,,,NFG03-087-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,2,conflicting death dates in cohort vs. genotyping files. 2020-12-24 vs. 2020-12-09 used cohort date but can exclude from analysis if desired.,0
+25025,nf1 KO; pten KO; ink KO; atrx KO,"large high grade glioma present, Ki67+",25025.B.H&E.2021-07-08,25025.B.H&E.2021-09-29,,NFG03-088-NF-1 N-TVA ORIGINAL H&E 22841-25084,NFG04-074-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,yes,1,RH,,,0
+25026,nf1 KO; pten KO; ink KO; atrx KO,"entire head was sectioned, no glioma observed, but head tumor is there",,,,NFG03-089-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,2,conflicting death dates in cohort vs. genotyping files. 2021-01-04 vs. 2020-12-09 used cohort date but can exclude from analysis if desired.,0
+25027,nf1 KO; pten KO; ink KO; atrx KO,"entire head was sectioned, no glioma observed, but head tumor is there",,,,NFG03-090-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,,,0
+25028,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-091-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,1,RH,,,0
+25029,nf1 KO; pten KO; ink KO; atrx KO,"entire head was sectioned, no glioma observed, but head tumor is there",,,,NFG03-092-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,2,conflicting death dates in cohort vs. genotyping files. 2020-12-28 vs. 2020-12-09 used cohort date but can exclude from analysis if desired.,0
+25031,nf1 KO; pten KO; ink KO; atrx KO,"no glioma observable, but tissue was all tore up due to hydrocephalus",,,,NFG03-093-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,2,conflicting death dates in cohort vs. genotyping files. 2020-12-30 vs. 2020-12-09 used cohort date but can exclude from analysis if desired.,0
+25033,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-094-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,,,0
+25034,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG03-095-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH,2,conflicting death dates in cohort vs. genotyping files. 2021-01-04 vs. 2020-12-30 used cohort date but can exclude from analysis if desired.,0
+25080,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-096-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH + RE,,,0
+25081,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-097-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH + RE,,,0
+25082,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-098-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH + RE,,,0
+25083,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-099-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH + RE,,,0
+25084,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG03-100-NF-1 N-TVA ORIGINAL H&E 22841-25084,,,yes,,RH + RE,,,0
+25085,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-001-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,,RH + RE,,,0
+25086,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-002-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,,RH + RE,,,0
+25087,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-003-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25088,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-004-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25089,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-005-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25090,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-006-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25091,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-007-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25092,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-008-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25214,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-009-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-11-05 vs 2020-11-06,0
+25215,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-010-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-11-05 vs 2020-11-06,0
+25216,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-011-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-11-05 vs 2020-11-06,0
+25217,nf1 wt; pten KO; ink KO; atrx wt,,,,,,,,,,RH,2,conflicting death dates in cohort vs. genotyping files. 2021-01-17 vs. 2020-12-05 used cohort date but can exclude from analysis if desired.,1
+25218,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-012-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-11-05 vs 2020-11-06,0
+25219,nf1 wt; pten KO; ink KO; atrx wt,,,,,,,,,,RH,,,1
+25220,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-013-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-11-05 vs 2020-11-06,0
+25221,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-014-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-11-05 vs 2020-11-06,0
+25238,nf1 wt; pten KO; ink KO; atrx KO,"no glioma observable, but the head tumor is there",,,,NFG14-015-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25239,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-016-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25240,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-017-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25241,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-018-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25242,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-019-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25258,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-020-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25259,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-021-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25260,nf1 wt; pten KO; ink KO; atrx KO,"no glioma observable, but tissue was all tore up due to hydrocephalus",,,,NFG14-022-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25261,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-023-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25262,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-024-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25263,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-025-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25264,nf1 wt; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-026-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25266,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-027-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25267,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-028-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25268,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-029-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25269,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-030-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25270,nf1 wt; pten KO; ink KO; atrx wt,,,,,,,,,,RH,,,1
+25271,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-031-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25272,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-032-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25274,nf1 wt; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-033-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+25304,nf1 wt; pten KO; ink KO; atrx wt,,,,,,,,,1,RH + RE,,,1
+25305,nf1 wt; pten KO; ink KO; atrx wt,,,,,,,,,1,RH + RE,,,1
+25306,nf1 wt; pten KO; ink KO; atrx wt,,,,,,,,,,RH,1,excluded because was designated for exclusion on rick's excel sheet. No excplicit reason given. ,1
+25307,nf1 wt; pten KO; ink KO; atrx wt,,,,,,,,,1,RH + RE,,,1
+25308,nf1 wt; pten KO; ink KO; atrx wt,,,,,,,,,1,RH + RE,,,1
+25309,nf1 wt; pten KO; ink KO; atrx wt,,,,,,,,,1,RH + RE,,,1
+25310,nf1 wt; pten KO; ink KO; atrx wt,"no glioma observable, brain looks deflated",,,,NFG14-034-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,2,conflicting death dates. 2021-04-09 vs 2021-01-20,0
+25327,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,,RH,1,excluded because was designated for exclusion on rick's excel sheet. No excplicit reason given. ,1
+25328,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,,1
+25329,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,,RH,1,excluded because was designated for exclusion on rick's excel sheet. No excplicit reason given. ,1
+25330,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,,RH,1,excluded because was designated for exclusion on rick's excel sheet. No excplicit reason given. ,1
+25331,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,,RH,1,excluded because was designated for exclusion on rick's excel sheet. No excplicit reason given. ,1
+25332,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,,RH,1,excluded because was designated for exclusion on rick's excel sheet. No excplicit reason given. ,1
+25499,nf1 KO; pten KO; ink KO; atrx KO,,,,,,,,,,RH,,,1
+25500,nf1 KO; pten KO; ink KO; atrx KO,,,,,,,,,,RH,,,1
+25501,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-035-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25502,nf1 KO; pten KO; ink KO; atrx KO,,,,,,,,,,RH,,,1
+25503,nf1 KO; pten KO; ink KO; atrx KO,"neurons are visible within the tumor, suggesting this is a PNST, not infiltrating, looks leptomeningeal, Ki67 positive, pERK low",25503.B.H&E.2021-07-08,,,"NFG06-041-NF1 NON-GLIOMAS NTVA H&E, KI67, PERK, UNSTAINED",NFG14-036-NF-1 N-TVA ORIGINAL H&E 25085-26280,,yes,1,RH,,,0
+25504,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-037-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25505,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-040-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25548,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,,1
+25549,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,,1
+25550,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,,1
+25595,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,,1
+25596,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,,1
+25597,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,,1
+25598,nf1 wt; pten KO; ink KO; atrx KO,"no glioma observable, but tissue was all tore up due to hydrocephalus",,,,NFG14-041-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,2,conflicting death dates. 2021-05-10 vs 2021-02-03,0
+25687,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-042-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25688,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-043-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25689,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-044-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25690,nf1 KO; pten KO; ink KO; atrx wt,"high grade glioma on center and back sections, possibly left side of mouse, Ki67 positivity extends into the brain, pERK slide was scrapped off a bit, but primarily positive along the edge and not extending into the brain, PTEN is lower in the tumor not extending into the brain and darker on side edge",25690.B.H&E.2021-09-16,,,NFG04-075-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,,yes,1,RH,,,0
+25691,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-045-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25692,nf1 KO; pten KO; ink KO; atrx wt,looks like a tumor is partially attached to the brain,25692.B.H&E.2021-07-09,,,NFG14-046-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25693,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-047-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25694,nf1 KO; pten KO; ink KO; atrx wt,"glioma is at the base of the brain in the center section as well as in the center of the brain near the split, Ki67 and pERK are slightly more prevelant in tumor areas, PTEN doesn't look any different than normal tissue",25694.B.H&E.2021-07-09,25694.B.H&E.2021-09-16,,NFG04-076-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,NFG14-048-NF-1 N-TVA ORIGINAL H&E 25085-26280,,yes,1,RH,,,0
+25695,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-049-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25741,nf1 KO; pten KO; ink KO; atrx wt,"large high grade glioma on the back section of the brain toward the mouse's right side, some pallisading necrosis and vasculature, Ki67 is more positive towards the brain side and more negative towards the edge, pERK is positive throughout excluding the necrotic spots, PTEN is off in the tumor except for vasculature, but PTEN is also not very strong in the rest of the brain",25741.B.H&E.2021-09-16,,,NFG04-077-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,NFG14-050-NF-1 N-TVA ORIGINAL H&E 25085-26280,,yes,1,RH,,,0
+25742,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-051-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25743,nf1 KO; pten KO; ink KO; atrx wt,"no glioma observable, but head tumor is there and Sheri says it looks like melanomas do",,,,NFG14-052-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25744,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-053-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25745,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-054-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25746,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-055-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,,RH,,,0
+25747,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-056-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25748,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-057-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25763,nf1 KO; pten KO; ink KO; atrx wt,,,,,,,,,,RH,,,1
+25764,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-058-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25765,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-059-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,,RH,,,0
+25766,nf1 KO; pten KO; ink KO; atrx wt,"no glioma observable, brain looks like it was hollow",,,,NFG14-060-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25767,nf1 KO; pten KO; ink KO; atrx wt,"large glioma on the bottom side of the center section and back section (probably right side of the brain), neurons are visible within the tumor, Ki67 is higher in some areas, but not that high and they correlate with pERK, PTEN is still expressed in most of the tumor but there are some patterns that don't look like a staining artifact",25767.B.H&E.2021-07-09,25767.B.H&E.2021-09-16,,NFG14-061-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25782,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-12-29 vs 2020-12-30,1
+25783,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-12-29 vs 2020-12-30,1
+25784,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-12-29 vs 2020-12-30,1
+25785,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-12-29 vs 2020-12-30,1
+25786,nf1 wt; pten KO; ink KO; atrx KO,"no glioma observable, brain looks like it was from a dead mouse, lots of blood vessels visible",,,,NFG14-062-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+25787,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-12-29 vs 2020-12-30,1
+25788,nf1 wt; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,conflicting injection dates. Used Rick's data. 2020-12-29 vs 2020-12-30,1
+26007,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,,,,yes,1,RH + RE,,,1
+26008,nf1 KO; pten KO; ink KO; atrx wt,no glioma,,,,NFG14-063-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26009,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG01-049-NF1 GLIOMA EXTRACRANIAL TUMORS #2,,,yes,1,RH + RE,,,0
+26010,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,,,,yes,1,RH + RE,,,1
+26011,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-065-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+26012,nf1 KO; pten KO; ink KO; atrx wt,"small low grade glioma towards the lower side of the front section, rosette pattern, not much Ki67, pERK negative, PTEN has a weird staining artifact",26012.B.H&E.2021-07-09,26012.B.H&E.2021-09-16,26012.B.H&E.2022-04-06,NFG02-030-NF1 GLIOMAS BRAIN TUMORS (GLIOMA),NFG14-064-NF-1 N-TVA ORIGINAL H&E 25085-26280,,yes,,RH + RE,,,0
+26013,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-066-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26014,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,,,,yes,1,RH + RE,,,1
+26022,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-067-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+26023,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG14-068-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+26024,nf1 KO; pten KO; ink KO; atrx KO,"no glioma observable, but head tumor is there, Sheri says the head tumors look similar to melanomas",,,,NFG14-069-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26037,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG02-006-NF1 GLIOMA EXTRACRANIAL TUMORS,,,yes,1,RH + RE,,,0
+26038,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-070-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26039,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-071-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26040,nf1 KO; pten KO; ink KO; atrx wt,"no glioma observable, but you can tell it was found dead",,,,NFG14-072-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26061,nf1 KO; pten KO; ink KO; atrx wt,"no glioma observable, but you can tell it was found dead",,,,NFG14-073-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,2,non-matching dob's. Used genotyping dob. 2021-01-25 vs. 2021-01-24,0
+26062,nf1 KO; pten KO; ink KO; atrx wt,"no glioma observable, but you can tell it was found dead",,,,NFG14-074-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,2,non-matching dob's. Used genotyping dob. 2021-01-25 vs. 2021-01-24,0
+26063,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-075-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,2,non-matching dob's. Used genotyping dob. 2021-01-25 vs. 2021-01-24,0
+26064,nf1 KO; pten KO; ink KO; atrx wt,"no glioma observable, tumor outside of skull looks like melanomas do according to Sheri",,,,NFG14-076-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,2,non-matching dob's. Used genotyping dob. 2021-01-25 vs. 2021-01-24,0
+26065,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-078-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,2,non-matching dob's. Used genotyping dob. 2021-01-25 vs. 2021-01-24,0
+26066,nf1 KO; pten KO; ink KO; atrx wt,"Sheri noticed an area of increased cellular density in the brain H&E, Ki67+, pERK-",26066.B.H&E.2021-07-09,26066.B.H&E.2021-09-16,,NFG04-079-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,NFG14-079-NF-1 N-TVA ORIGINAL H&E 25085-26280,,yes,1,RH,2,non-matching dob's. Used genotyping dob. 2021-01-25 vs. 2021-01-24,0
+26067,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-080-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,2,non-matching dob's. Used genotyping dob. 2021-01-25 vs. 2021-01-24,0
+26068,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-082-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,2,non-matching dob's. Used genotyping dob. 2021-01-25 vs. 2021-01-24,0
+26069,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-083-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,2,non-matching dob's. Used genotyping dob. 2021-01-25 vs. 2021-01-24,0
+26137,nf1 KO; pten KO; ink KO; atrx wt,"small glioma on the bottom edge of the center section, there is some Ki67+, but pERK is negative, PTEN looks lower in the tumor, exclude from pERK quantification because it was found dead",26137.B.H&E.2021-07-09,26137.B.H&E.2021-09-16,,NFG04-080-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,NFG14-084-NF-1 N-TVA ORIGINAL H&E 25085-26280,,yes,1,RH,,,0
+26138,nf1 KO; pten KO; ink KO; atrx wt,"high grade glioma at the top and center of all 3 sections, pallisading necrosis and vasculature, Ki67 has diverse regions of low and high, pERK was damaged in spots, PTEN looks low overall except for blood vessels and very distinct on and off areas within the tumor",26138.B.H&E.2021-09-16,,,NFG04-081-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,,yes,,RH,,,0
+26139,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-085-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26140,nf1 KO; pten KO; ink KO; atrx wt,"intracrannial tumor doesn't look like it is infiltrating, Ki67+, a little p-ERK+",,,,"NFG06-044-NF1 NON-GLIOMAS NTVA H&E, KI67, PERK, UNSTAINED",,,yes,1,RH,,,0
+26141,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-086-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26142,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-087-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26143,nf1 KO; pten KO; ink KO; atrx wt,"low grade glioma in all sections, lots of variability in Ki67 and pERK, PTEN has clear off regions",26143.B.H&E.2021-09-16,,,NFG04-082-NF1 GLIOMA SERIAL H&E UNSTAINED + PTEN,,,yes,1,RH,,,0
+26274,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,,,,yes,1,RH + RE,,,1
+26275,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-088-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26276,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-089-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH + RE,,,0
+26277,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-090-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26278,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG14-091-NF-1 N-TVA ORIGINAL H&E 25085-26280,,,yes,1,RH,,,0
+26279,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,,,,yes,1,RH + RE,,,1
+26280,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,26280.B.H&E.2022-06-07,,,NFG01-079-MISC SLIDES,,,yes,1,RH + RE,,,0
+26281,nf1 KO; pten KO; ink KO; atrx wt,"possible tumor present on base of front section of the brain, Sheri says tumor cells on outside of brain starting to infiltrate",26281.B.H&E.2022-05-20,,,NFG02-024-NF1 GLIOMA INTRACRANIAL TUMORS/POSSIBLE OPG,,,yes,1,RH + RE,,,0
+26282,nf1 KO; pten KO; ink KO; atrx wt,no glioma observable,,,,NFG04-053-NF1 N-TVA ORIGINAL H&E 26281-26311,,,yes,1,RH,,,0
+26305,nf1 KO; pten KO; ink KO; atrx KO,"no glioma observable, but head tumor is there, Sheri says the head tumors look similar to melanomas",,,,NFG04-054-NF1 N-TVA ORIGINAL H&E 26281-26311,,,yes,1,RH + RE,,,0
+26306,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG04-055-NF1 N-TVA ORIGINAL H&E 26281-26311,,,yes,,RH + RE,,,0
+26307,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG04-056-NF1 N-TVA ORIGINAL H&E 26281-26311,,,yes,1,RH + RE,,,0
+26308,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG04-057-NF1 N-TVA ORIGINAL H&E 26281-26311,,,yes,1,RH + RE,,,0
+26309,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG04-058-NF1 N-TVA ORIGINAL H&E 26281-26311,,,yes,,RH + RE,,,0
+26310,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG04-059-NF1 N-TVA ORIGINAL H&E 26281-26311,,,yes,1,RH + RE,,,0
+26311,nf1 KO; pten KO; ink KO; atrx KO,no glioma observable,,,,NFG04-060-NF1 N-TVA ORIGINAL H&E 26281-26311,,,yes,1,RH + RE,,,0
+28200,nf1 KO; pten KO; ink KO; atrx wt,,,,,NFG01-048-NF1 GLIOMA EXTRACRANIAL TUMORS #2,,,,1,RH + RE,,,0
+28201,nf1 KO; pten KO; ink KO; atrx wt,,,,,,,,,,RH + RE,,,1
+28202,nf1 KO; pten KO; ink KO; atrx wt,,,,,NFG01-083-MISC SLIDES,,,,1,RH + RE,,,0
+28203,nf1 KO; pten KO; ink KO; atrx wt,,,,,NFG01-094-NF1 GLIOMA EXTRACRANIAL TUMORS,,,,1,RH + RE,,,0
+28204,nf1 KO; pten KO; ink KO; atrx wt,,,,,NFG01-076-MISC SLIDES,,,,1,RH + RE,,,0
+28205,nf1 KO; pten KO; ink KO; atrx wt,,28205.B.H&E.2022-04-06,,,NFG02-034-NF1 GLIOMAS BRAIN TUMORS (GLIOMA),,,,1,RH + RE,,,0
+28206,nf1 KO; pten KO; ink KO; atrx wt,,,,,,,,,,RH + RE,,,1
+28207,nf1 KO; pten KO; ink KO; atrx wt,,,,,NFG01-089-NF1 GLIOMA BRAINS FROM MICE WITH OTHER TUMORS,,,,1,RH + RE,,,0
+28208,nf1 KO; pten KO; ink KO; atrx wt,,,,,NFG02-009-NF1 GLIOMA EXTRACRANIAL TUMORS,,,,1,RH + RE,,,0
+28525,nf1 KO; pten KO; ink KO; atrx KO,,,,,NFG01-001-NF1 GLIOMA,,,,,RH + RE,,,0
+28526,nf1 KO; pten KO; ink KO; atrx KO,,,,,"NFG15-041-NF1 ALL ALLELES CAS9 F/F ""AA""/ NF1 GLIOMA ""NF1 PROJECT"" ATRX F/F NF1",,,,1,RH + RE,,,0
+28527,nf1 KO; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,,1
+28528,nf1 KO; pten KO; ink KO; atrx KO,,,,,"NFG15-035-NF1 ALL ALLELES CAS9 F/F ""AA""/ NF1 GLIOMA ""NF1 PROJECT"" ATRX F/F NF1",,,,1,RH + RE,,,0
+28529,nf1 KO; pten KO; ink KO; atrx KO,,,,,"NFG15-023-NF1 ALL ALLELES CAS9 F/F ""AA""/ NF1 GLIOMA ""NF1 PROJECT"" ATRX F/F NF1",,,,1,RH + RE,,,0
+28530,nf1 KO; pten KO; ink KO; atrx KO,,,,,NFG01-002-NF1 GLIOMA,,,,1,RH + RE,,,0
+28531,nf1 KO; pten KO; ink KO; atrx KO,,,,,NFG01-003-NF1 GLIOMA,,,,1,RH + RE,,,0
+28532,nf1 KO; pten KO; ink KO; atrx KO,,,,,,,,,1,RH + RE,,,1
+28708,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-020-NF1 GLIOMA H&E 29406,,,,1,RE,,,0
+28709,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-038-NF1 GLIOMA H&E 28708-29388,,,,1,RE,,,0
+28710,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-039-NF1 GLIOMA H&E 28708-29388,,,,1,RE,,,0
+28780,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-023-NF1 GLIOMA H&E 29406,,,,1,RE,,,0
+28781,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-040-NF1 GLIOMA H&E 28708-29388,,,,1,RE,,,0
+28782,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-041-NF1 GLIOMA H&E 28708-29388,,,,1,RE,,,0
+28783,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-042-NF1 GLIOMA H&E 28708-29388,,,,1,RE,,,0
+28784,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-043-NF1 GLIOMA H&E 28708-29388,,,,1,RE,,,0
+29161,nf1 KO; pten wt; ink wt; atrx wt,NED but check pathology?,,,,NFG04-061-NA,,,,1,RE,,,0
+29162,nf1 KO; pten wt; ink wt; atrx wt,NED but check pathology?,,,,NFG04-063-NA,,,,1,RE,,,0
+29163,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-044-NF1 GLIOMA H&E 28708-29388,,,,1,RE,,,0
+29164,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-046-NF1 GLIOMA H&E 28708-29388,,,,1,RE,,,0
+29165,nf1 KO; pten wt; ink wt; atrx wt,,,,,,,,,1,RE,,,1
+29166,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-049-NF1 GLIOMA H&E 28708-29388,,,,1,RE,,,0
+29385,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG04-028-NF1 GLIOMA H&E 29406,,,,1,RE,,,0
+29386,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG04-051-NF1 GLIOMA H&E 28708-29388,,,,1,RE,,,0
+29387,nf1 KO; pten wt; ink KO; atrx wt,Infiltrating Astrocytoma,29387.B.H&E.2022-05-20,,,NFG02-043-NF1 GLIOMA N-TVA::CDKN2A F/F ; H11 LSL CAS9 AND N-TVA::H11 LSL CAS9 SLIDES,,,,1,RE,,,0
+29388,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG04-030-NF1 GLIOMA H&E 29406,,,,,RE,,,0
+29389,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG04-001-NF1 GLIOMA H&E 29289-29405,,,,,RE,2,conflicting death dates in cohort vs. genotyping files. 2022-06-10 vs. 2022-07-19 used cohort date but can exclude from analysis if desired.,0
+29390,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG04-003-NF1 GLIOMA H&E 29289-29405,,,,,RE,2,conflicting death dates in cohort vs. genotyping files. 2022-06-10 vs. 2022-07-19 used cohort date but can exclude from analysis if desired.,0
+29397,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-005-NF1 GLIOMA H&E 29289-29405,,,,1,RE,,,0
+29398,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-007-NF1 GLIOMA H&E 29289-29405,,,,1,RE,,,0
+29399,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-036-NF1 GLIOMA H&E 29406,,,,1,RE,,,0
+29400,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-010-NF1 GLIOMA H&E 29289-29405,,,,1,RE,,,0
+29401,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-012-NF1 GLIOMA H&E 29289-29405,,,,1,RE,,,0
+29403,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-032-NF1 GLIOMA H&E 29406,,,,1,RE,,,0
+29404,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-034-NF1 GLIOMA H&E 29406,,,,1,RE,,,0
+29405,nf1 KO; pten wt; ink wt; atrx wt,,,,,NFG04-016-NF1 GLIOMA H&E 29289-29405,,,,1,RE,,,0
+29406,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG04-018-NF1 GLIOMA H&E 29406,,,,1,RE,2,non-matching dob's. Used genotyping dob. 2022-02-10 vs. 2022-02-09,0
+29407,nf1 KO; pten wt; ink KO; atrx wt,,,,,,,,,,RE,2,conflicting death dates in cohort vs. genotyping files. 2022-04-02 vs. 2022-04-04 used cohort date but can exclude from analysis if desired.,1
+29408,nf1 KO; pten wt; ink KO; atrx wt,,,,,,,,,,RE,,,1
+29409,nf1 KO; pten wt; ink KO; atrx wt,Grade II Infiltrating Astrocytoma,29409.B.H&E.2022-05-20,,,NFG02-038-NF1 GLIOMA N-TVA::CDKN2A F/F ; H11 LSL CAS9 AND N-TVA::H11 LSL CAS9 SLIDES,,,,1,RE,,,0
+29410,nf1 KO; pten wt; ink KO; atrx wt,,,,,,,,,,RE,,,1
+29818,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-004-NF1 GLIOMA,,,,1,RE,,,0
+29819,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-006-NF1 GLIOMA,,,,1,RE,,,0
+29820,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-008-NF1 GLIOMA,,,,1,RE,,,0
+29821,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-010-NF1 GLIOMA,,,,1,RE,,,0
+29822,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-012-NF1 GLIOMA,,,,1,RE,,,0
+29824,nf1 KO; pten wt; ink KO; atrx wt,,,,,,,,,,RE,2,non-matching dob's. Used genotyping dob. 2022-03-25 vs. 2022-03-23,1
+30212,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-016-NF1 GLIOMA,,,,1,RE,,,0
+30213,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-018-NF1 GLIOMA,,,,1,RE,,,0
+30214,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-020-NF1 GLIOMA,,,,1,RE,,,0
+30215,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-023-NF1 GLIOMA,,,,1,RE,,,0
+30216,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-025-NF1 GLIOMA,,,,1,RE,,,0
+30217,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-027-NF1 GLIOMA,,,,1,RE,,,0
+30218,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-029-NF1 GLIOMA,,,,1,RE,,,0
+30232,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-058-NF1 GLIOMA,,,,1,RE,,,0
+30233,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-060-NF1 GLIOMA,,,,1,RE,,,0
+30234,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-062-NF1 GLIOMA,,,,1,RE,,,0
+30235,tva inconclusive,,,,,NFG01-064-NF1 GLIOMA,,,,1,RE,2,inconclusive TVA status.,0
+30236,nf1 KO; pten wt; ink KO; atrx wt,,,,,NFG01-066-NF1 GLIOMA,,,,1,RE,,,0
+30237,tva inconclusive,,,,,NFG01-068-NF1 GLIOMA,,,,1,RE,2,inconclusive TVA status.,0
