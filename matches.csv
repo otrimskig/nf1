@@ -1,0 +1,157 @@
+mouse_num,organ,stain,tumor,size,send_for_rna,annotated_mrxs,aod,resultant_geno,x,current_loc,current_slot
+23287,B,HE,1.01,21,NA,NA,87,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,016
+22925,B,HE,1.01,9.1,NA,NA,105,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,010
+23021,B,HE,1.01-b,1.6,NA,NA,93,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,1
+23467,B,HE,1.01.3,37,NA,NA,107,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,039
+23021,B,HE,1.02,56,NA,NA,93,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,1
+26024,B,HE,1.03,160,NA,mtob,54,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,4
+25504,T1,HE,1.03,130,NA,NA,60,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,3
+25027,B,HE,1.03,126,NA,tob,77,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,42
+25026,B,HE,1.03,83,NA,tob,82,nf1 KO; pten KO; ink KO; atrx KO,2,scanned 1,11
+25029,B,HE,1.03,69,NA,tob,75,nf1 KO; pten KO; ink KO; atrx KO,2,scanned 1,43
+23288,B,HE,1.03,57,NA,NA,71,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,2
+23291,B,HE,1.04,5,NA,NA,85,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,020
+23294,B,HE,1.05,2.2,NA,NA,107,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,023
+23298,B,HE,1.06,2.5,NA,NA,94,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,49
+23467,B,HE,1.07,1.5,NA,NA,107,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,039
+28529,B,HE,1.08,15,NA,great intracranial tumor.,107,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,10
+23527,B,HE,1.08,3,NA,NA,95,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,049
+28529,B,HE,1.08,1.4,NA,great intracranial tumor.,107,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,10
+25025,B,HE,1.09,89,NA,massive ppn inside brain,105,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,088
+28528,B,HE,1.10,18,NA,possible mengimoma-looking..,130,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,12
+28528,B,HE,1.10,3,NA,possible mengimoma-looking..,130,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,12
+26274,T1,HE,2.01,18,NA,"could profile, but a bit difficult to see exactly where tumor was in relation to brain.",94,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,16
+28202,B,HE,2.01,7,NA,*plus t1 slide,74,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,18
+23966,B,HE,2.01,4,NA,NA,106,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,071
+22846,B,HE,2.01,1.4,NA,NA,102,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,004
+23823,B,HE,2.02,25,NA,NA,53,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,061
+23397,B,HE,2.02,21,NA,NA,76,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,031
+26140,B,HE,2.02,20,NA,large tumor inside? brain.,149,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,14
+28200,T1,HE,2.02,15,NA,"massive tumor, need brain slide to ascertain position",108,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,17
+23826,B,HE,2.02,5,NA,NA,63,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,063
+25767,B,HE,2.02,4,NA,NA,79,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG14,061
+23465,B,HE,2.03,206,NA,mtob,70,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,6
+25743,B,HE,2.03,191,NA,mtob,79,nf1 KO; pten KO; ink KO; atrx wt,NA,for scan 2,6
+23463,B,HE,2.03,140,NA,mtob,70,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,5
+23786,B,HE,2.04,48,NA,"large tumor, mostly outside brain, Some pushing into brain. not as separated as other mtobs",64,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,054
+24988,B,HE,2.04,22,NA,NA,127,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,086
+23967,B,HE,2.04,15,NA,NA,89,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,072
+28208,B,HE,2.04,12,Y,diverse tumor areas with high grade appearance plus aan.,69,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,19
+23791,B,HE,2.04,8,NA,NA,68,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,058
+23866,B,HE,2.04,7,NA,NA,67,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,066
+26143,B,HE,2.05,18,Y,good sample for interanl brain tumor.,141,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG04,082
+25690,B,HE,2.05,14,NA,NA,112,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG04,075
+28202,B,HE,2.05,10,NA,*plus t1 slide,74,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,18
+26014,T1,HE,2.05-b,57,NA,NA,80,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG02,058
+26281,B,HE,2.05-b,1,NA,NA,85,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG02,024
+25692,B,HE,2.06,14,NA,"--have patho look at large, diffust area circles. May be oligo-denral-like, or may be found dead.",111,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG14,046
+25767,B,HE,2.06,7,NA,NA,79,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG14,061
+25741,B,HE,2.07,9,NA,"obvious severe tumor. Whole brain appears diseased, with hypercellularity",137,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG04,077
+26012,B,HE,2.08,2,NA,NA,98,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG02,030
+26138,B,HE,2.09,30,Y,"large, aggressive tumor inside brain. Definitely send",122,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG04,081
+30214,T1,HE,3.01,8,Y,need to check B-HE slide for tumor location.,150,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,20
+29409,B,HE,3.02,20,NA,"could be an interesting diffuse-looking, with some linear arrangements",53,nf1 KO; pten wt; ink KO; atrx wt,NA,NFG02,038
+28709,B,HE,4.01,1,NA,diffuse hc. Maybe necrotic area,186,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,21
+28710,B,HE,4.02,40,NA,"diffuse hc, with loose rosettes",186,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,22
+28709,B,HE,4.02,30,NA,diffuse hc. Maybe necrotic area,186,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,21
+28780,B,HE,4.02,10,NA,"diffuse hc, with loose rosettes",182,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,57
+29166,B,HE,4.02,10,NA,"diffuse hc, with loose rosettes",152,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,63
+29162,B,HE,4.02,4,NA,"diffuse hc, with loose rosettes",54,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,100
+28784,B,HE,4.02,1,NA,"diffuse hc, with loose rosettes",182,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,60
+25238,B,HE,5.01,170,NA,mtob,117,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,26
+25088,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",150,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,66
+25090,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",150,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,67
+25239,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",150,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,73
+25240,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",150,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,27
+25241,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",150,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,74
+25242,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",150,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,28
+25258,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",147,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,75
+25259,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",147,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,29
+25260,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",84,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,30
+25262,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",147,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,76
+25263,B,HE,5.02,NA,NA,NA,147,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,77
+25264,B,HE,5.02,NA,NA,"diffuse hc, with loose rosettes",147,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,31
+25786,B,HE,5.03,200,NA,"oligo-looking, maybe found dead.",28,nf1 wt; pten KO; ink KO; atrx KO,NA,for scan 2,9
+24805,B,HE,6.01,NA,NA,NA,162,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,33
+25214,B,HE,6.01,NA,NA,NA,150,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,69
+25215,B,HE,6.01,NA,NA,"diffuse hc, loose rosettes.",150,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,70
+26310,B,HE,dif,NA,NA,"b-type area, may be large enoguh to prifle. many interesting features, diffuse mostly.",51,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,48
+23784,B,HE,dif,NA,NA,diffuse,116,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,7
+23787,B,HE,dif,NA,NA,NA,72,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,055
+23792,B,HE,dif,NA,NA,"large, diff area- maybe good for rna? probably not tho",81,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,059
+23969,B,HE,dif,NA,NA,NA,76,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,89
+24986,B,HE,dif,NA,NA,NA,67,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG03,084
+24987,B,HE,dif,NA,NA,NA,67,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,91
+25691,B,HE,dif,NA,NA,probably too diffuse?,106,nf1 KO; pten KO; ink KO; atrx wt,NA,for scan 2,5
+25742,B,HE,dif,NA,NA,diffuse,98,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,8
+25744,B,HE,dif,NA,NA,"very diffule, hyperc.",88,nf1 KO; pten KO; ink KO; atrx wt,NA,for scan 2,7
+25748,B,HE,dif,NA,NA,diffuse hyper.,133,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,9
+25766,B,HE,dif,NA,NA,"has yellow-brown staining in areas - brain infection?? large regression areas, could be dure to glioima or from edema.",65,nf1 KO; pten KO; ink KO; atrx wt,NA,for scan 2,8
+26010,B,HE,dif,NA,NA,NA,81,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,13
+26014,B,HE,dif,NA,NA,difficult to tell where tumor location was.,80,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG01,045
+26274,B,HE,dif,NA,NA,could be good if need diffuse sample,94,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,15
+26280,B,HE,dif,NA,Y,diffuse with no obvious primary. Could be good to send for diffuse-type,73,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG01,079
+28200,B,HE,dif,NA,NA,diffuse/ned,108,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG01,048
+29385,B,HE,dif,NA,NA,NA,159,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,58
+29387,B,HE,dif,NA,Y,NA,54,nf1 KO; pten wt; ink KO; atrx wt,NA,NFG02,043
+29388,B,HE,dif,NA,NA,na,149,nf1 KO; pten wt; ink KO; atrx wt,4,scanned 1,96
+29819,B,HE,dif,NA,NA,NA,151,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,83
+29821,B,HE,dif,NA,NA,NA,151,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,51
+30233,B,HE,dif,NA,NA,NA,149,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,86
+30234,B,HE,dif,NA,NA,diffuse/ned,149,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,53
+30236,B,HE,dif,NA,NA,NA,149,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,87
+24801,B,HE,dif,NA,NA,NA,162,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,32
+24803,B,HE,dif/ned,NA,NA,NA,162,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,90
+24807,B,HE,dif/ned,NA,NA,NA,162,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,54
+25080,B,HE,dif/ned,NA,NA,NA,150,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,92
+25082,B,HE,dif/ned,NA,NA,NA,150,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,55
+25085,B,HE,dif/ned,NA,NA,NA,150,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,65
+25218,B,HE,dif/ned,NA,NA,NA,150,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,71
+25220,B,HE,dif/ned,NA,NA,NA,150,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,72
+25221,B,HE,dif/ned,NA,NA,NA,150,nf1 wt; pten KO; ink KO; atrx wt,NA,for scan 2,1
+25266,B,HE,dif/ned,NA,NA,NA,148,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,78
+25267,B,HE,dif/ned,NA,NA,NA,148,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,79
+25268,B,HE,dif/ned,NA,NA,NA,148,nf1 wt; pten KO; ink KO; atrx wt,NA,for scan 2,2
+25269,B,HE,dif/ned,NA,NA,NA,148,nf1 wt; pten KO; ink KO; atrx wt,NA,for scan 2,3
+25271,B,HE,dif/ned,NA,NA,NA,148,nf1 wt; pten KO; ink KO; atrx wt,NA,for scan 2,4
+25274,B,HE,dif/ned,NA,NA,NA,148,nf1 wt; pten KO; ink KO; atrx wt,NA,scanned 1,80
+26137,B,HE,fda,NA,NA,oligo-looking,62,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG04,080
+23269,B,HE,ts,NA,NA,NA,150,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,36
+23270,B,HE,ts,NA,NA,NA,87,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,013
+23293,B,HE,ts,NA,NA,NA,82,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,022
+23297,B,HE,ts,NA,NA,NA,138,nf1 KO; pten KO; ink KO; atrx KO,2,scanned 1,38
+23468,B,HE,ts,NA,NA,NA,128,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,39
+23522,B,HE,ts,NA,NA,NA,67,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,40
+23523,B,HE,ts,NA,NA,"could be an important sample to analyze large brain area. Only small tumor area, but age of death was very early.",57,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,34
+23524,B,HE,ts,NA,NA,NA,84,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG03,045
+23526,B,HE,ts,NA,NA,NA,74,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG06,032
+23528,B,HE,ts,NA,NA,NA,110,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,41
+25503,B,HE,ts,NA,have patho look,super interesting contrast between likely normal brain parencyma and diffusely hypercellular areas,91,nf1 KO; pten KO; ink KO; atrx KO,NA,NFG06,041
+25504,B,HE,ts,NA,NA,alll diffuse. massive tumor outside,60,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,45
+26022,B,HE,ts,NA,NA,NA,69,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,46
+26309,B,HE,ts,NA,NA,again premature death without obvious large tumor. May be good to send a large area.,68,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,47
+23965,B,HE,ts,NA,NA,NA,89,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,88
+25694,B,HE,ts,NA,NA,NA,108,nf1 KO; pten KO; ink KO; atrx wt,NA,NFG04,076
+29818,B,HE,ts,NA,NA,NA,151,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,50
+30215,B,HE,ts,NA,NA,NA,150,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,84
+30216,B,HE,ts,NA,NA,NA,150,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,52
+30232,B,HE,ts,NA,NA,NA,149,nf1 KO; pten wt; ink KO; atrx wt,NA,scanned 1,85
+25695,B,HE,ts/dif,NA,NA,"very diseased looking tissue. Tissue may be of low quality if mouse was found dead, or could be a phenotype... Have patho look.",97,nf1 KO; pten KO; ink KO; atrx wt,NA,scanned 1,35
+28784,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",182,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,60
+29161,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",54,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,64
+29163,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",152,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,61
+29164,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",152,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,62
+29398,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",159,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,93
+29399,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",159,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,98
+29400,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",159,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,94
+29401,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",159,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,95
+29403,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",159,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,24
+29404,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",159,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,97
+29405,B,HE,ts/dif,NA,NA,"diffuse hc, with loose rosettes",159,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,56
+25087,B,HE,ts/dif,NA,NA,diffuse hc/ned,150,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,25
+25092,B,HE,ts/dif,NA,NA,ned,150,nf1 wt; pten KO; ink KO; atrx KO,NA,scanned 1,68
+28781,B,HE,ts/diff,NA,NA,"diffuse hc, with loose rosettes",182,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,23
+28782,B,HE,ts/diff,NA,NA,"diffuse hc, with loose rosettes",182,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,59
+28783,B,HE,ts/diff,NA,NA,"diffuse hc, with loose rosettes",182,nf1 KO; pten wt; ink wt; atrx wt,NA,scanned 1,99
+28525,B,HE,uc,NA,NA,large necrotic areas.,45,nf1 KO; pten KO; ink KO; atrx KO,NA,scanned 1,82
+25031,B,HE,unq,NA,NA,massive interesting tumor areas inside/outside brain.,77,nf1 KO; pten KO; ink KO; atrx KO,2,scanned 1,44
