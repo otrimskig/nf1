@@ -14,7 +14,7 @@ readRDS("ds/nf1_cohorts.3.dates.rds")->cohort_survival
 df1<-cohort_survival%>%
   
   #keep only necessary vars
-  select(exclude, resultant_geno, aod, exp_end_date)%>%
+  select(exclude, strain_injection, resultant_geno, aod, exp_end_date)%>%
   
   mutate(event = if_else(is.na(exp_end_date),1,0))%>%
   select(-exp_end_date)%>%

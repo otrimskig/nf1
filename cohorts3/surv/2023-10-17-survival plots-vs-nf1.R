@@ -65,7 +65,7 @@ cohort_surv%>%
 
 plot_list[[1]]<-pl$plot
 
-
+plot_list[1]
 
 #export plot - add export to code. 
 
@@ -119,7 +119,7 @@ for(i in 1:length(bg_genotypes)){
                break.y.by = .25,
                axes.offset = FALSE,
                palette= c("black", "grey"),
-               legend = c("bottom", nrow=2),
+               #legend = c("bottom", nrow=2),
                ggtheme = theme_classic(),
                xlab = "Time Post Injection (Days)",
                legend.title = "cohort",
@@ -139,8 +139,9 @@ lay <- rbind(c(1,1,1,2,3),
 grid.arrange(grobs=plot_list[1:3],layout_matrix=lay)
 
 
+plot_list[2]
 
-
+plot_list[3]
 
 
 

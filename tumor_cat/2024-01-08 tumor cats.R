@@ -104,7 +104,13 @@ df2<-cohortdf%>%
 
 
 
-  
+
+#####################
+#begin plots
+
+
+
+
 library(ggplot2)
 
 #stacked bar plot by tumor category. 
@@ -136,7 +142,28 @@ df2%>%
 library(ggbeeswarm)
 df2%>%
   mutate(tumor_size=if_else(is.na(tumor_size), 0, tumor_size))%>%
+  filter(tumor_size!=0)%>%
+  
   ggplot(., aes(x=resultant_geno, y=tumor_size))+
-    geom_beeswarm(priority = "density")+
+    geom_beeswarm(size=3)+
+  theme_classic()+
     theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  
+
+
+
+df2%>%
+  mutate(measurable_tumor = if_else(is.na(tumor_size), "0", "1"))%>%
+  group_by(resultant_geno)%>%
+  
+  
+  summarize(n=n(),
+            meas=sum(measurable_tumor=="1"),
+            perc=meas/n)%>%
+
+  ggplot(., aes(x=resultant_geno, y=perc, fill=resultant_geno))+
+  geom_col()+
+  scale_y_continuous(labels = scales::percent)+
+  theme_classic()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
