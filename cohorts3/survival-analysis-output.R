@@ -160,7 +160,10 @@ full_join(tableab, tablebc)%>%
   relocate(group_name, num)%>%
 
 
-  rename_at(vars(3:last_col()), ~as.character(c(1:6)))->results
+  rename_at(vars(3:last_col()), ~as.character(c(1:6)))%>%
+  rename(group_num=num)%>%
+  left_join(meta%>%select(1,2))%>%
+  relocate(group_name, n)->results
   
   
 

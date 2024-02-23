@@ -1,0 +1,46 @@
+resultant_geno,grade,loc,count,n,perc
+nf1 KO; pten KO; ink KO; atrx KO,high grade,in brain,3,32,9.375
+nf1 KO; pten KO; ink KO; atrx KO,high grade,outside brain,4,32,12.5
+nf1 KO; pten KO; ink KO; atrx KO,low grade,in brain,17,32,53.125
+nf1 KO; pten KO; ink KO; atrx KO,mid grade,in brain,7,32,21.875
+nf1 KO; pten KO; ink KO; atrx KO,mid grade,outside brain,1,32,3.125
+nf1 KO; pten KO; ink KO; atrx wt,high grade,adjacent,11,48,22.916666666666668
+nf1 KO; pten KO; ink KO; atrx wt,high grade,in brain,2,48,4.166666666666667
+nf1 KO; pten KO; ink KO; atrx wt,high grade,outside brain,3,48,6.25
+nf1 KO; pten KO; ink KO; atrx wt,low grade,in brain,21,48,43.75
+nf1 KO; pten KO; ink KO; atrx wt,mid grade,adjacent,4,48,8.333333333333334
+nf1 KO; pten KO; ink KO; atrx wt,mid grade,in brain,7,48,14.583333333333334
+nf1 KO; pten wt; ink KO; atrx wt,low grade,in brain,2,2,100
+nf1 KO; pten wt; ink wt; atrx wt,low grade,in brain,2,2,100
+nf1 wt; pten KO; ink KO; atrx KO,high grade,in brain,1,3,33.333333333333336
+nf1 wt; pten KO; ink KO; atrx KO,low grade,in brain,2,3,66.66666666666667
+nf1 KO; pten KO; ink KO; atrx KO,high grade,adjacent,NA,NA,0
+nf1 KO; pten KO; ink KO; atrx KO,low grade,adjacent,NA,NA,0
+nf1 KO; pten KO; ink KO; atrx KO,low grade,outside brain,NA,NA,0
+nf1 KO; pten KO; ink KO; atrx KO,mid grade,adjacent,NA,NA,0
+nf1 KO; pten KO; ink KO; atrx wt,low grade,adjacent,NA,NA,0
+nf1 KO; pten KO; ink KO; atrx wt,low grade,outside brain,NA,NA,0
+nf1 KO; pten KO; ink KO; atrx wt,mid grade,outside brain,NA,NA,0
+nf1 KO; pten wt; ink KO; atrx wt,high grade,adjacent,NA,NA,0
+nf1 KO; pten wt; ink KO; atrx wt,high grade,in brain,NA,NA,0
+nf1 KO; pten wt; ink KO; atrx wt,high grade,outside brain,NA,NA,0
+nf1 KO; pten wt; ink KO; atrx wt,low grade,adjacent,NA,NA,0
+nf1 KO; pten wt; ink KO; atrx wt,low grade,outside brain,NA,NA,0
+nf1 KO; pten wt; ink KO; atrx wt,mid grade,adjacent,NA,NA,0
+nf1 KO; pten wt; ink KO; atrx wt,mid grade,in brain,NA,NA,0
+nf1 KO; pten wt; ink KO; atrx wt,mid grade,outside brain,NA,NA,0
+nf1 KO; pten wt; ink wt; atrx wt,high grade,adjacent,NA,NA,0
+nf1 KO; pten wt; ink wt; atrx wt,high grade,in brain,NA,NA,0
+nf1 KO; pten wt; ink wt; atrx wt,high grade,outside brain,NA,NA,0
+nf1 KO; pten wt; ink wt; atrx wt,low grade,adjacent,NA,NA,0
+nf1 KO; pten wt; ink wt; atrx wt,low grade,outside brain,NA,NA,0
+nf1 KO; pten wt; ink wt; atrx wt,mid grade,adjacent,NA,NA,0
+nf1 KO; pten wt; ink wt; atrx wt,mid grade,in brain,NA,NA,0
+nf1 KO; pten wt; ink wt; atrx wt,mid grade,outside brain,NA,NA,0
+nf1 wt; pten KO; ink KO; atrx KO,high grade,adjacent,NA,NA,0
+nf1 wt; pten KO; ink KO; atrx KO,high grade,outside brain,NA,NA,0
+nf1 wt; pten KO; ink KO; atrx KO,low grade,adjacent,NA,NA,0
+nf1 wt; pten KO; ink KO; atrx KO,low grade,outside brain,NA,NA,0
+nf1 wt; pten KO; ink KO; atrx KO,mid grade,adjacent,NA,NA,0
+nf1 wt; pten KO; ink KO; atrx KO,mid grade,in brain,NA,NA,0
+nf1 wt; pten KO; ink KO; atrx KO,mid grade,outside brain,NA,NA,0

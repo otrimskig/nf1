@@ -1,0 +1,7 @@
+resultant_geno,count,n,tumor_penetrance
+nf1 KO; pten KO; ink KO; atrx KO,61,64,95.3125
+nf1 KO; pten KO; ink KO; atrx wt,94,97,96.90721649484536
+nf1 KO; pten wt; ink KO; atrx wt,4,22,18.181818181818183
+nf1 KO; pten wt; ink wt; atrx wt,2,22,9.090909090909092
+nf1 wt; pten KO; ink KO; atrx KO,3,32,9.375
+nf1 wt; pten KO; ink KO; atrx wt,2,32,6.25

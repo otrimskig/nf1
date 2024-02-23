@@ -131,6 +131,43 @@ df2%>%
 
 
 
+
+#stacked bar plot by tumor category 2. 
+df2%>%
+  mutate(tumor_cat=sub("^\\d\\.", "", tumor_cat))%>%
+  
+  group_by(resultant_geno)%>%
+  
+  count(tumor_cat)%>%
+  
+  
+  ggplot(., aes(x=resultant_geno, y=n, fill=tumor_cat))+
+  geom_col(position = "fill", color="black")+
+  scale_y_continuous(labels = scales::percent)+
+  theme_classic()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #aod vs. tumor_size
 df2%>%
   ggplot(., aes(x=aod, y=tumor_size))+

@@ -8,6 +8,11 @@ library(gridExtra)
 readRDS("ds/nf1_cohorts.3.dates.rds")->cohort_survival
 
 
+write_csv(cohort_survival,"cohorts.csv")
+
+
+
+
 df1<-cohort_survival%>%
   
   #keep only necessary vars

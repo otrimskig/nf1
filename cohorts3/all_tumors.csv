@@ -1,0 +1,88 @@
+mouse_num,organ,event,tumor_type,all_tumor_type,grade,loc,strain_injection,resultant_geno,aod
+22925,B,1,1.01,a1,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,105
+23287,B,1,1.01,a1,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,87
+23021,B,1,1.01-b,a2,high grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,93
+23467,B,1,1.01.3,a2,high grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,107
+23021,B,1,1.02,a3,mid grade,outside brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,93
+23288,B,1,1.03,a4,high grade,outside brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,71
+25027,B,1,1.03,a4,high grade,outside brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,77
+25504,T1,1,1.03,a4,high grade,outside brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,60
+26024,B,1,1.03,a4,high grade,outside brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,54
+23291,B,1,1.04,a5,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,85
+23294,B,1,1.05,a6,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,107
+23298,B,1,1.06,a7,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,94
+23467,B,1,1.07,a8,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,107
+23527,B,1,1.08,a9,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,95
+25025,B,1,1.08,a9,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,105
+28528,B,1,1.08,a9,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,130
+28529,B,1,1.08,a9,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,107
+28528,B,1,1.10,a11,high grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,130
+22846,B,1,2.01,a12,mid grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,102
+23966,B,1,2.01,a12,mid grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,106
+26274,T1,1,2.01,a12,mid grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,94
+28202,B,1,2.01,a12,mid grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,74
+23397,B,1,2.02,a1,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,76
+23823,B,1,2.02,a1,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,53
+23826,B,1,2.02,a1,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,63
+25767,B,1,2.02,a1,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,79
+28200,T1,1,2.02,a1,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,108
+23463,B,1,2.03,a4,high grade,outside brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,70
+23465,B,1,2.03,a4,high grade,outside brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,70
+25743,B,1,2.03,a4,high grade,outside brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,79
+23786,B,1,2.04,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,64
+23967,B,1,2.04,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,89
+24988,B,1,2.04,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,127
+23791,B,1,2.04,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,68
+23866,B,1,2.04,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,67
+28208,B,1,2.04,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,69
+25690,B,1,2.05,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,112
+26014,T1,1,2.05,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,80
+26143,B,1,2.05,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,141
+28202,B,1,2.05,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,74
+26281,B,1,2.05-b,a12,high grade,adjacent,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,85
+25692,B,1,2.06,a13,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,111
+25767,B,1,2.06,a13,mid grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,79
+25741,B,1,2.07,a14,high grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,137
+26012,B,1,2.08,a7,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,98
+26138,B,1,2.09,a15,high grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,122
+29409,B,1,3.02,a17,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten +/+; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten wt; ink KO; atrx wt,53
+29162,B,1,4.02,a19,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten +/+; Ink4a/Arf +/+; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten wt; ink wt; atrx wt,54
+25238,B,1,5.01,a20,high grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre",nf1 wt; pten KO; ink KO; atrx KO,117
+25260,B,1,5.02,a21,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre",nf1 wt; pten KO; ink KO; atrx KO,84
+25786,B,1,5.03,a22,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre",nf1 wt; pten KO; ink KO; atrx KO,28
+23784,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,116
+23787,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,72
+23792,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,81
+23969,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,76
+24986,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,67
+24987,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,67
+25691,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,106
+25742,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,98
+25744,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,88
+25748,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,133
+25766,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,65
+26010,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,81
+26014,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,80
+26274,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,94
+26280,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,73
+26310,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,51
+28200,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,108
+29387,B,1,dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten +/+; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten wt; ink KO; atrx wt,54
+26137,B,1,fda,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,62
+23270,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,87
+23293,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,82
+23468,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,128
+23522,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,67
+23523,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,57
+23524,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,84
+23526,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,74
+23528,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,110
+23965,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,89
+25503,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,91
+25504,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,60
+25694,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,108
+26022,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,69
+26309,B,1,ts,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,68
+25695,B,1,ts/dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx wt,97
+29161,B,1,ts/dif,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten +/+; Ink4a/Arf +/+; ATRX +/+, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten wt; ink wt; atrx wt,54
+28525,B,1,uc,NA,low grade,in brain,"N::TVA; H11LSL-Cas9 f/f; Pten f/f; Ink4a/Arf f/f; ATRX f/f, injected with: RCAS-Cre-pENTR-U6-sgRNA-NF1-ex2",nf1 KO; pten KO; ink KO; atrx KO,45
