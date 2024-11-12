@@ -57,6 +57,7 @@ RH.df1.1<-RH.df1.0%>%
   
   mutate(mouse_num = substr(mouse_id_greyed_out_if_it_will_be_excluded_from_results, 1,5))%>%
   relocate(mouse_num)%>%
+  
   #filter out any rows that aren't mouse numbers.
   filter(grepl("[0-9]", mouse_num))
 
