@@ -13,8 +13,50 @@ scans_loc<-"F:/slide scans go"
 #sheet id and sheet name to read in from sheets. 
 #note that this is a sheet dedicated to renaming slides. 
 
-sheet_id<-"1RV5PUwwV3wT423YkMOOYsKOj5inOAA7eSROezH_W5Z8"
+sheet_id<-"https://docs.google.com/spreadsheets/d/1RV5PUwwV3wT423YkMOOYsKOj5inOAA7eSROezH_W5Z8/edit?gid=0#gid=0"
 name_of_sheet<-"rn"
+
+
+
+scan_names<-dir_info(scans_loc)%>%
+  as_tibble()%>%
+  
+  #select only necessary. variables
+  select(path, type, modification_time)%>%
+  
+  #rename for convenience.
+  rename(modified=modification_time,  path1=path)%>%
+  
+  #removed /rn destination folder. 
+  filter(path1!=dest_path)%>%
+  
+  filter(type=="directory")%>%
+  
+  mutate(bn=basename(path1))%>%
+  select(path1, bn)
+
+
+
+library(googlesheets4)
+gs4_auth(email = "gotrimski@gmail.com")
+
+scan_names%>%
+  range_write(sheet_id,
+              sheet = "filenames",
+              .,
+               reformat=FALSE,
+              range = "A1")
+
+
+stop(paste("check which slides should be renamed in", cli::style_hyperlink(
+  text = "output sheet",
+  url = "https://docs.google.com/spreadsheets/d/1RV5PUwwV3wT423YkMOOYsKOj5inOAA7eSROezH_W5Z8/edit?gid=0#gid=0"
+)))
+
+
+
+#######################
+
 
 
 #read input sheet
@@ -72,6 +114,17 @@ renames<-df%>%
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #now read in actual file and dir names. 
 
 #set input and output folders. 
@@ -83,6 +136,27 @@ dest_path<-paste0(scans_loc, "/rn")
 #get list of all files and directories (non-recursive)
 #for all new scans yet to be properly names.
 
+
+gs4_auth(email = "gotrimski@gmail.com")
+
+dirs_to_rename<-read_sheet(sheet_id, 
+               sheet = "filenames")%>%
+  mutate(across(1:last_col(), as.character))%>%
+  
+  #then replace all "NULL" with NA. 
+  mutate(across(1:last_col(), function(x){na_if(x, "NULL")}))%>%
+  
+  janitor::clean_names()%>%
+  filter(rename==1)%>%
+  select(path1)
+
+mrx_to_rename<-dirs_to_rename%>%
+  mutate(path1=paste0(path1, ".mrxs"))
+
+
+
+paths_to_rename<-bind_rows(dirs_to_rename, mrx_to_rename)
+
 new_scans<-dir_info(scans_loc)%>%
   as_tibble()%>%
   
@@ -93,7 +167,9 @@ new_scans<-dir_info(scans_loc)%>%
   rename(modified=modification_time,  path1=path)%>%
   
   #removed /rn destination folder. 
-  filter(path1!=dest_path)
+  filter(path1!=dest_path)%>%
+  
+  semi_join(paths_to_rename)
 
 
 
@@ -137,8 +213,7 @@ files<-new_scans%>%
 
 
 
-#renaming operation, contingent upon a few checks. 
-
+stop()
 
 if (any(is.na(dirs))) {
     
