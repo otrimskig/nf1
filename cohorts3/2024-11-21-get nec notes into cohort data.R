@@ -74,23 +74,6 @@ coh1<-coh%>%
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 library(stringr)
 
 coh2 <- coh1 %>%
