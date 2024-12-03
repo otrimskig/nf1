@@ -59,6 +59,38 @@ coh1<-coh%>%
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 library(stringr)
 
 coh2 <- coh1 %>%
@@ -75,10 +107,10 @@ coh2 <- coh1 %>%
 
 
 
-
-
-
 saveRDS(coh2, "ds/cohorts-2024-11-21.rds")
 
 
 writexl::write_xlsx(coh2, "ds/cohorts-2024-11-21.xlsx")
+
+
+
