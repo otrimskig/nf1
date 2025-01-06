@@ -24,7 +24,8 @@ cohorts0<-read_sheet(sheet_id,
 
 #sheet id and sheet name to read in from sheets. 
 
-sheet_id<-"https://docs.google.com/spreadsheets/d/1Vr8u_WcXR-VIqRJc1MUXVQobB4HBGgnhg8LTLnsYwOQ/edit?gid=433483277#gid=433483277"
+sheet_id<-"git branch --set-upstream-to=origin/main main
+"
 name_of_sheet<-"updated_slides"
 
 ############
