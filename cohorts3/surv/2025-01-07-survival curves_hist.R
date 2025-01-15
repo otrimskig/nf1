@@ -49,18 +49,18 @@ df1<-coh1%>%
   mutate(hist_catgrade=if_else(hist_catgrade=="n.ned", "ned", hist_catgrade))
 
 
-
+aspectratio<-.6
 
 
 #make empty list
 plot_list <- list() 
-
+master_plot_list <- list() 
 #overall survival: all cohorts. 
 
 
 ###################################################
 #1st element, main plot with all curves. 
-plot_list[[1]]<-ggplot(df1)+
+master_plot_list[[1]]<-ggplot(df1)+
   geom_km(aes(time = aod, 
               color=hist_cat,
               status = event),
@@ -82,16 +82,15 @@ labs(title="Overall Survival",
      color=""
      
 )+
-  theme(plot.title = element_text(hjust = 0.5))
+  theme(plot.title = element_text(hjust = 0.5),
+        aspect.ratio=aspectratio)
 
 
 
-
-plot_list[1]
 
 ###################################################
 
-plot_list[[2]]<-ggplot(df1)+
+master_plot_list[[2]]<-ggplot(df1)+
   geom_km(aes(time = aod, 
               color=hist_grade,
               status = event),
@@ -113,11 +112,13 @@ plot_list[[2]]<-ggplot(df1)+
        color=""
        
   )+
-  theme(plot.title = element_text(hjust = 0.5))
+  theme(plot.title = element_text(hjust = 0.5),
+        aspect.ratio = aspectratio)
 
 
-plot_list[2]
 
+
+master_plot_list[[2]]
 
 ###################################################
 
@@ -140,14 +141,15 @@ plot_list <- lapply(data_list, function(subset_data) {
     ) +
     theme(
       plot.title = element_text(hjust = 0.5),
-      legend.position = "right"
+      legend.position = "right",
+      aspect.ratio = aspectratio
     )
 })
 
 # Combine the plots into a grid
 combined_plot <- grid.arrange(grobs = plot_list, ncol = 1)
 
-
+master_plot_list[[3]]<-combined_plot
 
 
 
@@ -172,14 +174,15 @@ plot_list <- lapply(data_list, function(subset_data) {
     ) +
     theme(
       plot.title = element_text(hjust = 0.5),
-      legend.position = "right"
+      legend.position = "right",
+      aspect.ratio = aspectratio
     )
 })
 
 # Combine the plots into a grid
 combined_plot <- grid.arrange(grobs = plot_list, ncol = 1)
 
-
+master_plot_list[[4]]<-combined_plot
 
 
 ###################################################
@@ -203,14 +206,15 @@ plot_list <- lapply(data_list, function(subset_data) {
     ) +
     theme(
       plot.title = element_text(hjust = 0.5),
-      legend.position = "right"
+      legend.position = "right",
+      aspect.ratio = aspectratio
     )
 })
 
 # Combine the plots into a grid
 combined_plot <- grid.arrange(grobs = plot_list, ncol = 1)
 
-
+master_plot_list[[5]]<-combined_plot
 
 
 ###################################################
@@ -243,17 +247,18 @@ plot_list <- lapply(data_list, function(subset_data) {
     ) +
     theme(
       plot.title = element_text(hjust = 0.5),
-      legend.position = "right"
+      legend.position = "right",
+      aspect.ratio = aspectratio
     )
 })
 
 # Combine the plots into a grid
-combined_plot <- grid.arrange(grobs = plot_list, ncol = 4)
+names(plot_list) <- NULL
+
+combined_plot <- grid.arrange(grobs = plot_list)
 
 
-
-
-
+master_plot_list[[6]]<-combined_plot
 
 
 
@@ -287,7 +292,8 @@ plot_list <- lapply(data_list, function(subset_data) {
     ) +
     theme(
       plot.title = element_text(hjust = 0.5),
-      legend.position = "right"
+      legend.position = "right",
+      aspect.ratio = aspectratio
     )
 })
 plot_list <- lapply(plot_list, function(p) {
@@ -297,10 +303,14 @@ plot_list <- lapply(plot_list, function(p) {
 combined_plot <- grid.arrange(grobs = plot_list, ncol = 4,
                               padding = unit(3, "cm"))
 
-grid.draw(combined_plot)
 
-ggarrange(plotlist=plot_list, common.legend = TRUE)+
-  theme(plot.margin = margin(2,2,2,5, "cm"))
+
+master_plot_list[[7]]<-combined_plot
+
+
+# 
+# ggarrange(plotlist=plot_list, common.legend = TRUE)+
+#   theme(plot.margin = margin(2,2,2,5, "cm"))
 
 
 ###################################################
@@ -333,7 +343,8 @@ plot_list <- lapply(data_list, function(subset_data) {
     ) +
     theme(
       plot.title = element_text(hjust = 0.5),
-      legend.position = "right"
+      legend.position = "right",
+      aspect.ratio = aspectratio
     )
 })
 
@@ -342,7 +353,7 @@ combined_plot <- grid.arrange(grobs = plot_list)
 
 
 
-
+master_plot_list[[8]]<-combined_plot
 
 ###################################################
 colors<-readRDS("ds/cohort_colors.rds")
@@ -374,7 +385,8 @@ plot_list <- lapply(data_list, function(subset_data) {
     ) +
     theme(
       plot.title = element_text(hjust = 0.5),
-      legend.position = "right"
+      legend.position = "right",
+      aspect.ratio = aspectratio
     )
 })
 
@@ -383,7 +395,7 @@ combined_plot <- grid.arrange(grobs = plot_list)
 
 
 
-
+master_plot_list[[9]]<-combined_plot
 
 
 
@@ -397,8 +409,8 @@ library(RColorBrewer)
 # Unique categories
 categories <- unique(df1$hist_catgrade)
 
-# Generate a discrete color palette with 13 unique colors
-color_palette <- brewer.pal(n = max(13, 9), name = "Set3") # Use Set3 for categorical data
+
+
 if (length(categories) > 9) {
   color_palette <- colorRampPalette(brewer.pal(9, "Set3"))(length(categories))
 }
@@ -432,7 +444,8 @@ plot_list <- lapply(data_list, function(subset_data) {
     ) +
     theme(
       plot.title = element_text(hjust = 0.5),
-      legend.position = "right"
+      legend.position = "right",
+      aspect.ratio = aspectratio
     )
 })
 
@@ -440,7 +453,7 @@ plot_list <- lapply(data_list, function(subset_data) {
 combined_plot <- grid.arrange(grobs = plot_list)
 
 
-
+master_plot_list[[10]]<-combined_plot
 
 
 
@@ -484,7 +497,8 @@ plot_list[[split_name]] <- lapply(data_list, function(subset_data) {
     ) +
     theme(
       plot.title = element_text(hjust = 0.5, size=10),
-      legend.position = "right"
+      legend.position = "right",
+      aspect.ratio = aspectratio
     )
 })
 
@@ -493,7 +507,7 @@ plot_list[[split_name]] <- lapply(data_list, function(subset_data) {
 combined_plot <- grid.arrange(grobs = flatten(plot_list), ncol=6)
 
 
-
+master_plot_list[[11]]<-combined_plot
 
 
 
@@ -537,7 +551,8 @@ for (sp in 1:length(split1)){
       ) +
       theme(
         plot.title = element_text(hjust = 0.5, size=10),
-        legend.position = "right"
+        legend.position = "right",
+        aspect.ratio = aspectratio
       )
   })
   
@@ -547,7 +562,7 @@ combined_plot <- grid.arrange(grobs = flatten(plot_list), ncol=6)
 
 
 
-
+master_plot_list[[12]]<-combined_plot
 
 
 
@@ -596,10 +611,75 @@ for (sp in 1:length(split1)){
       ) +
       theme(
         plot.title = element_text(hjust = 0.5, size=10),
-        legend.position = "right"
+        legend.position = "right",
+        aspect.ratio = aspectratio
       )
   })
   
 }
 # Combine the plots into a grid
 combined_plot <- grid.arrange(grobs = flatten(plot_list), ncol=6)
+
+
+master_plot_list[[13]]<-combined_plot
+
+
+
+
+
+for (i in seq_along(master_plot_list)) {
+  plot_to_pdf <- master_plot_list[[i]]
+  
+
+  ggsave(paste0("surv/plots/", "combined_surv_plot", i, ".pdf"),
+         
+         title=paste0("src: ",
+                      
+                      rstudioapi::getSourceEditorContext()$path%>%
+                        sub("/uufs/chpc.utah.edu/common/home/holmen-group1/otrimskig/rchpc/","",.),
+                      
+                      " at ", 
+                      
+                      lubridate::round_date(Sys.time(), "second")
+         ),
+         
+         
+         
+         
+         
+         plot=plot_to_pdf,
+         
+         
+         
+         
+         limitsize = FALSE,
+         
+         
+         height=20,
+         width=50,
+         scale = .5,
+         dpi=600,
+         
+         
+         
+  )
+  
+  
+  
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
